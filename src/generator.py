@@ -60,11 +60,15 @@ def gerar(aluno_id: str, topico: str, tipo: str, versao: str = "v2") -> dict:
       1. Valida parâmetros
       2. Verifica cache (evita chamada à API se já gerado antes)
       3. Monta o prompt via prompt_engine
-      4. Chama a API Gemini
-      5. Parseia o JSON da resposta
+      4. Chama a API Gemini (com retry automático até 3 tentativas)
+      5. Parseia e valida o JSON da resposta (Pydantic)
       6. Salva no cache e no histórico
       7. Retorna o conteúdo gerado
     """
+    import time
+    import logging
+    logger = logging.getLogger(__name__)
+
     # 1. Validar aluno
     aluno = buscar_aluno_por_id(aluno_id)
     if not aluno:
@@ -79,26 +83,51 @@ def gerar(aluno_id: str, topico: str, tipo: str, versao: str = "v2") -> dict:
     # 3. Montar prompt
     prompt = prompt_engine.montar(aluno, topico, tipo, versao)
 
-    # 4. Chamar API
+    # 4. Chamar API com retry
     modelo_nome = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
-    print(f"[API] Gerando {tipo} · {versao} · modelo={modelo_nome}...")
-
     client = _get_client()
-    resposta = client.models.generate_content(
-        model=modelo_nome,
-        contents=prompt
-    )
-    texto_resposta = resposta.text
 
-    # 5. Parsear JSON
-    conteudo = _extrair_json(texto_resposta)
-    conteudo = validar(tipo, conteudo)
+    MAX_TENTATIVAS = 3
+    ultimo_erro = None
 
-    # 6. Persistir
-    cache.salvar(aluno_id, topico, tipo, versao, conteudo)
-    history.registrar(aluno_id, topico, tipo, versao, conteudo, do_cache=False)
+    for tentativa in range(1, MAX_TENTATIVAS + 1):
+        try:
+            logger.info(f"[API] Gerando {tipo} · {versao} · modelo={modelo_nome} (tentativa {tentativa}/{MAX_TENTATIVAS})")
+            print(f"[API] Gerando {tipo} · {versao} · modelo={modelo_nome} (tentativa {tentativa}/{MAX_TENTATIVAS})...")
 
-    return conteudo
+            resposta = client.models.generate_content(
+                model=modelo_nome,
+                contents=prompt
+            )
+
+            # 5. Parsear e validar JSON
+            conteudo = _extrair_json(resposta.text)
+            conteudo = validar(tipo, conteudo)
+
+            # 6. Persistir
+            cache.salvar(aluno_id, topico, tipo, versao, conteudo)
+            history.registrar(aluno_id, topico, tipo, versao, conteudo, do_cache=False)
+
+            return conteudo
+
+        except ValueError as e:
+            # JSON inválido ou schema não bateu — tenta de novo
+            ultimo_erro = e
+            logger.warning(f"Tentativa {tentativa} falhou (JSON/schema): {e}")
+            if tentativa < MAX_TENTATIVAS:
+                time.sleep(2)
+
+        except Exception as e:
+            # Erro de API (429, 404, etc) — não adianta tentar de novo imediatamente
+            ultimo_erro = e
+            msg = str(e)
+            if "429" in msg:
+                logger.warning(f"Rate limit atingido. Aguardando 65s antes de tentar novamente...")
+                time.sleep(65)
+            else:
+                raise  # outros erros propagam imediatamente
+
+    raise ValueError(f"Falha após {MAX_TENTATIVAS} tentativas. Último erro: {ultimo_erro}")
 
 
 def comparar(aluno_id: str, topico: str, tipo: str) -> dict:
