@@ -300,18 +300,39 @@
       }
     }
 
-    function renderConteudo(c) {
-      if (!c) return '<span class="error-msg">Sem conteúdo</span>';
-      let html = '';
-      for (const [k, v] of Object.entries(c)) {
-        if (k === 'tipo' || k === 'versao_prompt') continue;
-        html += `<div class="field">
-          <div class="field-label">${k.replace(/_/g,' ')}</div>
-          <div class="field-value">${formatValue(v)}</div>
-        </div>`;
-      }
-      return html;
-    }
+  function renderConteudo(c) {
+  if (!c) return '<span class="error-msg">Sem conteúdo</span>';
+  
+  // Badges de features presentes
+  const features = [];
+  if (c.conceitos_chave) features.push({label: 'Conceitos-chave', color: 'var(--accent)'});
+  if (c.analogia_utilizada) features.push({label: 'Analogia declarada', color: 'var(--accent)'});
+  if (c.estilo_aplicado) features.push({label: `VARK: ${c.estilo_aplicado}`, color: 'var(--accent2)'});
+  if (c.perguntas && c.perguntas[0]?.nivel_cognitivo) features.push({label: 'Taxonomia de Bloom', color: 'var(--accent2)'});
+  if (c.exemplos && c.exemplos[0]?.conexao_com_aluno) features.push({label: 'Conexão personalizada', color: 'var(--accent2)'});
+  if (c.dica_de_uso) features.push({label: 'Dica de uso', color: 'var(--accent)'});
+
+  let html = '';
+  
+  if (features.length > 0) {
+    html += `<div style="display:flex; flex-wrap:wrap; gap:0.4rem; margin-bottom:1.2rem">`;
+    features.forEach(f => {
+      html += `<span style="padding:0.2rem 0.6rem; border-radius:4px; font-size:0.7rem; 
+               font-family:'Space Mono',monospace; background:${f.color}20; 
+               color:${f.color}; border:1px solid ${f.color}40">✓ ${f.label}</span>`;
+    });
+    html += `</div>`;
+  }
+
+  for (const [k, v] of Object.entries(c)) {
+    if (k === 'tipo' || k === 'versao_prompt' || k === 'nivel_adequado') continue;
+    html += `<div class="field">
+      <div class="field-label">${k.replace(/_/g,' ')}</div>
+      <div class="field-value">${formatValue(v)}</div>
+    </div>`;
+  }
+  return html;
+}
 
     function formatValue(v) {
   if (Array.isArray(v)) {
