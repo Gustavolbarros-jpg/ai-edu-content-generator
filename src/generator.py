@@ -11,6 +11,7 @@ import re
 from google import genai
 from dotenv import load_dotenv
 
+from src.schemas import validar
 from src import cache, history
 from src import prompt_engine
 from src.students import buscar_aluno_por_id
@@ -91,6 +92,7 @@ def gerar(aluno_id: str, topico: str, tipo: str, versao: str = "v2") -> dict:
 
     # 5. Parsear JSON
     conteudo = _extrair_json(texto_resposta)
+    conteudo = validar(tipo, conteudo)
 
     # 6. Persistir
     cache.salvar(aluno_id, topico, tipo, versao, conteudo)
