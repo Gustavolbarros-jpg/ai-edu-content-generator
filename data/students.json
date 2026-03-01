@@ -1,0 +1,59 @@
+{
+  "students": [
+    {
+      "id": "aluno_01",
+      "nome": "Lucas Mendes",
+      "idade": 10,
+      "serie": "5º ano - Ensino Fundamental",
+      "nivel_conhecimento": "iniciante",
+      "estilo_aprendizado": "visual",
+      "interesses": ["futebol", "videogames", "desenho"],
+      "dificuldades": ["abstrações matemáticas", "textos longos"],
+      "observacoes": "Aprende melhor com imagens, cores e exemplos do cotidiano. Tem dificuldade com conceitos muito abstratos."
+    },
+    {
+      "id": "aluno_02",
+      "nome": "Ana Beatriz Costa",
+      "idade": 15,
+      "serie": "1º ano - Ensino Médio",
+      "nivel_conhecimento": "intermediario",
+      "estilo_aprendizado": "leitura-escrita",
+      "interesses": ["literatura", "música", "ciências"],
+      "dificuldades": ["cálculos complexos", "física experimental"],
+      "observacoes": "Prefere aprender por meio de textos estruturados e anotações. Gosta de definições precisas e exemplos escritos."
+    },
+    {
+      "id": "aluno_03",
+      "nome": "Pedro Alves",
+      "idade": 17,
+      "serie": "3º ano - Ensino Médio",
+      "nivel_conhecimento": "avancado",
+      "estilo_aprendizado": "cinestesico",
+      "interesses": ["robótica", "programação", "matemática"],
+      "dificuldades": ["disciplinas de humanas", "memorização de datas"],
+      "observacoes": "Aprende fazendo. Precisa de exercícios práticos e projetos concretos para fixar o conteúdo."
+    },
+    {
+      "id": "aluno_04",
+      "nome": "Sofia Ramos",
+      "idade": 8,
+      "serie": "3º ano - Ensino Fundamental",
+      "nivel_conhecimento": "iniciante",
+      "estilo_aprendizado": "auditivo",
+      "interesses": ["música", "histórias", "animais"],
+      "dificuldades": ["leitura silenciosa", "exercícios escritos longos"],
+      "observacoes": "Aprende melhor ouvindo explicações e histórias. Gosta de rimas, ritmo e narrativas para fixar conceitos."
+    },
+    {
+      "id": "aluno_05",
+      "nome": "Rafael Torres",
+      "idade": 13,
+      "serie": "8º ano - Ensino Fundamental",
+      "nivel_conhecimento": "intermediario",
+      "estilo_aprendizado": "visual",
+      "interesses": ["astronomia", "história", "esportes"],
+      "dificuldades": ["interpretação de textos filosóficos", "álgebra"],
+      "observacoes": "Se dá bem com diagramas, mapas e gráficos. Precisa ver relações entre conceitos para entender o todo."
+    }
+  ]
+}
