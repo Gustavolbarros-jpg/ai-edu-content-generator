@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EduPrompt — Plataforma de Conteúdo Educacional</title>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0f0f0f;
+      --surface: #1a1a1a;
+      --border: #2a2a2a;
+      --accent: #00e5a0;
+      --accent2: #7b61ff;
+      --text: #f0f0f0;
+      --muted: #666;
+      --error: #ff4d4d;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Sans', sans-serif;
+      min-height: 100vh;
+      padding: 2rem;
+    }
+    header {
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 1.5rem;
+      margin-bottom: 2rem;
+      display: flex;
+      align-items: baseline;
+      gap: 1rem;
+    }
+    header h1 {
+      font-family: 'Space Mono', monospace;
+      font-size: 1.4rem;
+      color: var(--accent);
+      letter-spacing: -0.5px;
+    }
+    header span {
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+    .layout {
+      display: grid;
+      grid-template-columns: 380px 1fr;
+      gap: 2rem;
+      max-width: 1200px;
+    }
+    .panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.5rem;
+    }
+    .panel h2 {
+      font-family: 'Space Mono', monospace;
+      font-size: 0.75rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin-bottom: 1.5rem;
+    }
+    label {
+      display: block;
+      font-size: 0.8rem;
+      color: var(--muted);
+      margin-bottom: 0.4rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    select, input {
+      width: 100%;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 0.7rem 0.9rem;
+      border-radius: 6px;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.95rem;
+      margin-bottom: 1.2rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    select:focus, input:focus { border-color: var(--accent); }
+    .btn-group { display: flex; gap: 0.8rem; margin-top: 0.5rem; }
+    button {
+      flex: 1;
+      padding: 0.8rem;
+      border: none;
+      border-radius: 6px;
+      font-family: 'Space Mono', monospace;
+      font-size: 0.8rem;
+      cursor: pointer;
+      transition: opacity 0.2s;
+    }
+    button:hover { opacity: 0.85; }
+    .btn-primary { background: var(--accent); color: #000; font-weight: 700; }
+    .btn-secondary { background: var(--accent2); color: #fff; }
+    .output-panel { display: flex; flex-direction: column; gap: 1rem; }
+    .tab-bar {
+      display: flex;
+      gap: 0.5rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 1rem;
+    }
+    .tab {
+      padding: 0.4rem 1rem;
+      border-radius: 4px;
+      font-size: 0.8rem;
+      font-family: 'Space Mono', monospace;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      flex: none;
+    }
+    .tab.active { background: var(--accent); color: #000; border-color: var(--accent); }
+    #output {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.5rem;
+      min-height: 400px;
+      font-size: 0.9rem;
+      line-height: 1.7;
+      white-space: pre-wrap;
+      overflow-y: auto;
+      flex: 1;
+    }
+    .loading { color: var(--accent); font-family: 'Space Mono', monospace; font-size: 0.85rem; }
+    .error-msg { color: var(--error); font-family: 'Space Mono', monospace; font-size: 0.85rem; }
+    .tag {
+      display: inline-block;
+      padding: 0.2rem 0.6rem;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-family: 'Space Mono', monospace;
+      margin-bottom: 1rem;
+    }
+    .tag-v1 { background: #2a2a2a; color: var(--muted); }
+    .tag-v2 { background: #1a2a1a; color: var(--accent); }
+    .field { margin-bottom: 1rem; }
+    .field-label { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 0.3rem; }
+    .field-value { font-size: 0.95rem; line-height: 1.6; }
+    .compare-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+    .compare-col { background: var(--bg); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; }
+    .compare-col h3 { font-family: 'Space Mono', monospace; font-size: 0.75rem; margin-bottom: 1rem; }
+    pre { font-family: 'Space Mono', monospace; font-size: 0.8rem; white-space: pre-wrap; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>EduPrompt</h1>
+    <span>Plataforma de Conteúdo Educacional com IA</span>
+  </header>
+
+  <div class="layout">
+    <!-- Painel de controle -->
+    <div class="panel">
+      <h2>Configuração</h2>
+
+      <label>Aluno</label>
+      <select id="aluno">
+        {% for p in perfis %}
+        <option value="{{ p.id }}">{{ p.nome }} ({{ p.idade }} anos · {{ p.nivel_conhecimento }})</option>
+        {% endfor %}
+      </select>
+
+      <label>Tópico</label>
+      <input type="text" id="topico" placeholder="ex: fotossíntese, frações, gravidade..." value="fotossíntese">
+
+      <label>Tipo de Conteúdo</label>
+      <select id="tipo">
+        <option value="explicacao_conceitual">Explicação Conceitual</option>
+        <option value="exemplos_praticos">Exemplos Práticos</option>
+        <option value="perguntas_reflexao">Perguntas de Reflexão</option>
+        <option value="resumo_visual">Resumo Visual</option>
+      </select>
+
+      <label>Versão do Prompt</label>
+      <select id="versao">
+        <option value="v2">v2 — Otimizado (Chain-of-Thought + Bloom)</option>
+        <option value="v1">v1 — Base (referência)</option>
+      </select>
+
+      <div class="btn-group">
+        <button class="btn-primary" onclick="gerarConteudo()">▶ Gerar</button>
+        <button class="btn-secondary" onclick="compararVersoes()">⇄ Comparar</button>
+      </div>
+    </div>
+
+    <!-- Painel de output -->
+    <div class="output-panel">
+      <div class="tab-bar">
+        <button class="tab active" onclick="setTab('resultado')">Resultado</button>
+        <button class="tab" onclick="setTab('json')">JSON bruto</button>
+        <button class="tab" onclick="setTab('historico')">Histórico</button>
+      </div>
+      <div id="output">
+        <span style="color: var(--muted); font-family: 'Space Mono', monospace; font-size: 0.85rem;">
+          // Configure um aluno e tópico, depois clique em Gerar ou Comparar.
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let currentTab = 'resultado';
+    let lastData = null;
+
+    function setTab(tab) {
+      currentTab = tab;
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      event.target.classList.add('active');
+      if (lastData) renderOutput(lastData);
+    }
+
+    async function gerarConteudo() {
+      const payload = {
+        aluno_id: document.getElementById('aluno').value,
+        topico: document.getElementById('topico').value,
+        tipo: document.getElementById('tipo').value,
+        versao: document.getElementById('versao').value
+      };
+
+      setLoading(`Gerando ${payload.tipo} · ${payload.versao}...`);
+
+      try {
+        const res = await fetch('/gerar', {
+          method: 'POST',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify(payload)
+        });
+        const data = await res.json();
+        if (data.status === 'ok') {
+          lastData = {type: 'single', versao: payload.versao, conteudo: data.conteudo};
+          renderOutput(lastData);
+        } else {
+          setError(data.mensagem);
+        }
+      } catch(e) {
+        setError(e.message);
+      }
+    }
+
+    async function compararVersoes() {
+      const payload = {
+        aluno_id: document.getElementById('aluno').value,
+        topico: document.getElementById('topico').value,
+        tipo: document.getElementById('tipo').value
+      };
+
+      setLoading('Gerando v1 e v2 para comparação...');
+
+      try {
+        const res = await fetch('/comparar', {
+          method: 'POST',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify(payload)
+        });
+        const data = await res.json();
+        if (data.status === 'ok') {
+          lastData = {type: 'compare', comparacao: data.comparacao};
+          renderOutput(lastData);
+        } else {
+          setError(data.mensagem);
+        }
+      } catch(e) {
+        setError(e.message);
+      }
+    }
+
+    function renderOutput(data) {
+      const out = document.getElementById('output');
+
+      if (currentTab === 'json') {
+        out.innerHTML = '<pre>' + JSON.stringify(data, null, 2) + '</pre>';
+        return;
+      }
+
+      if (data.type === 'compare') {
+        out.innerHTML = `
+          <div class="compare-grid">
+            <div class="compare-col">
+              <h3 style="color: var(--muted)">▸ V1 — BASE</h3>
+              ${renderConteudo(data.comparacao.v1)}
+            </div>
+            <div class="compare-col">
+              <h3 style="color: var(--accent)">▸ V2 — OTIMIZADO</h3>
+              ${renderConteudo(data.comparacao.v2)}
+            </div>
+          </div>`;
+      } else {
+        const tagClass = data.versao === 'v2' ? 'tag-v2' : 'tag-v1';
+        out.innerHTML = `
+          <span class="tag ${tagClass}">${data.versao.toUpperCase()}</span>
+          ${renderConteudo(data.conteudo)}`;
+      }
+    }
+
+    function renderConteudo(c) {
+      if (!c) return '<span class="error-msg">Sem conteúdo</span>';
+      let html = '';
+      for (const [k, v] of Object.entries(c)) {
+        if (k === 'tipo' || k === 'versao_prompt') continue;
+        html += `<div class="field">
+          <div class="field-label">${k.replace(/_/g,' ')}</div>
+          <div class="field-value">${formatValue(v)}</div>
+        </div>`;
+      }
+      return html;
+    }
+
+    function formatValue(v) {
+  if (Array.isArray(v)) {
+    return v.map(item => {
+      if (typeof item === 'object') {
+        // Se for pergunta com nivel_cognitivo, formata bonito
+        if (item.pergunta) {
+          return `<div style="margin-bottom:1rem; padding:0.8rem; background:var(--bg); border-radius:6px; border-left: 3px solid var(--accent)">
+            <div style="font-size:0.7rem; color:var(--accent); font-family:'Space Mono',monospace; margin-bottom:0.4rem">
+              ${item.numero ? item.numero + '. ' : ''}${item.nivel_cognitivo ? item.nivel_cognitivo.toUpperCase() : ''}
+            </div>
+            <div style="margin-bottom:0.4rem">${item.pergunta}</div>
+            ${item.objetivo_pedagogico ? `<div style="font-size:0.8rem; color:var(--muted)">↳ ${item.objetivo_pedagogico}</div>` : ''}
+          </div>`;
+        }
+        // Se for exemplo com nivel/titulo/descricao
+        if (item.titulo) {
+          return `<div style="margin-bottom:1rem; padding:0.8rem; background:var(--bg); border-radius:6px; border-left: 3px solid var(--accent2)">
+            <div style="font-size:0.7rem; color:var(--accent2); font-family:'Space Mono',monospace; margin-bottom:0.4rem">
+              ${item.nivel ? item.nivel.toUpperCase() : ''}
+            </div>
+            <div style="font-weight:600; margin-bottom:0.4rem">${item.titulo}</div>
+            <div>${item.descricao}</div>
+            ${item.conexao_com_aluno ? `<div style="font-size:0.8rem; color:var(--muted); margin-top:0.4rem">↳ ${item.conexao_com_aluno}</div>` : ''}
+          </div>`;
+        }
+        return '<pre>' + JSON.stringify(item, null, 2) + '</pre>';
+      }
+      return `<div style="margin-bottom:0.4rem">• ${item}</div>`;
+    }).join('');
+  }
+  if (typeof v === 'object') return '<pre>' + JSON.stringify(v, null, 2) + '</pre>';
+  return String(v).replace(/\n/g, '<br>');
+}
+
+    function setLoading(msg) {
+      document.getElementById('output').innerHTML = `<span class="loading">⟳ ${msg}</span>`;
+    }
+
+    function setError(msg) {
+      document.getElementById('output').innerHTML = `<span class="error-msg">✗ ${msg}</span>`;
+    }
+  </script>
+</body>
+</html>
