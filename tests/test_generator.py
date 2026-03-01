@@ -91,3 +91,36 @@ def test_comparar_retorna_v1_e_v2(mock_api):
     resultado = comparar("aluno_01", "fotossíntese", "explicacao_conceitual")
     assert "v1" in resultado["comparacao"]
     assert "v2" in resultado["comparacao"]
+
+def test_retry_em_json_invalido(monkeypatch):
+    """Verifica que o sistema tenta novamente quando o JSON é inválido."""
+    import json
+    chamadas = {"count": 0}
+
+    def mock_generate(*args, **kwargs):
+        chamadas["count"] += 1
+        if chamadas["count"] < 3:
+            # Primeiras tentativas retornam JSON inválido
+            return MagicMock(text="isso não é json válido {{{")
+        # Terceira tentativa retorna sucesso
+        return MagicMock(text=json.dumps(CONTEUDO_FAKE_V1))
+
+    client_mock = MagicMock()
+    client_mock.models.generate_content.side_effect = mock_generate
+    monkeypatch.setattr("src.generator._client", client_mock)
+
+    resultado = gerar("aluno_01", "fotossíntese", "explicacao_conceitual", "v1")
+    assert resultado["tipo"] == "explicacao_conceitual"
+    assert chamadas["count"] == 3
+
+
+def test_retry_esgotado_lanca_erro(monkeypatch):
+    """Verifica que após 3 tentativas falhas o erro é propagado."""
+    client_mock = MagicMock()
+    client_mock.models.generate_content.return_value = MagicMock(
+        text="json inválido {{{"
+    )
+    monkeypatch.setattr("src.generator._client", client_mock)
+
+    with pytest.raises(ValueError, match="Falha após"):
+        gerar("aluno_01", "fotossíntese", "explicacao_conceitual", "v1")
