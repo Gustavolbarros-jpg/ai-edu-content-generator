@@ -1849,6 +1849,134 @@
         "dica_de_uso": "Olá, Lucas! Este mapa foi feito para você 'ver' e entender a fotossíntese de um jeito divertido! 😊\n\n1.  **Olhe as imagens e símbolos:** Cada um te ajuda a lembrar o que cada coisa significa. O ☀️ é o Sol, a 💧 é a água, a 🍬 é o açúcar! Eles são como ícones de um jogo!\n2.  **Siga as linhas:** Elas te guiam de uma ideia para a próxima. Comece pelo nome grande no centro e veja os três grandes \"galhos\" que saem dele. Depois, siga os \"galhinhos\" menores para os detalhes.\n3.  **Crie sua versão:** Se você gosta de desenhar, tente fazer seu próprio mapa mental com desenhos inspirados no futebol ou videogames, para cada ingrediente ou recompensa da planta!\n4.  **Conecte com seu dia a dia:** Lembre que a planta faz o próprio \"lanche\" (açúcar) e nos dá o ar puro que precisamos para correr e jogar bola! As plantas são super-heroínas!",
         "estilo_aplicado": "visual"
       }
+    },
+    {
+      "id": "GEN_0081",
+      "gerado_em": "2026-03-02T13:34:03.880644",
+      "aluno_id": "aluno_01",
+      "topico": "fotossíntese",
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v1",
+      "do_cache": false,
+      "conteudo": {
+        "tipo": "explicacao_conceitual",
+        "versao_prompt": "v1",
+        "titulo": "Teste v1",
+        "conteudo": "Explicação básica de teste.",
+        "conceitos_chave": null,
+        "analogia_utilizada": null,
+        "nivel_adequado": null
+      }
+    },
+    {
+      "id": "GEN_0082",
+      "gerado_em": "2026-03-02T13:34:03.901871",
+      "aluno_id": "aluno_01",
+      "topico": "fotossíntese",
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v1",
+      "do_cache": false,
+      "conteudo": {
+        "tipo": "explicacao_conceitual",
+        "versao_prompt": "v1",
+        "titulo": "Teste v1",
+        "conteudo": "Explicação básica de teste.",
+        "conceitos_chave": null,
+        "analogia_utilizada": null,
+        "nivel_adequado": null
+      }
+    },
+    {
+      "id": "GEN_0083",
+      "gerado_em": "2026-03-02T13:34:03.920384",
+      "aluno_id": "aluno_01",
+      "topico": "fotossíntese",
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v1",
+      "do_cache": false,
+      "conteudo": {
+        "tipo": "explicacao_conceitual",
+        "versao_prompt": "v1",
+        "titulo": "Teste v1",
+        "conteudo": "Explicação básica de teste.",
+        "conceitos_chave": null,
+        "analogia_utilizada": null,
+        "nivel_adequado": null
+      }
+    },
+    {
+      "id": "GEN_0084",
+      "gerado_em": "2026-03-02T13:34:03.935490",
+      "aluno_id": "aluno_01",
+      "topico": "fotossíntese",
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v1",
+      "do_cache": true,
+      "conteudo": {
+        "tipo": "explicacao_conceitual",
+        "versao_prompt": "v1",
+        "titulo": "Teste v1",
+        "conteudo": "Explicação básica de teste.",
+        "conceitos_chave": null,
+        "analogia_utilizada": null,
+        "nivel_adequado": null
+      }
+    },
+    {
+      "id": "GEN_0085",
+      "gerado_em": "2026-03-02T13:34:03.958640",
+      "aluno_id": "aluno_01",
+      "topico": "fotossíntese",
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v1",
+      "do_cache": false,
+      "conteudo": {
+        "tipo": "explicacao_conceitual",
+        "versao_prompt": "v1",
+        "titulo": "Teste v1",
+        "conteudo": "Explicação básica de teste.",
+        "conceitos_chave": null,
+        "analogia_utilizada": null,
+        "nivel_adequado": null
+      }
+    },
+    {
+      "id": "GEN_0086",
+      "gerado_em": "2026-03-02T13:34:03.973911",
+      "aluno_id": "aluno_01",
+      "topico": "fotossíntese",
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v2",
+      "do_cache": false,
+      "conteudo": {
+        "tipo": "explicacao_conceitual",
+        "versao_prompt": "v2",
+        "titulo": "Teste v2",
+        "conteudo": "Explicação avançada de teste.",
+        "conceitos_chave": [
+          "conceito 1"
+        ],
+        "analogia_utilizada": "analogia de teste",
+        "nivel_adequado": null
+      }
+    },
+    {
+      "id": "GEN_0087",
+      "gerado_em": "2026-03-02T13:34:07.992379",
+      "aluno_id": "aluno_01",
+      "topico": "fotossíntese",
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v1",
+      "do_cache": false,
+      "conteudo": {
+        "tipo": "explicacao_conceitual",
+        "versao_prompt": "v1",
+        "titulo": "Teste v1",
+        "conteudo": "Explicação básica de teste.",
+        "conceitos_chave": null,
+        "analogia_utilizada": null,
+        "nivel_adequado": null
+      }
     }
   ]
 }
