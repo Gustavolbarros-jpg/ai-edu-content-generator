@@ -2,16 +2,19 @@ import json
 import os
 import time
 import sys
+
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from src.generator import gerar
-\
+
 ALUNOS = ["aluno_01", "aluno_02", "aluno_03", "aluno_04", "aluno_05"]
 TIPOS = ["explicacao_conceitual", "exemplos_praticos", "perguntas_reflexao", "resumo_visual"]
 VERSOES = ["v1", "v2"]
 TOPICO = "fotossíntese"
 
-os.makedirs("samples", exist_ok=True)
-caminho = "samples/all_results.json"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.makedirs(os.path.join(BASE_DIR, "samples"), exist_ok=True)
+caminho = os.path.join(BASE_DIR, "samples", "all_results.json")
 
 # Carrega resultados anteriores se existirem
 if os.path.exists(caminho):
