@@ -8,8 +8,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 RUN mkdir -p cache data && \
-    echo '{}' > cache/responses.json && \
-    echo '{"historico": []}' > data/history.json
+    RUN mkdir -p cache data
 
 EXPOSE 5000
 
