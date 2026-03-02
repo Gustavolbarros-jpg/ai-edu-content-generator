@@ -7,6 +7,10 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
+RUN mkdir -p cache data && \
+    echo '{}' > cache/responses.json && \
+    echo '{"historico": []}' > data/history.json
+
 EXPOSE 5000
 
 CMD ["python", "app.py"]
