@@ -1,0 +1,102 @@
+[
+  {
+    "aluno_id": "aluno_01",
+    "topico": "fotossíntese",
+    "tipo": "explicacao_conceitual",
+    "avaliacao": {
+      "v1": {
+        "adequacao_linguagem": 5,
+        "clareza_pedagogica": 5,
+        "personalizacao": 5,
+        "riqueza_conteudo": 4,
+        "media": 4.75,
+        "justificativa": "O conteúdo possui uma linguagem super acessível e cativante, com uma progressão didática clara e analogias que conectam de forma equilibrada aos interesses do aluno."
+      },
+      "v2": {
+        "adequacao_linguagem": 5,
+        "clareza_pedagogica": 5,
+        "personalizacao": 4,
+        "riqueza_conteudo": 4,
+        "media": 4.5,
+        "justificativa": "A estrutura com subtítulos é excelente para o estilo visual, e a analogia de crafting é muito bem explorada, embora a personalização tenha focado predominantemente em videogames."
+      },
+      "vencedor": "v1",
+      "ganho_percentual": 5.56
+    }
+  },
+  {
+    "aluno_id": "aluno_01",
+    "topico": "fotossíntese",
+    "tipo": "exemplos_praticos",
+    "avaliacao": {
+      "v1": {
+        "adequacao_linguagem": 4,
+        "clareza_pedagogica": 4,
+        "personalizacao": 4,
+        "riqueza_conteudo": 4,
+        "media": 4.0,
+        "justificativa": "O Conteúdo V1 utiliza uma linguagem adequada e metáforas criativas que tocam nos interesses do aluno, apresentando o tema de forma clara. Contudo, a personalização e a progressão didática poderiam ser mais explícitas para o estilo de aprendizado visual."
+      },
+      "v2": {
+        "adequacao_linguagem": 5,
+        "clareza_pedagogica": 5,
+        "personalizacao": 5,
+        "riqueza_conteudo": 5,
+        "media": 5.0,
+        "justificativa": "O Conteúdo V2 é excepcional, personalizando a experiência ao aluno com endereçamento direto, integração inteligente dos interesses, estímulo explícito ao aprendizado visual e uma progressão didática clara e bem definida que enriquece a compreensão do tema."
+      },
+      "vencedor": "v2",
+      "ganho_percentual": 25.0
+    }
+  },
+  {
+    "aluno_id": "aluno_01",
+    "topico": "fotossíntese",
+    "tipo": "perguntas_reflexao",
+    "avaliacao": {
+      "v1": {
+        "adequacao_linguagem": 5,
+        "clareza_pedagogica": 4,
+        "personalizacao": 2,
+        "riqueza_conteudo": 4,
+        "media": 3.75,
+        "justificativa": "O conteúdo V1 utiliza uma linguagem e tom adequados para a idade e nível do aluno, com uma progressão lógica dos conceitos. No entanto, a personalização é limitada, não explorando os interesses específicos do Lucas."
+      },
+      "v2": {
+        "adequacao_linguagem": 5,
+        "clareza_pedagogica": 5,
+        "personalizacao": 5,
+        "riqueza_conteudo": 5,
+        "media": 5.0,
+        "justificativa": "O conteúdo V2 é excelente em todos os critérios, integrando magistralmente os interesses do aluno (desenho, videogames) e seu estilo de aprendizado visual, com uma estrutura pedagógica clara e progressiva que estimula diferentes níveis cognitivos."
+      },
+      "vencedor": "v2",
+      "ganho_percentual": 33.33
+    }
+  },
+  {
+    "aluno_id": "aluno_01",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "avaliacao": {
+      "v1": {
+        "adequacao_linguagem": 5,
+        "clareza_pedagogica": 5,
+        "personalizacao": 4,
+        "riqueza_conteudo": 4,
+        "media": 4.5,
+        "justificativa": "O conteúdo V1 é muito claro e usa linguagem e comparações adequadas para a idade e interesses do Lucas, como videogames e futebol. Poderia ter explorado mais diretamente o interesse em desenho."
+      },
+      "v2": {
+        "adequacao_linguagem": 5,
+        "clareza_pedagogica": 5,
+        "personalizacao": 5,
+        "riqueza_conteudo": 4,
+        "media": 4.75,
+        "justificativa": "V2 se destaca pela clareza pedagógica ampliada por uma legenda e dicas de uso que guiam a interação, e por uma personalização superior ao incentivar diretamente o desenho, além das referências a futebol e videogames."
+      },
+      "vencedor": "v2",
+      "ganho_percentual": 5.56
+    }
+  }
+]
