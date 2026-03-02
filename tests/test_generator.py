@@ -124,3 +124,88 @@ def test_retry_esgotado_lanca_erro(monkeypatch):
 
     with pytest.raises(ValueError, match="Falha após"):
         gerar("aluno_01", "fotossíntese", "explicacao_conceitual", "v1")
+
+
+# ============================================================
+# Testes do LLM-as-a-Judge (evaluator)
+# ============================================================
+
+from src.evaluator import avaliar
+from src.students import buscar_aluno_por_id
+
+AVALIACAO_FAKE = {
+    "v1": {
+        "adequacao_linguagem": 4,
+        "clareza_pedagogica": 4,
+        "personalizacao": 3,
+        "riqueza_conteudo": 3,
+        "media": 3.5,
+        "justificativa": "Conteúdo adequado mas genérico."
+    },
+    "v2": {
+        "adequacao_linguagem": 5,
+        "clareza_pedagogica": 5,
+        "personalizacao": 5,
+        "riqueza_conteudo": 5,
+        "media": 5.0,
+        "justificativa": "Excelente personalização e clareza."
+    },
+    "vencedor": "v2",
+    "ganho_percentual": 43
+}
+
+def test_avaliar_retorna_dict(monkeypatch):
+    """Verifica que avaliar() retorna um dicionário."""
+    import json
+    client_mock = MagicMock()
+    client_mock.models.generate_content.return_value = MagicMock(
+        text=json.dumps(AVALIACAO_FAKE)
+    )
+    monkeypatch.setattr("src.evaluator._client", client_mock)
+
+    aluno = buscar_aluno_por_id("aluno_01")
+    resultado = avaliar(aluno, "explicacao_conceitual", CONTEUDO_FAKE_V1, CONTEUDO_FAKE_V1)
+    assert isinstance(resultado, dict)
+
+
+def test_avaliar_tem_campos_obrigatorios(monkeypatch):
+    """Verifica que o resultado tem v1, v2 e vencedor."""
+    import json
+    client_mock = MagicMock()
+    client_mock.models.generate_content.return_value = MagicMock(
+        text=json.dumps(AVALIACAO_FAKE)
+    )
+    monkeypatch.setattr("src.evaluator._client", client_mock)
+
+    aluno = buscar_aluno_por_id("aluno_01")
+    resultado = avaliar(aluno, "explicacao_conceitual", CONTEUDO_FAKE_V1, CONTEUDO_FAKE_V1)
+    assert "v1" in resultado
+    assert "v2" in resultado
+    assert "vencedor" in resultado
+
+
+def test_avaliar_vencedor_valido(monkeypatch):
+    """Verifica que vencedor é v1 ou v2."""
+    import json
+    client_mock = MagicMock()
+    client_mock.models.generate_content.return_value = MagicMock(
+        text=json.dumps(AVALIACAO_FAKE)
+    )
+    monkeypatch.setattr("src.evaluator._client", client_mock)
+
+    aluno = buscar_aluno_por_id("aluno_01")
+    resultado = avaliar(aluno, "explicacao_conceitual", CONTEUDO_FAKE_V1, CONTEUDO_FAKE_V1)
+    assert resultado["vencedor"] in ["v1", "v2"]
+
+
+def test_avaliar_json_invalido_lanca_erro(monkeypatch):
+    """Verifica que JSON inválido do juiz lança ValueError."""
+    client_mock = MagicMock()
+    client_mock.models.generate_content.return_value = MagicMock(
+        text="isso não é json {{{"
+    )
+    monkeypatch.setattr("src.evaluator._client", client_mock)
+
+    aluno = buscar_aluno_por_id("aluno_01")
+    with pytest.raises(ValueError):
+        avaliar(aluno, "explicacao_conceitual", CONTEUDO_FAKE_V1, CONTEUDO_FAKE_V1)
