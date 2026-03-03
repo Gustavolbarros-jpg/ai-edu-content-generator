@@ -1979,22 +1979,6 @@
   },
   {
     "id": "GEN_0088",
-<<<<<<< HEAD
-    "gerado_em": "2026-03-03T10:21:24.326013",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-=======
     "gerado_em": "2026-03-03T11:04:20.222980",
     "aluno_id": "aluno_01",
     "topico": "fotossíntese",
@@ -2009,27 +1993,10 @@
       "legenda": null,
       "dica_de_uso": null,
       "estilo_aplicado": null
->>>>>>> develop
     }
   },
   {
     "id": "GEN_0089",
-<<<<<<< HEAD
-    "gerado_em": "2026-03-03T10:21:24.345868",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-=======
     "gerado_em": "2026-03-03T11:04:48.177301",
     "aluno_id": "aluno_01",
     "topico": "fotossíntese",
@@ -2044,27 +2011,10 @@
       "legenda": "O mapa mental inicia com o tópico principal (Nível 0) no centro. Dele, ramificam-se quatro conceitos-chave (Nível 1), que são as grandes ideias da fotossíntese. Cada um desses conceitos se desdobra em dois detalhes ou exemplos (Nível 2), que complementam e ilustram a ideia principal. A hierarquia é indicada pela indentação e os caracteres como '├──' e '└──' mostram as conexões entre as ideias.",
       "dica_de_uso": "Lucas, use este mapa como um 'cartaz' visual para estudar! Comece lendo a ideia central (FOTOSSÍNTESE). Depois, siga as 'linhas' para explorar cada parte. Tente associar os emojis com as palavras (ex: ☀️ com Sol, 🏭 com fábrica). Você pode até tentar desenhar cada ramificação em seu caderno, criando seus próprios símbolos ou personagens para cada 'ingrediente' e 'produto'. Isso vai te ajudar a 'ver' o processo e a memorizar tudo de um jeito super legal, como se estivesse jogando um videogame de ciências!",
       "estilo_aplicado": "visual"
->>>>>>> develop
     }
   },
   {
     "id": "GEN_0090",
-<<<<<<< HEAD
-    "gerado_em": "2026-03-03T10:21:24.364502",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-=======
     "gerado_em": "2026-03-03T11:05:01.186419",
     "aluno_id": "aluno_02",
     "topico": "fotossíntese",
@@ -2079,27 +2029,10 @@
       "legenda": null,
       "dica_de_uso": null,
       "estilo_aplicado": null
->>>>>>> develop
     }
   },
   {
     "id": "GEN_0091",
-<<<<<<< HEAD
-    "gerado_em": "2026-03-03T10:21:24.382795",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": true,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-=======
     "gerado_em": "2026-03-03T11:05:16.750542",
     "aluno_id": "aluno_02",
     "topico": "fotossíntese",
@@ -2114,27 +2047,10 @@
       "legenda": "O mapa se organiza a partir do tema central 'FOTOSSÍNTESE'. Os ramos de Nível 1 ('O QUE É?', 'COMO ACONTECE?', 'QUAL A IMPORTÂNCIA?') representam os conceitos-chave. Os sub-ramos de Nível 2 ('Definição Simples', 'Os Atores', 'Ingredientes', 'Onde Ocorre', 'Para a Terra', 'Para Nossos Corpos') fornecem detalhes e exemplos específicos para cada conceito principal. Cada nó inclui uma definição curta, um 'nome sonoro' e, sempre que possível, um verbo de ação, facilitando a memorização e compreensão.",
       "dica_de_uso": "Ana, use este mapa para fazer suas anotações! Leia cada nó e tente reescrever as definições com suas próprias palavras ao lado. Os 'nomes sonoros' (entre aspas) são para te ajudar a memorizar; repita-os em voz alta! Você pode desenhar pequenos ícones ao lado de cada nó, mesmo sendo do estilo 'leitura-escrita', para reforçar a memória visual. Ao estudar, conecte os conceitos: 'Se a fotossíntese produz O2 (Para a Terra), então respiramos esse O2 (Para Nossos Corpos)'.",
       "estilo_aplicado": "leitura-escrita"
->>>>>>> develop
     }
   },
   {
     "id": "GEN_0092",
-<<<<<<< HEAD
-    "gerado_em": "2026-03-03T10:21:24.408472",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-=======
     "gerado_em": "2026-03-03T11:05:29.345911",
     "aluno_id": "aluno_03",
     "topico": "fotossíntese",
@@ -2149,29 +2065,10 @@
       "legenda": null,
       "dica_de_uso": null,
       "estilo_aplicado": null
->>>>>>> develop
     }
   },
   {
     "id": "GEN_0093",
-<<<<<<< HEAD
-    "gerado_em": "2026-03-03T10:21:24.425115",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v2",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v2",
-      "titulo": "Teste v2",
-      "conteudo": "Explicação avançada de teste.",
-      "conceitos_chave": [
-        "conceito 1"
-      ],
-      "analogia_utilizada": "analogia de teste",
-      "nivel_adequado": null
-=======
     "gerado_em": "2026-03-03T11:05:48.694801",
     "aluno_id": "aluno_03",
     "topico": "fotossíntese",
@@ -2186,27 +2083,10 @@
       "legenda": "No centro, o conceito principal: 'Fotossíntese: Energia Verde'.\nOs ramos principais (nível 1) são os processos fundamentais (Explorar, Executar, Produzir, Analisar), com descrições ativas.\nOs sub-ramos (nível 2) detalham cada processo com exemplos.\nAs 'folhas' (nível 3) oferecem analogias diretas com robótica, programação e matemática, conectando o conhecimento biológico aos interesses de Pedro.",
       "dica_de_uso": "Pedro, use este mapa para 'montar' seu próprio entendimento da fotossíntese! Siga os caminhos dos ramos, visualize cada etapa como um 'módulo' de um sistema. Tente explicar cada nó em voz alta usando as 'palavras de ação' (EXPLORAR, EXECUTAR, PRODUZIR, ANALISAR). Se possível, desenhe ou construa esquemas simples de cada 'subsistema' (captura de luz como um painel, fluxo de água/CO2 como tubulações). Pense em como você poderia 'programar' ou 'calibrar' uma planta para otimizar sua fotossíntese, aplicando seus conhecimentos de matemática e programação aos 'fatores' que a influenciam. Isso vai ajudar a 'fixar' o conteúdo de forma prática e significativa.",
       "estilo_aplicado": "cinestesico"
->>>>>>> develop
     }
   },
   {
     "id": "GEN_0094",
-<<<<<<< HEAD
-    "gerado_em": "2026-03-03T10:21:28.439887",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-=======
     "gerado_em": "2026-03-03T11:05:54.699112",
     "aluno_id": "aluno_04",
     "topico": "fotossíntese",
@@ -2221,27 +2101,10 @@
       "legenda": null,
       "dica_de_uso": null,
       "estilo_aplicado": null
->>>>>>> develop
     }
   },
   {
     "id": "GEN_0095",
-<<<<<<< HEAD
-    "gerado_em": "2026-03-03T10:21:38.757895",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-=======
     "gerado_em": "2026-03-03T11:06:14.297847",
     "aluno_id": "aluno_04",
     "topico": "fotossíntese",
@@ -2256,27 +2119,10 @@
       "legenda": "O mapa mostra a 'receita' das plantas: primeiro, os 'ingredientes' que elas pegam (sol, água, gás carbônico). Depois, 'onde acontece' (nas folhas, com a clorofila verde). Por último, 'os resultados' (alimento para a planta e oxigênio para nós). As palavras entre parênteses e as rimas ajudam a Sofia a associar com sons, ações e a entender melhor.",
       "dica_de_uso": "Sofia, para usar este mapa, tente ler em voz alta cada parte, repetindo as frases divertidas! Imagina que você está cantando a receita da planta, com um ritmo para cada ingrediente. Você pode até pedir para alguém te contar a história de cada parte do mapa. Assim, você vai aprender a fotossíntese de um jeito super legal e com muita música!",
       "estilo_aplicado": "auditivo"
->>>>>>> develop
     }
   },
   {
     "id": "GEN_0096",
-<<<<<<< HEAD
-    "gerado_em": "2026-03-03T10:21:38.779650",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-=======
     "gerado_em": "2026-03-03T11:06:24.947842",
     "aluno_id": "aluno_05",
     "topico": "fotossíntese",
@@ -2291,375 +2137,10 @@
       "legenda": null,
       "dica_de_uso": null,
       "estilo_aplicado": null
->>>>>>> develop
     }
   },
   {
     "id": "GEN_0097",
-<<<<<<< HEAD
-    "gerado_em": "2026-03-03T10:21:38.798685",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0098",
-    "gerado_em": "2026-03-03T10:21:38.812226",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": true,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0099",
-    "gerado_em": "2026-03-03T10:21:38.839410",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0100",
-    "gerado_em": "2026-03-03T10:21:38.856377",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v2",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v2",
-      "titulo": "Teste v2",
-      "conteudo": "Explicação avançada de teste.",
-      "conceitos_chave": [
-        "conceito 1"
-      ],
-      "analogia_utilizada": "analogia de teste",
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0101",
-    "gerado_em": "2026-03-03T10:21:42.876276",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0102",
-    "gerado_em": "2026-03-03T10:26:55.789179",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0103",
-    "gerado_em": "2026-03-03T10:26:55.816897",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0104",
-    "gerado_em": "2026-03-03T10:26:55.842320",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0105",
-    "gerado_em": "2026-03-03T10:26:55.860479",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": true,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0106",
-    "gerado_em": "2026-03-03T10:26:55.886395",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0107",
-    "gerado_em": "2026-03-03T10:26:55.904056",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v2",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v2",
-      "titulo": "Teste v2",
-      "conteudo": "Explicação avançada de teste.",
-      "conceitos_chave": [
-        "conceito 1"
-      ],
-      "analogia_utilizada": "analogia de teste",
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0108",
-    "gerado_em": "2026-03-03T10:26:59.918106",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0109",
-    "gerado_em": "2026-03-03T10:29:17.103870",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0110",
-    "gerado_em": "2026-03-03T10:31:40.500135",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0111",
-    "gerado_em": "2026-03-03T10:31:40.520951",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0112",
-    "gerado_em": "2026-03-03T10:31:40.545488",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0113",
-    "gerado_em": "2026-03-03T10:31:40.569759",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": true,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0114",
-    "gerado_em": "2026-03-03T10:31:40.598236",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0115",
-    "gerado_em": "2026-03-03T10:31:40.613149",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v2",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v2",
-      "titulo": "Teste v2",
-      "conteudo": "Explicação avançada de teste.",
-      "conceitos_chave": [
-        "conceito 1"
-      ],
-      "analogia_utilizada": "analogia de teste",
-      "nivel_adequado": null
-    }
-  },
-  {
-    "id": "GEN_0116",
-    "gerado_em": "2026-03-03T10:31:44.629011",
-    "aluno_id": "aluno_01",
-    "topico": "fotossíntese",
-    "tipo": "explicacao_conceitual",
-    "versao_prompt": "v1",
-    "do_cache": false,
-    "conteudo": {
-      "tipo": "explicacao_conceitual",
-      "versao_prompt": "v1",
-      "titulo": "Teste v1",
-      "conteudo": "Explicação básica de teste.",
-      "conceitos_chave": null,
-      "analogia_utilizada": null,
-      "nivel_adequado": null
-=======
     "gerado_em": "2026-03-03T11:06:39.337737",
     "aluno_id": "aluno_05",
     "topico": "fotossíntese",
@@ -2674,7 +2155,6 @@
       "legenda": "O mapa começa com o tópico principal no centro (FOTOSSÍNTESE ✨). Dele, partem quatro ramos principais (Nível 1) que abordam as questões fundamentais: O QUE É?, COMO ACONTECE?, POR QUE É IMPORTANTE? e ONDE ACONTECE? (com símbolos para reforçar a ideia visualmente). Cada um desses ramos se subdivide em dois detalhes (Nível 2), oferecendo informações específicas. Por fim, alguns desses detalhes se aprofundam com curiosidades ou exemplos práticos (Nível 3), conectando o conteúdo a ideias mais amplas ou ao cotidiano, como a captação de energia solar ou a importância histórica para a vida na Terra.",
       "dica_de_uso": "Rafael, use este mapa como um roteiro visual para entender a fotossíntese! Comece pelo centro e siga as \"estradas\" para cada parte do processo. As setas e símbolos te ajudarão a ver como tudo se conecta. Tente cobrir as partes de Nível 2 e 3 e veja se consegue lembrar dos detalhes. Como você gosta de ver as relações, este mapa mostra como cada etapa da fotossíntese é importante e se encaixa no grande quadro da vida na Terra e até como a energia do Sol funciona como uma \"bateria\" para as plantas, te ligando à astronomia!",
       "estilo_aplicado": "visual"
->>>>>>> develop
-
+    }
   }
 ]
