@@ -113,12 +113,13 @@ Adapte o conteúdo para este estilo:
 
 ---
 
-### 6. Output Formatting
+### 6. Output Formatting e Structured Outputs (JSON Mode)
 
-**Onde:** Todos os prompts v1 e v2.
+**Onde:** Todos os prompts v1 e v2, e na chamada da API em `src/generator.py`.
 
 **Implementação:**
-```
+No prompt:
+```text
 Responda EXCLUSIVAMENTE em JSON válido com esta estrutura exata:
 {
   "tipo": "explicacao_conceitual",
@@ -127,9 +128,10 @@ Responda EXCLUSIVAMENTE em JSON válido com esta estrutura exata:
   "conteudo": "..."
 }
 Não inclua texto fora do JSON. Não use blocos markdown.
-```
+Na API: Configuração response_mime_type="application/json" utilizando a SDK moderna do Google GenAI.
 
-**Por que funciona:** Sem output formatting, o modelo envolve o JSON em texto explicativo e blocos markdown, quebrando o parse. Com a instrução explícita, a taxa de JSON válido sobe para ~95%. Os 5% restantes são tratados pelo `_extrair_json()` em `src/generator.py`.
+Por que funciona: Sem output formatting, o modelo envolve o JSON em texto explicativo e blocos markdown, quebrando o parse. A evolução nesta arquitetura foi combinar a instrução rigorosa no prompt com a camada de API (Native JSON Mode), forçando o modelo a respeitar a estrutura nativamente na origem. Uma camada final de validação via Pydantic assegura o contrato dos dados.
+
 
 ---
 
@@ -146,6 +148,20 @@ Não inclua texto fora do JSON. Não use blocos markdown.
 | Objetivo pedagógico declarado | Não | Sim — por pergunta/exemplo |
 
 ---
+
+
+```markdown
+### 7. Avaliação Automatizada (LLM-as-a-Judge)
+
+**Onde:** `src/evaluator.py` e script de testes `scripts/evaluate.py`.
+
+**Implementação:**
+Foi desenvolvido um prompt avaliador ("Juiz") que recebe o perfil do aluno, o tópico e as gerações (v1 e v2) de forma anônima (A e B). O juiz é instruído a:
+1. Avaliar clareza, adequação à idade e uso de analogias.
+2. Identificar qual versão atendeu melhor ao estilo de aprendizado do aluno.
+3. Declarar um vencedor justificado.
+
+**Por que funciona:** Avaliar a qualidade da geração de texto em larga escala é um desafio. O padrão *LLM-as-a-Judge* remove o viés humano e cria um pipeline de avaliação autônomo. Os resultados (disponíveis em `samples/evaluation.json`) comprovam analiticamente e de forma escalável que as técnicas de Engenharia de Prompt aplicadas na V2 geram um conteúdo superior.
 
 ## Decisões de Design
 

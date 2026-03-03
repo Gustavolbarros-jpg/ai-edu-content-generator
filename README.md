@@ -4,8 +4,8 @@ Uma plataforma educacional inteligente que gera conteúdo altamente personalizad
 
 Este projeto é a minha submissão para o **Desafio Técnico – Estágio em IA e Engenharia de Prompt**. 
 
-🌐**[Acesse a Aplicação em Produção (Railway) Aqui!](https://ai-edu-content-generator-production.up.railway.app/)**
-🎥
+ **[Acesse a Aplicação em Produção (Railway) Aqui!](https://ai-edu-content-generator-production.up.railway.app/)**
+
 ---
 
 ##  O Desafio
@@ -33,6 +33,7 @@ Para garantir uma entrega de excelência, além de cumprir os requisitos obrigat
 * **Testes:** Pytest
 
 ---
+
 ##  Como Rodar Localmente
 
 1. Clone o repositório:
@@ -66,11 +67,12 @@ Selecione Lucas Mendes > Fotossíntese > Resumo Visual > Clique em Comparar.
 
 A diferença entre o prompt básico (v1) e o prompt otimizado para o estilo de aprendizado visual (v2) ficará evidente.
 
-***
+ Avaliação Automatizada (LLM-as-a-Judge)
+Para provar de forma analítica e sem viés humano a superioridade da Engenharia de Prompt da V2 sobre a V1, este projeto inclui um pipeline de avaliação autônoma. A própria IA atua como um "Juiz Cego" avaliando critérios pedagógicos.
 
-### Passo a passo para fechar tudo:
+Para rodar o avaliador no seu terminal:
 
-1. **Substitua** todo o texto do seu `README.md` atual pelo template que mandei acima.
-2. **Atualize os Links:** Não se esqueça de trocar `COLOQUE_SEU_LINK_DO_RAILWAY_AQUI` pela URL real do seu deploy e de colocar o link do seu vídeo (Loom ou YouTube).
-3. Salve, faça o *commit* na branch `develop` (ex: `docs: atualiza README com destaques do projeto e instrucoes de uso`), dê o *merge* para a `main` e suba (push).
-4. Relaxe e mande a submissão para a vaga. O seu projeto está nível Sênior em organização!
+Bash
+
+python scripts/evaluate.py
+Nota: Os resultados detalhados das avaliações e as justificativas do juiz ficam salvos em samples/evaluation.json.
