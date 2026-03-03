@@ -7,6 +7,7 @@ de geração — cache → prompt → API → histórico → retorno.
 import json
 import os
 import re
+import logging
 
 from google import genai
 from dotenv import load_dotenv
@@ -17,6 +18,8 @@ from src import prompt_engine
 from src.students import buscar_aluno_por_id
 
 load_dotenv()
+
+logger = logging.getLogger(__name__)
 
 _client = None
 
@@ -30,6 +33,7 @@ def _get_client():
         _client = genai.Client(api_key=api_key)
     return _client
 
+
 def _extrair_json(texto: str) -> dict:
     # Remove blocos markdown
     texto_limpo = re.sub(r"```(?:json)?\s*", "", texto).replace("```", "").strip()
@@ -38,19 +42,18 @@ def _extrair_json(texto: str) -> dict:
     try:
         return json.loads(texto_limpo)
     except json.JSONDecodeError:
-        # Tenta encontrar o bloco JSON e fazer parse linha a linha
         match = re.search(r'(\{[\s\S]*\})', texto_limpo)
         if match:
             bloco = match.group(1)
-            # Escapa \n dentro de valores string
-            bloco = re.sub(r'("(?:[^"\\]|\\.)*")', 
-                          lambda m: m.group(0).replace('\n', '\\n'), 
+            bloco = re.sub(r'("(?:[^"\\]|\\.)*")',
+                          lambda m: m.group(0).replace('\n', '\\n'),
                           bloco)
             try:
                 return json.loads(bloco)
             except json.JSONDecodeError:
                 pass
         raise ValueError(f"Resposta da API não é JSON válido.\n\nResposta:\n{texto[:500]}")
+
 
 def gerar(aluno_id: str, topico: str, tipo: str, versao: str = "v2") -> dict:
     """
@@ -60,14 +63,12 @@ def gerar(aluno_id: str, topico: str, tipo: str, versao: str = "v2") -> dict:
       1. Valida parâmetros
       2. Verifica cache (evita chamada à API se já gerado antes)
       3. Monta o prompt via prompt_engine
-      4. Chama a API Gemini (com retry automático até 3 tentativas)
+      4. Chama a API Gemini com JSON Mode nativo (retry até 3 tentativas)
       5. Parseia e valida o JSON da resposta (Pydantic)
       6. Salva no cache e no histórico
       7. Retorna o conteúdo gerado
     """
     import time
-    import logging
-    logger = logging.getLogger(__name__)
 
     # 1. Validar aluno
     aluno = buscar_aluno_por_id(aluno_id)
@@ -87,6 +88,11 @@ def gerar(aluno_id: str, topico: str, tipo: str, versao: str = "v2") -> dict:
     modelo_nome = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
     client = _get_client()
 
+    # JSON Mode nativo — garante que a API retorna JSON válido
+    config = genai.types.GenerateContentConfig(
+        response_mime_type="application/json"
+    )
+
     MAX_TENTATIVAS = 3
     ultimo_erro = None
 
@@ -97,7 +103,8 @@ def gerar(aluno_id: str, topico: str, tipo: str, versao: str = "v2") -> dict:
 
             resposta = client.models.generate_content(
                 model=modelo_nome,
-                contents=prompt
+                contents=prompt,
+                config=config
             )
 
             # 5. Parsear e validar JSON
@@ -118,14 +125,18 @@ def gerar(aluno_id: str, topico: str, tipo: str, versao: str = "v2") -> dict:
                 time.sleep(2)
 
         except Exception as e:
-            # Erro de API (429, 404, etc) — não adianta tentar de novo imediatamente
             ultimo_erro = e
             msg = str(e)
-            if "429" in msg:
-                logger.warning(f"Rate limit atingido. Aguardando 65s antes de tentar novamente...")
-                time.sleep(65)
+            if "429" in msg or "ResourceExhausted" in msg:
+                logger.error("Rate limit (429) atingido. Retornando erro para o cliente.")
+                return {
+                    "erro": True,
+                    "status_code": 429,
+                    "mensagem": "A API gratuita do Google Gemini atingiu o seu limite de uso. Por favor, aguarde cerca de 1 minuto e tente novamente."
+                }
             else:
-                raise  # outros erros propagam imediatamente
+                logger.error(f"Erro inesperado na API: {msg}")
+                raise
 
     raise ValueError(f"Falha após {MAX_TENTATIVAS} tentativas. Último erro: {ultimo_erro}")
 
