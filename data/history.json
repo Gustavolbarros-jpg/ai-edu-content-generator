@@ -1979,6 +1979,7 @@
   },
   {
     "id": "GEN_0088",
+<<<<<<< HEAD
     "gerado_em": "2026-03-03T10:21:24.326013",
     "aluno_id": "aluno_01",
     "topico": "fotossíntese",
@@ -1993,10 +1994,27 @@
       "conceitos_chave": null,
       "analogia_utilizada": null,
       "nivel_adequado": null
+=======
+    "gerado_em": "2026-03-03T11:04:20.222980",
+    "aluno_id": "aluno_01",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao_prompt": "v1",
+    "do_cache": false,
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v1",
+      "mapa_ascii": "FOTOSSÍNTESE: A FÁBRICA DE ENERGIA DAS PLANTAS!\n├─ O QUE É?\n│  └─ É como as plantas fazem seu próprio \"lanche\" especial para ter energia!\n├─ QUEM FAZ?\n│  ├─ PLANTAS (Árvores, flores, grama, etc.)\n│  └─ ALGAS (Plantinhas que vivem na água)\n│     └─ Partes importantes: AS FOLHAS (Onde a mágica acontece!)\n│        └─ CLOROFILA: É o \"chef\" verde das folhas que \"chama\" a luz do sol.\n├─ INGREDIENTES (O que a planta PRECISA para começar a \"receita\" - ENTROU)\n│  ├─ 1. LUZ DO SOL: É a ENERGIA, como a bateria de um videogame!\n│  ├─ 2. GÁS CARBÔNICO: Um gás do ar (que nós soltamos ao respirar).\n│  └─ 3. ÁGUA E SAIS MINERAIS: Vêm da terra, pelas raízes (como a água que você bebe).\n├─ COMO ACONTECE? (O PROCESSO - A \"COZINHA\" DAS FOLHAS)\n│  └─ A clorofila nas folhas usa a LUZ DO SOL para \"misturar\" o GÁS CARBÔNICO com a ÁGUA.\n│     └─ É como uma máquina que transforma os ingredientes em coisas novas!\n├─ RESULTADOS (O que a planta PRODUZ no final da \"receita\" - SAIU)\n│  ├─ 1. AÇÚCAR (GLICOSE):\n│  │  └─ É o ALIMENTO e a ENERGIA da planta! Ajuda ela a crescer, dar flores e frutos. A \"gasolina\" da planta!\n│  └─ 2. OXIGÊNIO:\n│     └─ Um gás muito importante! É o AR PURO que NÓS e os animais respiramos para viver!\n└─ POR QUE É IMPORTANTE?\n   ├─ Para as PLANTAS: Dá energia para viverem e crescerem fortes.\n   └─ Para NÓS E ANIMAIS:\n      ├─ Libera OXIGÊNIO para respirarmos.\n      └─ É a base de quase todo o ALIMENTO na Terra (comemos plantas ou animais que comeram plantas).",
+      "descricao": "Um mapa mental visual sobre fotossíntese, adaptado para um aluno de 10 anos, com foco em exemplos do cotidiano, analogias simples e destaque para entradas, processo e saídas do fenômeno. Utiliza estrutura hierárquica clara com caracteres ASCII.",
+      "legenda": null,
+      "dica_de_uso": null,
+      "estilo_aplicado": null
+>>>>>>> develop
     }
   },
   {
     "id": "GEN_0089",
+<<<<<<< HEAD
     "gerado_em": "2026-03-03T10:21:24.345868",
     "aluno_id": "aluno_01",
     "topico": "fotossíntese",
@@ -2011,10 +2029,27 @@
       "conceitos_chave": null,
       "analogia_utilizada": null,
       "nivel_adequado": null
+=======
+    "gerado_em": "2026-03-03T11:04:48.177301",
+    "aluno_id": "aluno_01",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao_prompt": "v2",
+    "do_cache": false,
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v2",
+      "mapa_ascii": "FOTOSSÍNTESE - A MÁGICA VERDE! ✨\n│\n├── ONDE E QUEM FAZ? 🌱\n│   ├── Nas FOLHAS da planta (A \"fábrica\" solar!) 🏭\n│   └── Pela CLOROFILA (O \"pigmento verde\" que pega o Sol!) 💚\n│\n├── INGREDIENTES SECRETOS 💧☀️\n│   ├── LUZ DO SOL ☀️ (A \"energia\" para ligar tudo!) 💡\n│   └── ÁGUA + GÁS CARBÔNICO 💧💨 (O \"combustível\" do solo e do ar!) ⛽\n│\n├── PRODUTOS INCRÍVEIS 🍎💨\n│   ├── AÇÚCAR (O \"alimento\" que dá força à planta!) 💪\n│   └── OXIGÊNIO (O ar \"novo\" para a gente respirar!) 🌬️\n│\n└── POR QUE É VITAL? 🌎\n    ├── Limpa o AR (Deixando o planeta mais saudável!) ✅\n    └── Produz NOSSA COMIDA (Frutas, legumes, arroz...!) 🍚🍓",
+      "descricao": "Este mapa mental visual foi criado para o Lucas, explicando a fotossíntese de forma clara e divertida. Ele aborda os conceitos essenciais: onde e como a fotossíntese acontece, os 'ingredientes' que as plantas utilizam, os 'produtos' incríveis que elas criam, e a importância desse processo para a vida no planeta. A linguagem e os exemplos são adaptados aos seus interesses e estilo de aprendizado, com o uso de emojis e comparações do cotidiano.",
+      "legenda": "O mapa mental inicia com o tópico principal (Nível 0) no centro. Dele, ramificam-se quatro conceitos-chave (Nível 1), que são as grandes ideias da fotossíntese. Cada um desses conceitos se desdobra em dois detalhes ou exemplos (Nível 2), que complementam e ilustram a ideia principal. A hierarquia é indicada pela indentação e os caracteres como '├──' e '└──' mostram as conexões entre as ideias.",
+      "dica_de_uso": "Lucas, use este mapa como um 'cartaz' visual para estudar! Comece lendo a ideia central (FOTOSSÍNTESE). Depois, siga as 'linhas' para explorar cada parte. Tente associar os emojis com as palavras (ex: ☀️ com Sol, 🏭 com fábrica). Você pode até tentar desenhar cada ramificação em seu caderno, criando seus próprios símbolos ou personagens para cada 'ingrediente' e 'produto'. Isso vai te ajudar a 'ver' o processo e a memorizar tudo de um jeito super legal, como se estivesse jogando um videogame de ciências!",
+      "estilo_aplicado": "visual"
+>>>>>>> develop
     }
   },
   {
     "id": "GEN_0090",
+<<<<<<< HEAD
     "gerado_em": "2026-03-03T10:21:24.364502",
     "aluno_id": "aluno_01",
     "topico": "fotossíntese",
@@ -2029,10 +2064,27 @@
       "conceitos_chave": null,
       "analogia_utilizada": null,
       "nivel_adequado": null
+=======
+    "gerado_em": "2026-03-03T11:05:01.186419",
+    "aluno_id": "aluno_02",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao_prompt": "v1",
+    "do_cache": false,
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v1",
+      "mapa_ascii": "FOTOSSÍNTESE\n├─ Definição: Processo vital que converte energia luminosa em energia química\n│  └─ Significado literal: \"Síntese pela luz\"\n├─ Importância\n│  ├─ Para o Planeta: Liberação de Oxigênio (O2) essencial e remoção de Gás Carbônico (CO2)\n│  └─ Para os Seres Vivos: Produção de alimento (base da cadeia alimentar)\n├─ Quem Realiza (Organismos Autótrofos)\n│  ├─ Plantas (principalmente nas folhas)\n│  ├─ Algas (em ambientes aquáticos)\n│  └─ Cianobactérias (bactérias azuis)\n├─ Onde Acontece\n│  └─ Cloroplastos (estruturas dentro das células vegetais e de algas)\n│     └─ Contêm Clorofila: Pigmento verde que absorve a luz solar\n├─ Ingredientes (Entradas / Reagentes)\n│  ├─ Gás Carbônico (CO2)\n│  │  └─ Absorvido do ar (pelos estômatos das folhas)\n│  ├─ Água (H2O)\n│  │  └─ Absorvida do solo (pelas raízes)\n│  └─ Luz Solar (Energia)\n│     └─ Capturada pela clorofila\n├─ Processo (Etapas Principais)\n│  ├─ 1. Fase Clara (Dependente de Luz)\n│  │  ├─ Local: Tilacoides do cloroplasto\n│  │  ├─ Ocorre: Absorção de luz e quebra da água (Fotólise)\n│  │  │  └─ Libera: Oxigênio (O2) como subproduto\n│  │  └─ Produz: ATP (molécula de energia) e NADPH (transportador de hidrogênio)\n│  └─ 2. Fase Escura (Ciclo de Calvin - Independente de Luz)\n│     ├─ Local: Estroma do cloroplasto\n│     ├─ Ocorre: Fixação do Gás Carbônico (CO2)\n│     ├─ Ocorre: Uso do ATP e NADPH da fase clara\n│     └─ Forma: Glicose (açúcar simples)\n├─ Produtos (Saídas)\n│  ├─ Glicose (C6H12O6)\n│  │  └─ Usada como alimento para a planta (energia para crescimento, flores, frutos)\n│  │     └─ Pode ser armazenada como amido\n│  └─ Oxigênio (O2)\n│     └─ Liberado para a atmosfera (essencial para a respiração da maioria dos seres vivos)",
+      "descricao": "Este mapa mental ASCII detalha o processo da fotossíntese, desde sua definição e importância global até os organismos que a realizam, os ingredientes necessários, as duas fases principais (clara e escura) e os produtos finais, como glicose e oxigênio. A estrutura hierárquica e o texto conciso são ideais para a aluna Ana Beatriz, que prefere aprender através de textos estruturados e anotações, com foco em definições precisas.",
+      "legenda": null,
+      "dica_de_uso": null,
+      "estilo_aplicado": null
+>>>>>>> develop
     }
   },
   {
     "id": "GEN_0091",
+<<<<<<< HEAD
     "gerado_em": "2026-03-03T10:21:24.382795",
     "aluno_id": "aluno_01",
     "topico": "fotossíntese",
@@ -2047,10 +2099,27 @@
       "conceitos_chave": null,
       "analogia_utilizada": null,
       "nivel_adequado": null
+=======
+    "gerado_em": "2026-03-03T11:05:16.750542",
+    "aluno_id": "aluno_02",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao_prompt": "v2",
+    "do_cache": false,
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v2",
+      "mapa_ascii": "FOTOSSÍNTESE: A Fábrica da Vida Verde - Processo essencial onde plantas criam alimento usando luz.\n├─ O QUE É? \"A Mágica da Conversão\" - Transforma energia luminosa em química (açúcar).\n│  ├─ Definição Simples: \"Luz em Alimento\" - Plantas produzem glicose (açúcar) e O2.\n│  └─ Os Atores: \"Seres Verdes Ativos\" - Plantas, algas e cianobactérias realizam o processo.\n├─ COMO ACONTECE? \"A Receita Secreta da Natureza\" - Etapas e componentes para a produção.\n│  ├─ Ingredientes: \"A Tríade Fundamental\" - Água (H2O) + Gás Carbônico (CO2) + Luz Solar.\n│  └─ Onde Ocorre: \"Fábricas Verdes\" - Nas folhas, dentro dos cloroplastos com clorofila.\n└─ QUAL A IMPORTÂNCIA? \"Sustentando a Vida\" - Impactos vitais para o planeta e seres vivos.\n   ├─ Para a Terra: \"Respiro do Planeta\" - Produção de O2 e redução de CO2 (regulação climática).\n   └─ Para Nossos Corpos: \"Base Energética\" - Fonte primária de energia da cadeia alimentar.",
+      "descricao": "Este mapa mental é um resumo visual e estruturado sobre a fotossíntese, criado especificamente para Ana Beatriz. Ele detalha o conceito, o processo e a importância desse fenômeno biológico crucial, utilizando uma linguagem clara e exemplos adaptados aos seus interesses e estilo de aprendizado 'leitura-escrita'.",
+      "legenda": "O mapa se organiza a partir do tema central 'FOTOSSÍNTESE'. Os ramos de Nível 1 ('O QUE É?', 'COMO ACONTECE?', 'QUAL A IMPORTÂNCIA?') representam os conceitos-chave. Os sub-ramos de Nível 2 ('Definição Simples', 'Os Atores', 'Ingredientes', 'Onde Ocorre', 'Para a Terra', 'Para Nossos Corpos') fornecem detalhes e exemplos específicos para cada conceito principal. Cada nó inclui uma definição curta, um 'nome sonoro' e, sempre que possível, um verbo de ação, facilitando a memorização e compreensão.",
+      "dica_de_uso": "Ana, use este mapa para fazer suas anotações! Leia cada nó e tente reescrever as definições com suas próprias palavras ao lado. Os 'nomes sonoros' (entre aspas) são para te ajudar a memorizar; repita-os em voz alta! Você pode desenhar pequenos ícones ao lado de cada nó, mesmo sendo do estilo 'leitura-escrita', para reforçar a memória visual. Ao estudar, conecte os conceitos: 'Se a fotossíntese produz O2 (Para a Terra), então respiramos esse O2 (Para Nossos Corpos)'.",
+      "estilo_aplicado": "leitura-escrita"
+>>>>>>> develop
     }
   },
   {
     "id": "GEN_0092",
+<<<<<<< HEAD
     "gerado_em": "2026-03-03T10:21:24.408472",
     "aluno_id": "aluno_01",
     "topico": "fotossíntese",
@@ -2065,10 +2134,27 @@
       "conceitos_chave": null,
       "analogia_utilizada": null,
       "nivel_adequado": null
+=======
+    "gerado_em": "2026-03-03T11:05:29.345911",
+    "aluno_id": "aluno_03",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao_prompt": "v1",
+    "do_cache": false,
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v1",
+      "mapa_ascii": "FOTOSSÍNTESE\n├─ Definição\n│  └─ Processo vital que converte energia luminosa em energia química\n│     para plantas e outros seres fotossintetizantes.\n├─ Onde Ocorre?\n│  ├─ Cloroplastos\n│  │  └─ Organelas especializadas nas células vegetais (a \"fábrica\").\n│  └─ Clorofila\n│     └─ Pigmento verde que absorve a luz solar (o \"sensor de energia\").\n├─ Entradas (Os \"Componentes\" ou \"Matéria-prima\")\n│  ├─ Luz Solar\n│  │  └─ Fonte primária de energia (o \"combustível\").\n│  ├─ Dióxido de Carbono (CO2)\n│  │  └─ Gás absorvido do ar através dos estômatos nas folhas (o \"input de carbono\").\n│  └─ Água (H2O)\n│     └─ Absorvida do solo pelas raízes (o \"solvente\" e fonte de H+ e e-).\n├─ Processo (A \"Programação\" ou \"Linha de Montagem\")\n│  ├─ 1. Fase Clara (Dependente de Luz)\n│  │  ├─ Onde: Membranas dos Tilacoides (pilhas de \"baterias solares\").\n│  │  └─ O que acontece:\n│  │     ├─ Clorofila absorve luz → elétrons são energizados.\n│  │     ├─ Quebra da Molécula de Água (Fotólise)\n│  │     │  └─ Libera: Oxigênio (O2), Elétrons (e-), Íons H+.\n│  │     └─ Produção de Moléculas de Energia (ATP e NADPH)\n│  │        └─ São como \"pilhas recarregadas\" para a próxima fase.\n│  └─ 2. Fase Escura (Ciclo de Calvin - Independente de Luz)\n│     ├─ Onde: Estroma (o \"chão de fábrica\" do cloroplasto).\n│     └─ O que acontece:\n│        ├─ Fixação do Dióxido de Carbono (CO2)\n│        │  └─ CO2 é \"capturado\" e incorporado em moléculas orgânicas.\n│        ├─ Redução e Síntese de Açúcares\n│        │  └─ Usando ATP e NADPH da Fase Clara para \"montar\" as moléculas.\n│        └─ Produção de Glicose (C6H12O6)\n│           └─ O primeiro açúcar simples formado (o \"produto básico\").\n├─ Saídas (Os \"Produtos Finais\" ou \"Resultados\")\n│  ├─ Glicose (C6H12O6)\n│  │  ├─ Principal alimento e fonte de energia para a planta (o \"combustível\" da planta).\n│  │  └─ Pode ser armazenada como amido ou transformada em celulose.\n│  └─ Oxigênio (O2)\n│     └─ Liberado para a atmosfera.\n│        └─ Essencial para a respiração da maioria dos seres vivos (o \"subproduto vital\").",
+      "descricao": "Este mapa mental ASCII detalha o processo da fotossíntese, desde seus componentes de entrada, as fases do processo (clara e escura), até os produtos finais. A estrutura hierárquica e as analogias foram pensadas para o perfil de Pedro, facilitando a compreensão e a conexão com seus interesses em lógica e sistemas.",
+      "legenda": null,
+      "dica_de_uso": null,
+      "estilo_aplicado": null
+>>>>>>> develop
     }
   },
   {
     "id": "GEN_0093",
+<<<<<<< HEAD
     "gerado_em": "2026-03-03T10:21:24.425115",
     "aluno_id": "aluno_01",
     "topico": "fotossíntese",
@@ -2085,10 +2171,27 @@
       ],
       "analogia_utilizada": "analogia de teste",
       "nivel_adequado": null
+=======
+    "gerado_em": "2026-03-03T11:05:48.694801",
+    "aluno_id": "aluno_03",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao_prompt": "v2",
+    "do_cache": false,
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v2",
+      "mapa_ascii": "FOTOSSÍNTESE: ENERGIA VERDE\n├── EXPLORAR Componentes (Ingredientes Essenciais) - Descobrir o que as plantas USAM para CRIAR ENERGIA.\n│   ├── COLETAR Luz Solar (Painel Solar Biológico) - A energia inicial, CAPTURADA pela CLOROFILA.\n│   │   └── Fótons -> Elétrons! Igual a um sensor fotovoltaico.\n│   └── BOMBEAR Água e CO2 (Sistema de Entrada) - Água (H2O) via raízes, CO2 via estômatos. Ambos ESSENCIAIS.\n│       └── Como um sistema de tubulações e válvulas programáveis.\n├── EXECUTAR Reações (Ciclo da Vida) - COMPREENDER como a ENERGIA SOLAR é CONVERTIDA em GLICOSE.\n│   ├── FASE CLARA: ENERGIA! (Estágio da \"Carga\") - Água é QUEBRADA pela luz, GERANDO ATP e NADPH.\n│   │   └── Produção de \"bateria\" (ATP) e \"carregador\" (NADPH).\n│   └── FASE ESCURA: CONSTRUIR! (Ciclo de Calvin) - CO2 é FIXADO usando ATP/NADPH para CONSTRUIR glicose.\n│       └── Algoritmo de montagem: ENTRADA de CO2, SAÍDA de Glicose.\n├── PRODUZIR Resultados (Saídas Essenciais) - IDENTIFICAR o que as plantas LIBERAM e CRIAM, sustentando a vida.\n│   ├── LIBERAR Oxigênio (Gás da Vida) - Subproduto CRUCIAL da quebra da água, ESSENCIAL para a respiração.\n│   │   └── Resíduo valioso, como no reuso de materiais.\n│   └── CRIAR Glicose (Combustível Principal) - Açúcar simples (C6H12O6), USADO como alimento e energia.\n│       └── Fonte de energia para a planta e toda a cadeia alimentar.\n└── ANALISAR Fatores (Ambiente e Eficiência) - VERIFICAR as condições que AFETAM a VELOCIDADE e INTENSIDADE do processo.\n    ├── MEDIR Intensidade da Luz (Controle de Input) - Mais luz = geralmente mais fotossíntese (até um limite).\n    │   └── Como ajustar a potência de um motor.\n    └── CONTROLAR CO2 e Temperatura (Variáveis de Otimização) - Níveis ideais de CO2 e temperatura MAXIMIZAM o processo.\n        └── Parâmetros de calibração em um sistema robótico.",
+      "descricao": "Este mapa mental foi criado para Pedro Alves, um aluno com estilo de aprendizado cinestésico e interesses em robótica e programação. Ele aborda o tópico 'Fotossíntese' de forma prática e aplicada, utilizando verbos de ação e analogias com sistemas e processos que Pedro já conhece, facilitando a compreensão e a fixação do conteúdo através da 'ação' e da 'construção'.",
+      "legenda": "No centro, o conceito principal: 'Fotossíntese: Energia Verde'.\nOs ramos principais (nível 1) são os processos fundamentais (Explorar, Executar, Produzir, Analisar), com descrições ativas.\nOs sub-ramos (nível 2) detalham cada processo com exemplos.\nAs 'folhas' (nível 3) oferecem analogias diretas com robótica, programação e matemática, conectando o conhecimento biológico aos interesses de Pedro.",
+      "dica_de_uso": "Pedro, use este mapa para 'montar' seu próprio entendimento da fotossíntese! Siga os caminhos dos ramos, visualize cada etapa como um 'módulo' de um sistema. Tente explicar cada nó em voz alta usando as 'palavras de ação' (EXPLORAR, EXECUTAR, PRODUZIR, ANALISAR). Se possível, desenhe ou construa esquemas simples de cada 'subsistema' (captura de luz como um painel, fluxo de água/CO2 como tubulações). Pense em como você poderia 'programar' ou 'calibrar' uma planta para otimizar sua fotossíntese, aplicando seus conhecimentos de matemática e programação aos 'fatores' que a influenciam. Isso vai ajudar a 'fixar' o conteúdo de forma prática e significativa.",
+      "estilo_aplicado": "cinestesico"
+>>>>>>> develop
     }
   },
   {
     "id": "GEN_0094",
+<<<<<<< HEAD
     "gerado_em": "2026-03-03T10:21:28.439887",
     "aluno_id": "aluno_01",
     "topico": "fotossíntese",
@@ -2103,10 +2206,27 @@
       "conceitos_chave": null,
       "analogia_utilizada": null,
       "nivel_adequado": null
+=======
+    "gerado_em": "2026-03-03T11:05:54.699112",
+    "aluno_id": "aluno_04",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao_prompt": "v1",
+    "do_cache": false,
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v1",
+      "mapa_ascii": "FOTOSSÍNTESE\n├─ O Que É?\n│  └─ Jeito da planta fazer a própria comida!\n│\n├─ O Que a Planta Precisa? (Ingredientes!)\n│  ├─ Luz do Sol\n│  │  └─ Dá energia para a planta\n│  ├─ Água\n│  │  └─ Vem da terra, entra pela raiz\n│  └─ Gás Carbônico\n│     └─ Vem do ar, entra pelas folhas\n│\n├─ Como Acontece? (A Receita Mágica!)\n│  ├─ Onde?\n│  │  └─ Nas Folhas (a \"cozinha\" da planta)\n│  └─ Quem Ajuda?\n│     └─ Clorofila (o \"pintor verde\" que pega a luz!)\n│\n└─ O Que a Planta Faz? (Os Presentes!)\n   ├─ Glicose\n   │  └─ É o \"açúcar\" da planta, sua comida para crescer\n   └─ Oxigênio\n      └─ O ar puro que nós e os animais respiramos!",
+      "descricao": "Este mapa mental ASCII mostra de forma simples o processo da fotossíntese. Ele detalha o que as plantas precisam (entradas), como o processo acontece e o que elas produzem (saídas), usando linguagem e exemplos adequados para Sofia, focando nos conceitos principais de maneira clara e progressiva.",
+      "legenda": null,
+      "dica_de_uso": null,
+      "estilo_aplicado": null
+>>>>>>> develop
     }
   },
   {
     "id": "GEN_0095",
+<<<<<<< HEAD
     "gerado_em": "2026-03-03T10:21:38.757895",
     "aluno_id": "aluno_01",
     "topico": "fotossíntese",
@@ -2121,10 +2241,27 @@
       "conceitos_chave": null,
       "analogia_utilizada": null,
       "nivel_adequado": null
+=======
+    "gerado_em": "2026-03-03T11:06:14.297847",
+    "aluno_id": "aluno_04",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao_prompt": "v2",
+    "do_cache": false,
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v2",
+      "mapa_ascii": "FOTOSSÍNTESE: A FÁBRICA DE MAGIA VERDE! (Aprenda como a planta 'cozinha' seu alimento!)\n├─ INGREDIENTES: O QUE A PLANTA PEGA? (Pega, pega, uh-huh!)\n│  ├─ LUZ DO SOL: (Brilha forte, aquece!)\n│  │  └─ É a energia que a planta precisa para ATIVAR a receita.\n│  └─ ÁGUA + GÁS CARBÔNICO: (Glub-glub, pfuuu! Respire!)\n│     └─ É a água da terra e o gás do ar que a planta VAI USAR.\n├─ A RECEITA: ONDE E COMO ACONTECE? (No cantinho secreto!)\n│  ├─ NAS FOLHAS: (Verdinhas e especiais, oh sim!)\n│  │  └─ É o lugar onde tudo VAI MISTURAR, como uma cozinha.\n│  └─ CLOROFILA: (O 'chef' verde, uhm-hm!)\n│     └─ É a cor verde que AJUDA a CAPTURAR a luz do Sol.\n└─ OS RESULTADOS: O QUE A PLANTA CRIA? (Presentes bons, oba!)\n   ├─ ALIMENTO: (Açúcar docinho, crescer!)\n   │  └─ É a comida da planta para ELA CRESCER FORTE e dar frutos.\n   └─ OXIGÊNIO: (Ar puro, respira fundo!)\n      └─ É o ar fresquinho que as plantas LIBERAM para nós respirarmos.",
+      "descricao": "Este mapa mental explica a fotossíntese para Sofia de forma divertida e sonora. Ele mostra como as plantas pegam a luz do sol, água e ar para 'cozinhar' seu próprio alimento e ainda nos dar oxigênio, usando rimas e palavras que soam bem para ajudar a memorizar.",
+      "legenda": "O mapa mostra a 'receita' das plantas: primeiro, os 'ingredientes' que elas pegam (sol, água, gás carbônico). Depois, 'onde acontece' (nas folhas, com a clorofila verde). Por último, 'os resultados' (alimento para a planta e oxigênio para nós). As palavras entre parênteses e as rimas ajudam a Sofia a associar com sons, ações e a entender melhor.",
+      "dica_de_uso": "Sofia, para usar este mapa, tente ler em voz alta cada parte, repetindo as frases divertidas! Imagina que você está cantando a receita da planta, com um ritmo para cada ingrediente. Você pode até pedir para alguém te contar a história de cada parte do mapa. Assim, você vai aprender a fotossíntese de um jeito super legal e com muita música!",
+      "estilo_aplicado": "auditivo"
+>>>>>>> develop
     }
   },
   {
     "id": "GEN_0096",
+<<<<<<< HEAD
     "gerado_em": "2026-03-03T10:21:38.779650",
     "aluno_id": "aluno_01",
     "topico": "fotossíntese",
@@ -2139,10 +2276,27 @@
       "conceitos_chave": null,
       "analogia_utilizada": null,
       "nivel_adequado": null
+=======
+    "gerado_em": "2026-03-03T11:06:24.947842",
+    "aluno_id": "aluno_05",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao_prompt": "v1",
+    "do_cache": false,
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v1",
+      "mapa_ascii": "FOTOSSÍNTESE\n├─ O Que É?\n│  ├─ Processo vital das plantas (e algumas algas/bactérias)\n│  └─ Transforma a energia da luz solar em alimento (açúcar)\n├─ Onde Acontece?\n│  ├─ Principalmente nas FOLHAS das plantas\n│  └─ Estruturas Específicas:\n│     ├─ Cloroplastos (pequenas \"fábricas\" dentro das células da planta)\n│     └─ Clorofila (o pigmento verde que capta a luz, como uma \"placa solar\" biológica!)\n├─ Ingredientes (ENTRADAS)\n│  ├─ LUZ SOLAR (a energia, como o \"combustível\" principal)\n│  │  └─ Captada pela clorofila\n│  ├─ GÁS CARBÔNICO (CO2)\n│  │  └─ Absorvido do ar, através de pequenos poros nas folhas (estômatos)\n│  │  └─ É o gás que nós liberamos quando respiramos!\n│  └─ ÁGUA (H2O)\n│     └─ Absorvida pelas raízes da planta do solo\n├─ Como Acontece? (O PROCESSO)\n│  ├─ A clorofila absorve a energia da luz solar\n│  ├─ Essa energia é usada para \"quebrar\" e \"montar\" novas moléculas\n│  └─ Água e Gás Carbônico são reorganizados\n├─ Produtos Finais (SAÍDAS)\n│  ├─ GLICOSE (Açúcar)\n│  │  └─ O ALIMENTO da planta: usado para ela crescer, se desenvolver e ter energia\n│  │  └─ Pense como a \"gasolina\" da planta!\n│  └─ OXIGÊNIO (O2)\n│     └─ Liberado para o ambiente (o ar que nós respiramos!)\n│     └─ Essencial para a vida de animais e humanos\n└─ Por Que É Importante para a Vida?\n   ├─ Produz o alimento base para a maioria dos seres vivos (cadeia alimentar)\n   ├─ Libera o oxigênio necessário para a respiração\n   └─ Ajuda a remover Gás Carbônico do ar (importante para o clima do planeta)",
+      "descricao": "Olá, Rafael! Preparei este mapa mental visual sobre a Fotossíntese, usando a estrutura que você gosta para ver as relações entre os conceitos. Ele mostra de forma clara o que entra, como acontece e o que sai desse processo incrível. Pense nas plantas como grandes \"fábricas de alimento e ar\" que usam a energia do sol, assim como as estrelas que você gosta de estudar! Espero que te ajude a entender como as plantas criam a própria comida e o oxigênio que respiramos.",
+      "legenda": null,
+      "dica_de_uso": null,
+      "estilo_aplicado": null
+>>>>>>> develop
     }
   },
   {
     "id": "GEN_0097",
+<<<<<<< HEAD
     "gerado_em": "2026-03-03T10:21:38.798685",
     "aluno_id": "aluno_01",
     "topico": "fotossíntese",
@@ -2505,6 +2659,22 @@
       "conceitos_chave": null,
       "analogia_utilizada": null,
       "nivel_adequado": null
-    }
+=======
+    "gerado_em": "2026-03-03T11:06:39.337737",
+    "aluno_id": "aluno_05",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao_prompt": "v2",
+    "do_cache": false,
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v2",
+      "mapa_ascii": "FOTOSSÍNTESE ✨\n│\n├─ 1. O QUE É? 🌱\n│   ├─ 1.1. Fábrica de Alimentos (Para a planta mesma)\n│   │   └─ 1.1.1. Ex: Plantas são a base da alimentação! \n│   └─ 1.2. Transformação de Energia (Luz -> Química)\n│       └─ 1.2.1. A energia do Sol é capturada, como uma \"bateria\"!\n│\n├─ 2. COMO ACONTECE? ☀️💧\n│   ├─ 2.1. Ingredientes: Luz solar, Água (H2O), Gás carbônico (CO2)\n│   │   └─ 2.1.1. CO2 entra pelas \"portinhas\" nas folhas, água pela raiz.\n│   └─ 2.2. Produtos: Glicose (açúcar!) e Oxigênio (O2)\n│       └─ 2.2.1. Glicose é a \"comida\" da planta; Oxigênio é liberado.\n│\n├─ 3. POR QUE É IMPORTANTE? 🌍 Breath\n│   ├─ 3.1. Base da Vida (Alimento para quase todos os seres)\n│   │   └─ 3.1.1. Ex: Você come uma salada, a alface fez fotossíntese!\n│   └─ 3.2. Ar que Respiramos (Libera Oxigênio, remove CO2)\n│       └─ 3.2.1. Essencial para a vida e a história do nosso planeta!\n│\n└─ 4. ONDE ACONTECE? 🌳🔬\n    ├─ 4.1. Principalmente nas Folhas (Verdes!)\n    │   └─ 4.1.1. O pigmento CLOROFILA dá a cor verde e capta a luz.\n    └─ 4.2. Dentro dos CLOROPLASTOS (Pequenas \"usinas\")\n        └─ 4.2.1. São organelas, como mini-laboratórios nas células vegetais.",
+      "descricao": "Este mapa mental visualiza o processo da fotossíntese de forma clara e estruturada. Ele aborda o que é, como ocorre, sua importância vital e onde se localiza nas plantas, utilizando símbolos e uma hierarquia bem definida para facilitar a compreensão do aluno Rafael, que prefere aprender com diagramas e relações entre conceitos.",
+      "legenda": "O mapa começa com o tópico principal no centro (FOTOSSÍNTESE ✨). Dele, partem quatro ramos principais (Nível 1) que abordam as questões fundamentais: O QUE É?, COMO ACONTECE?, POR QUE É IMPORTANTE? e ONDE ACONTECE? (com símbolos para reforçar a ideia visualmente). Cada um desses ramos se subdivide em dois detalhes (Nível 2), oferecendo informações específicas. Por fim, alguns desses detalhes se aprofundam com curiosidades ou exemplos práticos (Nível 3), conectando o conteúdo a ideias mais amplas ou ao cotidiano, como a captação de energia solar ou a importância histórica para a vida na Terra.",
+      "dica_de_uso": "Rafael, use este mapa como um roteiro visual para entender a fotossíntese! Comece pelo centro e siga as \"estradas\" para cada parte do processo. As setas e símbolos te ajudarão a ver como tudo se conecta. Tente cobrir as partes de Nível 2 e 3 e veja se consegue lembrar dos detalhes. Como você gosta de ver as relações, este mapa mostra como cada etapa da fotossíntese é importante e se encaixa no grande quadro da vida na Terra e até como a energia do Sol funciona como uma \"bateria\" para as plantas, te ligando à astronomia!",
+      "estilo_aplicado": "visual"
+>>>>>>> develop
+
   }
 ]
