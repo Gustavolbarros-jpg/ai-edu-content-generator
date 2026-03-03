@@ -11,18 +11,25 @@ from datetime import datetime
 
 HISTORY_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "history.json")
 
+
 def _carregar() -> list:
     if not os.path.exists(HISTORY_PATH):
         return []
     with open(HISTORY_PATH, "r", encoding="utf-8") as f:
         try:
-            return json.load(f).get("historico", [])
+            dados = json.load(f)
+            # suporta tanto lista direta quanto {"historico": [...]}
+            if isinstance(dados, list):
+                return dados
+            return dados.get("historico", [])
         except json.JSONDecodeError:
             return []
 
-def _salvar(historico: list):
+
+def _salvar(dados):
+    os.makedirs(os.path.dirname(HISTORY_PATH), exist_ok=True)
     with open(HISTORY_PATH, "w", encoding="utf-8") as f:
-        json.dump({"historico": historico}, f, ensure_ascii=False, indent=2)
+        json.dump(dados, f, ensure_ascii=False, indent=2)
 
 
 def registrar(aluno_id: str, topico: str, tipo: str, versao: str, conteudo: dict, do_cache: bool = False):

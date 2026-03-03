@@ -26,13 +26,13 @@ CONTEUDO_FAKE_V2 = {
     "conteudo": "Explicação avançada de teste."
 }
 
-
 @pytest.fixture(autouse=True)
-def limpa_cache():
-    limpar()
+def limpa_cache(monkeypatch, tmp_path):
+    """Usa cache temporário para não afetar o cache real."""
+    cache_tmp = tmp_path / "responses.json"
+    cache_tmp.write_text("{}")
+    monkeypatch.setattr("src.cache.CACHE_PATH", str(cache_tmp))
     yield
-    limpar()
-
 
 @pytest.fixture
 def mock_api(monkeypatch):
