@@ -17,13 +17,15 @@ VERSAO = "v1"
 CONTEUDO_FAKE = {"tipo": "explicacao_conceitual", "versao_prompt": "v1", "titulo": "Teste", "conteudo": "conteúdo de teste"}
 
 
-@pytest.fixture(autouse=True)
-def limpa_cache_antes_e_depois():
-    """Garante cache limpo antes e depois de cada teste."""
-    limpar()
-    yield
-    limpar()
 
+@pytest.fixture(autouse=True)
+def limpa_cache_antes_e_depois(monkeypatch, tmp_path):
+    """Usa cache temporário para não afetar o cache real."""
+    cache_tmp = tmp_path / "responses.json"
+    cache_tmp.write_text("{}")
+    monkeypatch.setattr("src.cache.CACHE_PATH", str(cache_tmp))
+    yield
+    # cleanup automático pelo tmp_path
 
 def test_buscar_retorna_none_quando_vazio():
     resultado = buscar(ALUNO_ID, TOPICO, TIPO, VERSAO)
@@ -64,4 +66,4 @@ def test_limpar_remove_entradas():
 def test_info_retorna_contagem():
     assert info()["total_entradas"] == 0
     salvar(ALUNO_ID, TOPICO, TIPO, VERSAO, CONTEUDO_FAKE)
-    assert info()["total_entradas"] == 1
+    assert info()["total_entradas"] == 1    
