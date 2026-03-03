@@ -196,11 +196,13 @@ REGRAS DO ASCII:
 - Cada nó deve caber em uma linha
 - Indentação indica hierarquia
 
+
 FORMATO DE SAÍDA OBRIGATÓRIO (JSON puro, sem markdown):
 {{
   "tipo": "resumo_visual",
   "versao_prompt": "v2",
   "estilo_aplicado": "{estilo}",
+  "descricao": "breve parágrafo descrevendo o que este mapa mental aborda",
   "mapa_ascii": "cole aqui o mapa mental completo",
   "legenda": "explique as relações principais representadas no mapa",
   "dica_de_uso": "como o aluno pode usar este mapa para estudar"
