@@ -1,17 +1,15 @@
-FROM python:3.11-slim
+    FROM python:3.11-slim
 
-WORKDIR /app
+    WORKDIR /app
 
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+    COPY requirements.txt .
+    RUN pip install --no-cache-dir -r requirements.txt
 
-COPY . .
+    COPY . .
 
-<<<<<<< Updated upstream
-=======
-RUN mkdir -p cache data
+    RUN mkdir -p cache data && \
+        RUN mkdir -p cache data
 
->>>>>>> Stashed changes
-EXPOSE 5000
+    EXPOSE 5000
 
-CMD ["python", "app.py"]
+    CMD ["python", "app.py"]
