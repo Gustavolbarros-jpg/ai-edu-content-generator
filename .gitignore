@@ -2,8 +2,6 @@
 __pycache__/
 *.py[cod]
 .venv/
-cache/responses.json
-data/history.json
 .pytest_cache/
 *.log
 .DS_Store
