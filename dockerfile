@@ -7,6 +7,11 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
+<<<<<<< Updated upstream
+=======
+RUN mkdir -p cache data
+
+>>>>>>> Stashed changes
 EXPOSE 5000
 
 CMD ["python", "app.py"]

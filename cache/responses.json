@@ -1,0 +1,932 @@
+{
+  "9f7821bdc17e3b51c63dbc3c85fd3538": {
+    "aluno_id": "aluno_01",
+    "topico": "fotossíntese",
+    "tipo": "explicacao_conceitual",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:23:31.849151",
+    "conteudo": {
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v1",
+      "titulo": "A Receita Secreta das Plantas: Como Elas Ganham Energia para Crescer!",
+      "conteudo": "Olá, Lucas! Você já parou para pensar de onde as plantas tiram a energia para crescer, criar flores e frutos? Assim como você precisa comer para ter energia para jogar futebol e videogame, as plantas também precisam de 'comida'!\n\nMas elas não vão ao mercado, né? Elas têm um superpoder! Elas conseguem preparar a própria comida, usando a luz do sol como um forno mágico. Esse processo incrível se chama **FOTOSSÍNTESE**.\n\n### Imagina a planta como uma Super Cozinha Secreta!\n\nPensa que a planta está montando uma receita para fazer o seu próprio alimento. Para essa receita, ela precisa de alguns 'ingredientes' e uma 'energia' muito especial:\n\n1.  **Água Fresquinha:** As raízes das plantas funcionam como canudos gigantes que puxam a água do solo. É um dos ingredientes principais!\n\n2.  **Gás Carbônico do Ar:** Esse é um gás que está no ar que a gente solta quando respira. As plantas o 'pegam' pelas suas folhas, que têm buraquinhos bem pequenos, como se fossem \"narizes\" de planta, absorvendo esse gás.\n\n3.  **Luz do Sol (a Energia Mágica!):** Esse é o 'calor do forno' da planta! A luz do sol dá toda a energia que ela precisa para misturar os ingredientes e fazer sua comida.\n\n### A Mágica Verde Acontece!\n\nDentro das folhas das plantas, tem uma coisa que dá a cor verde a elas, chamada **CLOROFILA**. Pensa na clorofila como uma \"antena solar\" especial! Ela é quem consegue \"pegar\" a luz do sol e usá-la como energia para juntar a água e o gás carbônico.\n\n### E o que a planta faz com isso?\n\nCom esses 'ingredientes' e a 'energia do sol' (capturada pela clorofila), a planta faz duas coisas incríveis:\n\n*   **Seu Próprio Alimento (Açúcar):** Ela produz um tipo de açúcar. Essa é a 'comida' que dá energia para a planta crescer, ficar forte, criar folhas novas e até dar aquelas frutas deliciosas que a gente come! É como o seu lanche que te dá força para um jogo de futebol!\n\n*   **Gás Oxigênio para Nós:** E tem um presente para o mundo! Durante a fotossíntese, a planta libera um gás que a gente precisa muito para viver: o **GÁS OXIGÊNIO**! É aquele ar puro que a gente respira. Incrível, né? As plantas fazem sua comida e ainda limpam o ar para a gente!\n\nEntão, a fotossíntese é o superpoder das plantas de usar água, gás carbônico e a luz do sol (com a ajuda da clorofila) para fazer seu próprio alimento e, de quebra, nos dar o ar fresquinho que respiramos!",
+      "conceitos_chave": null,
+      "analogia_utilizada": null,
+      "nivel_adequado": null
+    }
+  },
+  "c5d56ee97638d9440aec9b473769e89c": {
+    "aluno_id": "aluno_01",
+    "topico": "fotossíntese",
+    "tipo": "explicacao_conceitual",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:23:49.888122",
+    "conteudo": {
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v2",
+      "titulo": "A Receita Secreta das Plantas: Como Elas 'Comem' o Sol!",
+      "conteudo": "Ei, Lucas! Você já parou para pensar como as plantas se alimentam? A gente come nosso lanche, nossos personagens de videogame pegam power-ups para ter energia, mas as plantas não têm boca e nem compram comida. Como elas fazem para crescer, dar flores e frutos? Elas têm um truque muito especial, uma espécie de 'receita secreta'! Esse truque se chama **fotossíntese**. Pense nas plantas como pequenos 'jogadores' que precisam de energia para se manterem vivos e fortes. E a energia principal delas vem de um 'super power-up': o **SOL**! Imagina que cada folha da planta é uma pequena 'fábrica de comida' ou uma 'cozinha super equipada'. Para essa fábrica funcionar, ela precisa de alguns 'ingredientes': 1. **Água:** A planta pega a água do chão pelas suas raízes, como se estivesse 'bebendo' um suco. (Lembra que você rega as plantas, certo?) 2. **Gás carbônico:** Este é um gás invisível que está no ar que a gente respira (e que a gente solta quando expira!). As plantas 'respiram' ele por uns buraquinhos nas folhas, como se fossem 'janelinhas'. 3. E o ingrediente mais importante, o '**super power-up**': a **LUZ DO SOL**! A luz do sol é a 'energia' que faz a 'máquina' da fábrica funcionar. Dentro das folhas, existe uma coisa verdinha que se chama **clorofila**. É ela que dá a cor verde às plantas e que é super importante! A clorofila é como o 'chef de cozinha' dessa fábrica, que pega a energia do sol e, junto com a água e o gás carbônico, prepara a 'comida' para a planta. E o que essa fábrica produz? Duas coisas muito importantes: * **Açúcar:** Essa é a comida da planta! É como a barra de energia do seu personagem de videogame, que dá força para ela crescer, ter flores e frutos. * **Oxigênio:** Sabe o ar puro que a gente respira? As plantas liberam o oxigênio como se fosse um 'gás residual' dessa 'receita'. Ou seja, as plantas nos ajudam a respirar! Então, a fotossíntese é o jeito que as plantas têm de criar sua própria comida usando a luz do sol, água e o ar. É uma 'fábrica' incrível que funciona sem parar, nos dando o ar que respiramos e mantendo as plantas vivas e saudáveis, como verdadeiros 'super-heróis' do nosso planeta! Legal, né?",
+      "conceitos_chave": [
+        "As plantas produzem seu próprio alimento (açúcar)",
+        "Ingredientes: Luz do Sol, Água, Gás Carbônico",
+        "Onde acontece: Nas folhas, com a clorofila"
+      ],
+      "analogia_utilizada": "As plantas são como personagens de videogame que produzem sua própria energia (comida) em uma 'fábrica' nas folhas, usando a luz do sol como 'super power-up' e água/gás carbônico como 'ingredientes'.",
+      "nivel_adequado": true
+    }
+  },
+  "d93b705ecb98937ee00a8bc001797a46": {
+    "aluno_id": "aluno_01",
+    "topico": "fotossíntese",
+    "tipo": "exemplos_praticos",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:24:03.774153",
+    "conteudo": {
+      "tipo": "exemplos_praticos",
+      "versao_prompt": "v1",
+      "exemplos": [
+        {
+          "titulo": "A Cozinha Solar da Folha",
+          "descricao": "Imagine que cada folha de uma planta é como uma pequena cozinha verde! O sol é o forno que dá toda a energia. A planta 'pega' a água pelas raízes (como se estivesse pegando água da torneira) e o gás carbônico do ar (o mesmo gás que a gente solta quando respira, sabe?). Dentro dessa 'cozinha', com a ajuda da cor verde da folha, a planta usa a energia do sol para transformar a água e o gás em seu próprio alimento (um tipo de açúcar doce!) e ainda libera oxigênio para a gente respirar. É como se a planta fizesse um bolo delicioso para ela mesma e ainda nos desse um ar fresquinho de presente!",
+          "nivel": null,
+          "conexao_com_aluno": null
+        },
+        {
+          "titulo": "A Planta Vira Jogador com Superpoderes",
+          "descricao": "Pense na planta como um jogador de futebol que precisa de muita energia para correr e chutar a bola. Em vez de comer lanche, a planta tem um superpoder! Ela usa a luz do sol como se fosse uma 'bateria solar' gigante. Com essa energia do sol, a planta pega a água do chão (que é como a 'água' que o jogador bebe para se hidratar) e o gás carbônico do ar (como o 'ar' que enche a bola). Assim, ela 'fabrica' a sua própria comida e ganha energia para crescer, dar flores e frutos, e ainda 'chuta para fora' o oxigênio, que é o ar que a gente respira para também ter energia e jogar!",
+          "nivel": null,
+          "conexao_com_aluno": null
+        },
+        {
+          "titulo": "O Videogame da Planta: Coletando Energias!",
+          "descricao": "Imagine que a planta está jogando um videogame e precisa coletar itens para ganhar energia. O 'item' mais importante é a luz do sol, que aparece como um raio amarelo brilhante! A planta também coleta 'gotinhas de água' (que vêm da chuva e da terra) e 'bolhas de ar' (que são o gás carbônico que está no ar). Dentro das folhas verdes, que são como os 'laboratórios' do jogo, a planta junta tudo isso. Ela usa a energia do sol para transformar a água e o gás carbônico em 'barras de energia' (o alimento dela) e, como recompensa, ela 'libera' bolhas de oxigênio para o ambiente. Quanto mais ela joga e coleta, mais ela cresce e fica forte!",
+          "nivel": null,
+          "conexao_com_aluno": null
+        }
+      ],
+      "estilo_aplicado": null
+    }
+  },
+  "c37693ac1b0ed47763b6531b5e956145": {
+    "aluno_id": "aluno_01",
+    "topico": "fotossíntese",
+    "tipo": "exemplos_praticos",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:24:21.047425",
+    "conteudo": {
+      "tipo": "exemplos_praticos",
+      "versao_prompt": "v2",
+      "exemplos": [
+        {
+          "titulo": "A Planta Artista: Desenhando a Própria Comida",
+          "descricao": "Imagine uma planta como um artista que não usa lápis e papel, mas sim a luz do sol como uma 'caneta de energia', a água como 'tinta' e o gás carbônico do ar como 'cor principal'. Ela desenha e produz seu próprio alimento (açúcar) e, como toque final, 'solta' oxigênio, que é como um 'cheirinho bom' depois de terminar a obra. É como se ela estivesse desenhando em suas folhas, que são suas 'telas verdes'. Você pode até visualizar as folhas com pequenos 'olhinhos' invisíveis (os estômatos) absorvendo o ar para começar a desenhar!",
+          "nivel": "basico",
+          "conexao_com_aluno": "Lucas gosta de desenho. Este exemplo usa a analogia da planta como um artista que 'desenha' sua própria comida, conectando o processo da fotossíntese à sua paixão por desenhar, usando termos visuais como 'caneta de energia', 'tinta' e 'telas verdes' para facilitar a compreensão de um processo abstrato."
+        },
+        {
+          "titulo": "O Almoço Secreto da Planta",
+          "descricao": "Pense em você, Lucas, quando chega a hora do almoço. Você come um prato delicioso para ter energia para jogar bola ou videogame, certo? As plantas também precisam de um 'almoço' para crescer e ficar fortes! Só que o almoço delas é muito especial e acontece dentro das folhas verdes. Imagine que o sol é como o 'fogão' da planta, a água que vem da raiz é o 'tempero', e um gás do ar (gás carbônico) é o 'ingrediente principal'. As folhas, que são verdes por causa de uma substância chamada clorofila, são como a 'cozinha' onde tudo se mistura. Lá, com a energia do sol, a planta 'cozinha' seu próprio açúcar (a comida dela!) e libera oxigênio, que é o ar puro que a gente respira. Você pode visualizar a folha como uma pequena fábrica de alimentos, com 'chaminés' soltando oxigênio para o ambiente.",
+          "nivel": "intermediario",
+          "conexao_com_aluno": "Este exemplo usa a rotina de alimentação de Lucas (almoço) para explicar a necessidade de energia da planta, criando uma analogia com a 'comida' e o 'cozinheiro' para o processo da fotossíntese. A visualização da folha como uma 'fábrica de alimentos' reforça o estilo visual e torna o conceito mais concreto."
+        },
+        {
+          "titulo": "O Superpoder das Plantas no Nosso Planeta",
+          "descricao": "Sabe quando você está jogando futebol em um campo gramado ou passeando em um parque com muitas árvores? Toda aquela grama verdinha e todas as árvores grandes e pequenas estão usando o superpoder da fotossíntese o tempo todo! Elas pegam a luz do sol, a água da terra e o gás carbônico do ar e, como mágica, transformam tudo isso em seu próprio alimento (açúcar) e, o mais importante para nós, em oxigênio! É como se cada folhinha fosse uma pequena 'bombinha de ar puro', invisível, mas trabalhando sem parar para encher o mundo de ar fresco para a gente respirar. Imagine uma grande nuvem de ar puro, transparente, saindo das florestas e indo para o céu, tudo graças à fotossíntese. E não é só isso: as plantas são a base da alimentação para muitos animais e para nós também, ou seja, elas produzem a energia que sustenta quase toda a vida que a gente vê no planeta. Pense que, sem essa 'mágica verde', não teríamos nem ar para respirar nem a maioria dos alimentos para comer!",
+          "nivel": "aplicado",
+          "conexao_com_aluno": "Este exemplo mostra a importância da fotossíntese no dia a dia de Lucas e no mundo real, conectando-a ao ar que ele respira enquanto joga futebol e à base da alimentação de todos os seres vivos. A visualização das folhas como 'bombinhas de ar puro' e a 'nuvem de ar puro' são imagens fortes e claras para o estilo de aprendizado visual, tornando o impacto do conceito mais palpável."
+        }
+      ],
+      "estilo_aplicado": "visual"
+    }
+  },
+  "eb949b5f0e94e40e88dd48e1b9098ddc": {
+    "aluno_id": "aluno_01",
+    "topico": "fotossíntese",
+    "tipo": "perguntas_reflexao",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:24:31.170215",
+    "conteudo": {
+      "tipo": "perguntas_reflexao",
+      "versao_prompt": "v1",
+      "perguntas": [
+        "Quando você vê uma planta crescendo forte e verdinha, o que você acha que ela está usando para ficar assim, já que ela não vai ao supermercado?",
+        "Se a fotossíntese fosse uma receita de bolo que a planta faz, quais seriam os 'ingredientes' que ela precisa e o que ela 'cozinha' que é importante para nós e para ela?",
+        "Pense nos jogadores de futebol correndo e você desenhando: o que aconteceria com a energia deles e até com o ar que respiramos se as plantas parassem de fazer fotossíntese?",
+        "Se você fosse um inventor e quisesse criar uma 'máquina' para ajudar uma planta a fazer fotossíntese mesmo em um quarto escuro, o que sua máquina precisaria ter ou dar para a planta?"
+      ]
+    }
+  },
+  "36d5167d5b8b8af65c4116c886e20487": {
+    "aluno_id": "aluno_01",
+    "topico": "fotossíntese",
+    "tipo": "perguntas_reflexao",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:24:46.453065",
+    "conteudo": {
+      "tipo": "perguntas_reflexao",
+      "versao_prompt": "v2",
+      "perguntas": [
+        {
+          "numero": 1,
+          "nivel_cognitivo": "compreensão",
+          "pergunta": "As plantas são incríveis porque elas fazem a própria comida! Se você fosse explicar para um amigo o que a planta usa (como ingredientes) e o que ela faz para 'cozinhar' sua comida, o que você diria?",
+          "objetivo_pedagogico": "Verifica o entendimento dos elementos essenciais (água, luz, gás carbônico) e do processo básico de produção de alimento pela planta."
+        },
+        {
+          "numero": 2,
+          "nivel_cognitivo": "aplicação",
+          "pergunta": "Você está desenhando um cenário de videogame onde precisa ter árvores e plantas bem verdinhas e cheias de vida. Se você pudesse controlar o 'sol' e o 'ar' do jogo, o que você faria para garantir que as plantas tivessem tudo o que precisam para fazer fotossíntese e não ficassem 'murchinhas'?",
+          "objetivo_pedagogico": "Pede ao aluno para aplicar o conhecimento sobre os requisitos da fotossíntese em um contexto criativo e prático (um jogo), demonstrando como as condições ambientais afetam o processo."
+        },
+        {
+          "numero": 3,
+          "nivel_cognitivo": "análise",
+          "pergunta": "Quando você joga futebol, seu corpo usa a energia da comida que você comeu. Mas as plantas não comem um sanduíche! Elas têm um jeito especial de conseguir energia. Qual é a principal diferença entre como você consegue energia e como a planta consegue a dela, pensando na fotossíntese?",
+          "objetivo_pedagogico": "Desafia o aluno a comparar e diferenciar o processo de obtenção de energia entre seres vivos heterotróficos (humanos/animais) e autotróficos (plantas) através da fotossíntese, focando na fonte da energia."
+        },
+        {
+          "numero": 4,
+          "nivel_cognitivo": "síntese",
+          "pergunta": "Imagine que você é o 'criador de mundos' de um novo videogame. Você precisa criar um planeta onde as plantas sejam super importantes para o ar que os personagens respiram. Que tipo de 'super poder' de fotossíntese você daria para as plantas desse planeta para que elas produzissem muito oxigênio, e o que elas precisariam para usar esse poder?",
+          "objetivo_pedagogico": "Incentiva a criatividade e a inovação, pedindo ao aluno para projetar uma nova forma de fotossíntese e seus requisitos, demonstrando uma compreensão aprofundada dos componentes e resultados do processo."
+        }
+      ]
+    }
+  },
+  "1c2b03d587f7ae5eb87bc7ca6b6b35ec": {
+    "aluno_id": "aluno_01",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:25:03.440653",
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v1",
+      "mapa_ascii": "FOTOSSÍNTESE: A FÁBRICA DE COMIDA DAS PLANTAS!\n├─ O QUE É?\n│  ├─ Processo que as plantas usam para fazer seu próprio alimento.\n│  ├─ Como o \"chef\" que cozinha para a planta.\n│  └─ Super importante para a vida na Terra!\n├─ ONDE ACONTECE?\n│  └─ Principalmente nas folhas verdes da planta.\n│     └─ Dentro de pequenas \"fábricas\" verdes (chamadas cloroplastos).\n├─ INGREDIENTES (O que a planta precisa para começar):\n│  ├─ Água\n│  │  └─ Absorvida pela raiz (como um canudo no solo).\n│  ├─ Gás Carbônico\n│  │  └─ Vem do ar (o que a gente solta ao respirar).\n│  │     └─ Entra por pequenos buraquinhos nas folhas.\n│  ├─ Luz do Sol\n│  │  └─ É a ENERGIA principal (como a tomada para o videogame).\n│  └─ Clorofila\n│     └─ Substância verde nas folhas que \"pega\" a luz do sol (como um painel solar).\n├─ COMO ACONTECE (O processo mágico!):\n│  ├─ A clorofila absorve a luz do sol.\n│  ├─ Essa energia usa a água e o gás carbônico...\n│  └─ ...para \"cozinhar\" o alimento da planta.\n├─ O QUE É PRODUZIDO (Saídas - Os \"produtos\" da fábrica!):\n│  ├─ Açúcar (Glicose)\n│  │  ├─ É o alimento da planta!\n│  │  └─ Dá energia para a planta crescer e se manter (como a energia que te dá força para jogar futebol!).\n│  └─ Oxigênio\n│     ├─ É liberado para o ar.\n│     └─ O GÁS QUE NÓS E TODOS OS ANIMAIS RESPIRAMOS! (Muito importante!)",
+      "descricao": "Este mapa mental ASCII apresenta a fotossíntese de forma simplificada e visualmente organizada. Ele é adaptado para Lucas, de 10 anos, utilizando analogias do seu universo (videogames, futebol, desenho) para explicar os conceitos de entradas (água, gás carbônico, luz solar e clorofila), o processo e as saídas (açúcar/glicose e oxigênio), tornando o aprendizado mais concreto e engajador.",
+      "legenda": null,
+      "dica_de_uso": null,
+      "estilo_aplicado": null
+    }
+  },
+  "bb1bd14f33c50337f744f8b55cb9b990": {
+    "aluno_id": "aluno_01",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:29:06.317511",
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v2",
+      "mapa_ascii": "                     FOTOSSÍNTESE\n                 (Plantas Criam Comida!)\n                             │\n         ┌───────────────────┴───────────────────┐\n         │                   │                   │\n   ┌─────┴─────┐     ┌───────┴───────┐     ┌─────┴─────┐     ┌─────┴─────┐\n   │ 1. O QUE É? │     │ 2. INGREDIENTES │     │ 3. ONDE ACONTECE? │     │ 4. RESULTADOS │\n   └─────┬─────┘     └───────┬───────┘     └─────┬─────┘     └─────┬─────┘\n         │                   │                   │                   │\n   ├─ Plantas 'fabricam' alimento\n   └─ Usam energia do Sol (superpoder!)\n      └─ Sol = \"combustível\"\n\n   ├─ Luz do Sol (energia!)\n   │  └─ Ajuda a \"cozinhar\"\n   ├─ Água (da chuva ou rega)\n   │  └─ Absorvida pela raiz\n   └─ Gás Carbônico (do ar)\n      └─ Entra pelas folhinhas\n\n   ├─ Nas FOLHAS (principalmente)\n   │  └─ São as \"fábricas\" verdes da planta\n   └─ Pelo Pigmento VERDE (Clorofila)\n      └─ Ele \"capta\" a luz do Sol\n\n   ├─ Açúcar (Glicose): Comida da planta\n   │  └─ Dá energia para a planta crescer (como a sua comida!)\n   └─ OXIGÊNIO (Para o ar!)\n      └─ O ar que nós e os animais respiramos!\n         └─ Essencial para a vida na Terra",
+      "descricao": "Este mapa mental visual foi criado para o Lucas, um aluno do 5º ano, com foco em explicar a fotossíntese de forma clara e objetiva. Utiliza uma estrutura de 'receita' e 'fábrica' para facilitar a compreensão de como as plantas produzem seu alimento e o oxigênio que respiramos, conectando com seus interesses e estilo de aprendizado visual.",
+      "legenda": "O mapa mostra que a FOTOSSÍNTESE é como as plantas 'fabricam' sua comida usando a energia do Sol. Os 'INGREDIENTES' dessa receita são a luz do Sol, água e gás carbônico. Tudo isso 'ACONTECE' principalmente nas folhas, graças a um pigmento verde chamado clorofila. Os 'RESULTADOS' são o açúcar (comida para a planta) e o oxigênio (para respirarmos).",
+      "dica_de_uso": "Lucas, você pode usar este mapa como um 'guia rápido' visual! Olhe para o centro (FOTOSSÍNTESE) e depois siga as 'setas' para entender cada parte. Imagine que cada caixa é uma parte do seu jogo favorito, onde cada fase é importante! Tente desenhar cada item ao lado das palavras ou colorir as partes que mais te ajudam a lembrar. Por exemplo, pode desenhar um Sol perto de 'Luz do Sol' e uma folha verde perto de 'Clorofila'.",
+      "estilo_aplicado": "visual"
+    }
+  },
+  "099a1ddd9e12f94aa8d6b6d3da1fdd23": {
+    "aluno_id": "aluno_02",
+    "topico": "fotossíntese",
+    "tipo": "explicacao_conceitual",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:29:26.511220",
+    "conteudo": {
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v1",
+      "titulo": "Fotossíntese: A Receita Secreta da Natureza para a Vida!",
+      "conteudo": "Olá, Ana Beatriz! Vamos desvendar um dos processos mais incríveis e essenciais para a vida na Terra: a fotossíntese. Não se preocupe com cálculos complexos; vamos focar na lógica e na beleza desse fenômeno.\n\n**O Que é Fotossíntese?**\nA palavra \"fotossíntese\" pode parecer um pouco grande, mas seu significado é simples e direto: \"foto\" significa luz e \"síntese\" significa produção ou fabricação. Então, fotossíntese é literalmente a \"produção usando a luz\". É o processo pelo qual as plantas, algumas algas e certas bactérias transformam a luz do sol em energia para crescer e se desenvolver. Pense nelas como os grandes produtores de alimento e oxigênio do nosso planeta!\n\n**A Cozinha Verde das Plantas: Uma Analogia**\nPara entender melhor, imagine que cada planta é como uma pequena **cozinha super equipada**, e ela precisa cozinhar seu próprio alimento. Nós, humanos, vamos ao supermercado comprar nossos ingredientes. As plantas, por sua vez, têm uma maneira muito mais engenhosa de conseguir os deles.\n\n**Os Ingredientes Necessários (As Matérias-Primas):**\nPara \"cozinhar\", a planta precisa de alguns ingredientes básicos:\n1.  **Água (H₂O):** Ela absorve a água do solo pelas raízes. É como a água que usamos para cozinhar.\n2.  **Gás Carbônico (CO₂):** Esse gás, presente no ar que respiramos (e que nós liberamos ao expirar), entra na planta através de minúsculas \"portinhas\" em suas folhas, chamadas estômatos. Pense nele como o açúcar ou farinha da receita.\n3.  **Luz Solar:** A energia mais importante! É como a chama do fogão ou a eletricidade para ligar os aparelhos da cozinha. Sem a luz do sol, a \"cozinha\" da planta não funciona.\n\n**Onde Acontece a Mágica? Os Cloroplastos e a Clorofila**\nA \"cozinha\" da planta não é toda ela, mas sim estruturas muito pequenas dentro das células das folhas, chamadas **cloroplastos**. Dentro desses cloroplastos, existe uma substância verde especial que dá cor às plantas: a **clorofila**. É a clorofila que tem a capacidade incrível de \"capturar\" a energia da luz solar, como se fosse um painel solar microscópico. Sem clorofila, a fotossíntese não acontece.\n\n**A Receita Secreta (O Processo em Duas Partes):**\nCom todos os ingredientes e a energia da luz, a planta começa a \"cozinhar\". O processo é dividido em duas etapas principais, embora para seu nível, podemos pensar nelas como partes de uma grande receita:\n*   **Etapa 1 (Dependente da Luz):** A clorofila absorve a luz solar, e essa energia é usada para dividir a água (H₂O), liberando oxigênio (O₂) para a atmosfera. Uma parte dessa energia é armazenada para a próxima etapa.\n*   **Etapa 2 (Independente da Luz):** Usando a energia armazenada e o gás carbônico (CO₂), a planta \"monta\" seu alimento.\n\n**Os Produtos Finais (O que a Planta \"Cozinha\"):**\nDepois de todo o processo, a planta produz duas coisas essenciais:\n1.  **Glicose (C₆H₁₂O₆):** Este é o \"alimento\" da planta, um tipo de açúcar. A glicose é a fonte de energia que a planta usa para crescer, florescer e produzir frutos. É o resultado delicioso da sua receita! É como o pão quentinho que o padeiro faz.\n2.  **Oxigênio (O₂):** Este é um \"subproduto\" do processo, mas é vital para a maioria dos seres vivos da Terra, inclusive nós! As plantas liberam o oxigênio de volta para o ar, permitindo que todos os animais respirem.\n\n**Por Que a Fotossíntese é Tão Importante?**\nA fotossíntese não é importante apenas para as plantas. Ela é o pilar da vida no nosso planeta!\n*   **Alimento:** Todas as cadeias alimentares começam com produtores, ou seja, seres que fazem fotossíntese. Nós comemos plantas ou animais que comeram plantas.\n*   **Oxigênio:** Ela repõe o oxigênio que respiramos e que é consumido na combustão e na respiração de outros seres vivos.\n*   **Equilíbrio:** Ajuda a regular a quantidade de gás carbônico na atmosfera.\n\nEntender a fotossíntese é como descobrir a partitura de uma linda melodia na natureza, onde cada elemento – luz, água, ar – se combina para criar a sinfonia da vida. É um processo fascinante que demonstra a incrível inteligência e interconexão do mundo natural.",
+      "conceitos_chave": null,
+      "analogia_utilizada": null,
+      "nivel_adequado": null
+    }
+  },
+  "e3c77856080054bd2f85010db97d7555": {
+    "aluno_id": "aluno_02",
+    "topico": "fotossíntese",
+    "tipo": "explicacao_conceitual",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:29:45.564878",
+    "conteudo": {
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v2",
+      "titulo": "Fotossíntese: A Fábrica Secreta de Energia das Plantas!",
+      "conteudo": "Olá, Ana Beatriz! Vamos desvendar um dos processos mais incríveis e essenciais da natureza: a fotossíntese. É a 'mágica' que as plantas fazem para viver e, de quebra, garantir a nossa vida também!\n\nPara entender a fotossíntese, imagine que a folha de uma planta é como uma **minifábrica superinteligente e sustentável**! Essa fábrica tem uma missão muito especial: produzir o próprio alimento da planta usando a energia do sol.\n\nDentro dessa fábrica, existem pequenos 'departamentos' chamados **cloroplastos**. E o 'gerente de produção' principal é uma substância verde chamada **clorofila**. É a clorofila que dá a cor verde às plantas e, mais importante, é ela quem 'captura' a energia da luz do sol. Pense na clorofila como um painel solar interno da planta, convertendo a luz em algo que a fábrica pode usar!\n\nAgora, toda fábrica precisa de matéria-prima, certo? Para a fábrica da fotossíntese, os 'ingredientes' são:\n1.  **Água (H2O):** Que a planta absorve pelas raízes do solo, como um sistema de encanamento.\n2.  **Dióxido de Carbono (CO2):** Um gás presente no ar que entra na folha por pequenas 'portinhas' chamadas estômatos (como se fossem janelas da fábrica que se abrem para o ar).\n3.  **Luz do Sol:** A energia que a clorofila 'pega' e que faz tudo acontecer – é o 'combustível' para as máquinas da fábrica funcionarem, impulsionando a produção.\n\nCom esses 'ingredientes' e a energia solar, a fábrica da fotossíntese trabalha! Dentro dos cloroplastos, a energia da luz é usada para quebrar as moléculas de água e dióxido de carbono e 'remontá-las' de uma forma nova. É como se a fábrica tivesse uma 'receita secreta' de alquimia verde, transformando o que parece simples em algo vital!\n\nOs 'produtos' que saem dessa fábrica são:\n*   **Glicose (açúcar):** Este é o alimento da planta! É a 'energia doce' que ela usa para crescer, florescer, produzir frutos e se manter viva. É a 'música' que a planta 'compõe' para sua própria existência.\n*   **Oxigênio (O2):** Um gás essencial para a nossa respiração e a de quase todos os seres vivos na Terra. É o 'brinde' que a fábrica da planta oferece para o ambiente, como se fosse um 'bônus' valioso da sua produção.\n\nEntão, a fotossíntese é, em resumo, o processo em que as plantas, usando a luz do sol, água e dióxido de carbono, produzem seu próprio alimento (glicose) e liberam oxigênio. É um ciclo vital que conecta a vida vegetal e animal, mostrando como a natureza tem sistemas complexos e belos, como uma grande orquestra onde cada elemento tem seu papel para a harmonia do planeta. As plantas são, de fato, as grandes 'chefes de cozinha' e 'engenheiras de energia' do nosso mundo!",
+      "conceitos_chave": [
+        "Conversão de Energia Solar",
+        "Produção de Alimento e Oxigênio",
+        "Clorofila e Cloroplastos"
+      ],
+      "analogia_utilizada": "A folha de uma planta é comparada a uma 'minifábrica superinteligente e sustentável' que utiliza a luz solar como energia para produzir seu próprio alimento (glicose) e liberar oxigênio.",
+      "nivel_adequado": true
+    }
+  },
+  "7e03edb99f0c52c66da40f19b0234af7": {
+    "aluno_id": "aluno_02",
+    "topico": "fotossíntese",
+    "tipo": "exemplos_praticos",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:30:02.234619",
+    "conteudo": {
+      "tipo": "exemplos_praticos",
+      "versao_prompt": "v1",
+      "exemplos": [
+        {
+          "titulo": "A Cozinha Secreta das Plantas",
+          "descricao": "Imagine que cada folha de uma planta é uma pequena \"cozinha\" onde ela prepara seu próprio alimento. Assim como você precisa de ingredientes para cozinhar, a planta usa três \"ingredientes\" principais: a luz do sol (que fornece a energia para \"ligar o fogão\"), a água (que ela absorve pelas raízes, como um líquido para a receita) e o gás carbônico (que ela \"respira\" do ar, como um tempero invisível). Dentro dessa cozinha, um pigmento verde chamado clorofila (que dá a cor à folha) funciona como o \"chefe de cozinha\", transformando esses ingredientes em açúcares (o alimento da planta para crescer e ter energia) e liberando oxigênio (que é um \"subproduto\" importante para nós respirarmos). É um processo contínuo e vital!",
+          "nivel": null,
+          "conexao_com_aluno": null
+        },
+        {
+          "titulo": "A Troca de Presentes entre Plantas e Humanos",
+          "descricao": "Pense na fotossíntese como uma \"negociação\" ou uma \"troca de presentes\" constante na natureza. Nós, seres humanos (e outros animais), inspiramos oxigênio e expiramos gás carbônico, um gás que não nos é útil em grandes quantidades. As plantas, por sua vez, fazem o oposto: elas \"capturam\" esse gás carbônico que liberamos, usam-no na fotossíntese para fabricar seu alimento e, como \"presente de volta\", nos fornecem o oxigênio essencial que precisamos para viver. É como se a natureza tivesse um ciclo musical onde cada um faz sua parte e contribui para a harmonia do ecossistema, garantindo que o \"ar fresco\" esteja sempre disponível para todos.",
+          "nivel": null,
+          "conexao_com_aluno": null
+        },
+        {
+          "titulo": "A Magia Verde que Sustenta o Mundo",
+          "descricao": "Já parou para pensar de onde vem toda a energia para uma árvore gigante crescer a partir de uma semente minúscula? É a fotossíntese! Considere uma semente de girassol plantada em um vaso. Para ela crescer e se transformar em uma planta alta com flores amarelas vibrantes, ela não \"come\" terra. Em vez disso, a luz do sol age como a principal \"bateria\" que energiza todo o processo. Com essa energia solar, a planta consegue transformar a água e o gás carbônico em açúcares que são sua fonte de energia e os blocos de construção para formar suas raízes, caule, folhas e, finalmente, as sementes que darão origem a novos girassóis. É uma transformação impressionante de energia luminosa em energia química, que literalmente constrói a planta e sustenta a vida na Terra.",
+          "nivel": null,
+          "conexao_com_aluno": null
+        }
+      ],
+      "estilo_aplicado": null
+    }
+  },
+  "0559fad9cc7d79a7e999ed8544c1539d": {
+    "aluno_id": "aluno_02",
+    "topico": "fotossíntese",
+    "tipo": "exemplos_praticos",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:30:21.516842",
+    "conteudo": {
+      "tipo": "exemplos_praticos",
+      "versao_prompt": "v2",
+      "exemplos": [
+        {
+          "titulo": "A 'Fórmula da Vida' por um Cientista Curioso",
+          "descricao": "Pense na fotossíntese como uma das mais elegantes 'fórmulas' ou 'equações' da biologia, um verdadeiro 'código fonte' que cientistas continuam a 'decifrar'. Assim como na ciência, onde observamos fenômenos e tentamos entender suas 'leis', as plantas 'leem' a luz solar para 'escrever' sua própria energia. A clorofila, o pigmento verde, atua como um 'sensor' que 'interpreta' a energia luminosa e, junto com dióxido de carbono do ar e água das raízes, 'compõe' moléculas de glicose (açúcar, seu alimento) e 'publica' oxigênio como um subproduto. É a 'receita' fundamental para a vida na Terra, um exemplo fascinante de como a natureza converte uma forma de energia em outra, um conceito central que une química, física e biologia.",
+          "nivel": "basico",
+          "conexao_com_aluno": "Este exemplo conecta-se diretamente ao interesse da Ana por 'ciências', apresentando a fotossíntese como uma 'fórmula' ou 'código' biológico a ser compreendido, o que ressoa com a natureza investigativa e estruturada da ciência. A linguagem utiliza 'fórmulas', 'equações', 'leis' e 'receitas', que são termos que se alinham com a preferência de leitura-escrita por definições precisas e comparações."
+        },
+        {
+          "titulo": "Sua 'Lancheira Verde': A Planta na Janela",
+          "descricao": "Imagine que a planta no vaso da sua sala de aula ou na janela do seu quarto tem uma 'lancheira' muito especial. Diferente de você, que prepara seu lanche ou compra na cantina para ter energia e estudar, a planta 'prepara' seu próprio 'alimento'. A fotossíntese é como a 'cozinha particular' da planta. Ela 'absorve' a luz do sol, que funciona como a 'energia do fogão'; 'captura' o dióxido de carbono (CO2) do ar, que é um 'ingrediente'; e 'absorve' água pelas raízes, que é outro 'ingrediente essencial'. Dentro das folhas, em estruturas chamadas cloroplastos, a planta 'combina' esses 'ingredientes' e 'transforma' tudo em glicose (um tipo de açúcar que é sua fonte de energia) e libera oxigênio, que é o 'ar fresco' que você respira. É um 'processo de produção' contínuo de energia vital, essencial para o crescimento da planta, assim como seu lanche é para seu aprendizado e desenvolvimento.",
+          "nivel": "intermediario",
+          "conexao_com_aluno": "Este exemplo é situado no cotidiano de um estudante de 15 anos, usando a analogia da 'lancheira' e 'preparação de alimento' para conectar a fotossíntese à necessidade de energia para as atividades diárias. A descrição compara o processo vegetal com ações humanas ('prepara seu lanche', 'compra na cantina'), utilizando definições e comparações que favorecem o estilo de aprendizado leitura-escrita e a compreensão de como a planta obtém sua energia, um paralelo com a própria Ana."
+        },
+        {
+          "titulo": "A Fotossíntese como 'Fundamento' Global da Vida e da Economia",
+          "descricao": "A fotossíntese não é apenas um processo que ocorre em plantas; ela é a 'base' e o 'alicerce' de quase todo o ecossistema e da economia global. Considere o oxigênio que você respira a cada segundo: ele é o 'produto final' vital da fotossíntese realizada por plantas, árvores e algas marinhas, que são como as 'grandes fábricas de ar puro' do planeta. Além disso, a glicose que as plantas produzem é o 'primeiro capítulo' da cadeia alimentar. Qualquer alimento de origem vegetal que você come – frutas, vegetais, grãos – é energia solar 'capturada' pela fotossíntese. E mesmo a carne que você consome vem de animais que se alimentaram de plantas. Em um sentido mais amplo, a madeira para móveis e papel, o algodão para suas roupas, e até mesmo os combustíveis fósseis (carvão, petróleo e gás natural), que são a energia solar 'armazenada' de plantas antigas, são 'derivados' e 'registros' da fotossíntese. Sem este 'motor fundamental' da vida, o 'livro' da existência na Terra não teria como ser 'escrito' ou 'mantido'.",
+          "nivel": "aplicado",
+          "conexao_com_aluno": "Este exemplo demonstra a relevância da fotossíntese no 'mundo real', expandindo-o para sistemas globais de vida e economia. As analogias de 'fundamento', 'alicerce', 'primeiro capítulo', 'fábricas de ar puro' e 'motor fundamental' são utilizadas para fornecer definições claras e comparações amplas, adequadas ao estilo de leitura-escrita. Mostra como um conceito biológico é a base para o ar que respiramos, os alimentos que comemos e até mesmo recursos industriais, conectando o tópico a um panorama mais amplo e aplicado."
+        }
+      ],
+      "estilo_aplicado": "leitura-escrita"
+    }
+  },
+  "acc4b88d4a0d38f0c9ad1ebd04cb9bb9": {
+    "aluno_id": "aluno_02",
+    "topico": "fotossíntese",
+    "tipo": "perguntas_reflexao",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:30:33.211907",
+    "conteudo": {
+      "tipo": "perguntas_reflexao",
+      "versao_prompt": "v1",
+      "perguntas": [
+        "Qual é a principal função da fotossíntese para as plantas e como ela permite que elas se desenvolvam e se mantenham vivas?",
+        "Considerando os produtos da fotossíntese (oxigênio e glicose), de que maneiras esse processo beneficia diretamente outros seres vivos, incluindo os humanos, e qual seria o impacto em um ecossistema se a fotossíntese não existisse?",
+        "Se a quantidade de dióxido de carbono na atmosfera diminuísse drasticamente por algum motivo, como isso afetaria a capacidade das plantas de realizar a fotossíntese e quais seriam as consequências para a vida na Terra a longo prazo?",
+        "Pensando na interdependência dos seres vivos, como as atividades humanas modernas, como o desmatamento e a poluição, podem influenciar a eficiência da fotossíntese em escala global e o que poderíamos fazer para mitigar esses impactos?"
+      ]
+    }
+  },
+  "6c9cd5e3006a1f0a5912af9a7588da94": {
+    "aluno_id": "aluno_02",
+    "topico": "fotossíntese",
+    "tipo": "perguntas_reflexao",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:30:44.898895",
+    "conteudo": {
+      "tipo": "perguntas_reflexao",
+      "versao_prompt": "v2",
+      "perguntas": [
+        {
+          "numero": 1,
+          "nivel_cognitivo": "compreensão",
+          "pergunta": "De forma clara e objetiva, como você explicaria para um colega o que é a fotossíntese e qual é a sua importância principal para a existência da vida na Terra?",
+          "objetivo_pedagogico": "Verificar a compreensão dos componentes essenciais (reagentes, produtos) e do propósito central da fotossíntese, incentivando a organização do pensamento para uma explicação didática."
+        },
+        {
+          "numero": 2,
+          "nivel_cognitivo": "aplicação",
+          "pergunta": "Imagine que você é uma cientista botânica e descobre uma nova espécie de planta que vive em ambientes com pouquíssima luz solar, como o interior de cavernas. Pensando nos elementos essenciais para a fotossíntese que estudamos, quais adaptações especiais você esperaria encontrar nessa planta para que ela consiga produzir seu próprio alimento de forma eficiente?",
+          "objetivo_pedagogico": "Avaliar a capacidade de aplicar o conhecimento sobre os requisitos e o processo da fotossíntese para inferir adaptações biológicas em um cenário hipotético, demonstrando raciocínio lógico."
+        },
+        {
+          "numero": 3,
+          "nivel_cognitivo": "análise",
+          "pergunta": "A fotossíntese e a respiração celular são processos que acontecem nos seres vivos e são essenciais para a manutenção da vida, mas com propósitos distintos. Explique as principais diferenças entre esses dois processos em termos de seus reagentes, produtos finais e a principal 'moeda de troca' energética de cada um, e como eles se complementam na natureza.",
+          "objetivo_pedagogico": "Desenvolver a capacidade de comparar e contrastar processos biológicos relacionados, identificando suas particularidades, aprofundando a compreensão sobre a interdependência e o fluxo de energia nos ecossistemas."
+        },
+        {
+          "numero": 4,
+          "nivel_cognitivo": "síntese",
+          "pergunta": "Considerando a fundamental importância da fotossíntese para a vida e a produção de oxigênio, e pensando nos desafios ambientais atuais, como as mudanças climáticas e a necessidade de energias renováveis, qual projeto inovador você proporia, inspirado nos princípios da fotossíntese, para ajudar a resolver um desses problemas? Descreva brevemente sua ideia e como ela funcionaria.",
+          "objetivo_pedagogico": "Estimular o pensamento criativo, a capacidade de síntese e a habilidade de propor soluções inovadoras baseadas no conhecimento científico da fotossíntese, aplicando esse entendimento a desafios complexos do mundo real."
+        }
+      ]
+    }
+  },
+  "c01d95e0241a8b19217c74257eeb312a": {
+    "aluno_id": "aluno_02",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:30:58.021599",
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v1",
+      "mapa_ascii": "FOTOSSÍNTESE\n├─ Definição\n│  └─ Processo vital de plantas, algas e algumas bactérias para produzir seu próprio alimento (glicose) usando luz solar.\n├─ Onde Acontece\n│  └─ Cloroplastos (organelas verdes nas células das plantas)\n│     └─ Contêm Clorofila (pigmento que absorve a luz)\n├─ Ingredientes (Entradas)\n│  ├─ Luz Solar\n│  │  └─ Fonte de energia inicial.\n│  ├─ Água (H2O)\n│  │  └─ Absorvida pelas raízes do solo.\n│  └─ Dióxido de Carbono (CO2)\n│     └─ Absorvido do ar pelas folhas.\n├─ Como Acontece (O Processo)\n│  ├─ 1. Fase Clara (Dependente da Luz)\n│  │  ├─ Onde: Tilacoides (estruturas dentro do cloroplasto)\n│  │  └─ O que ocorre:\n│  │     ├─ A luz solar é capturada pela clorofila.\n│  │     ├─ A energia da luz quebra moléculas de água (H2O).\n│  │     ├─ Libera Oxigênio (O2) para a atmosfera.\n│  │     └─ Gera ATP e NADPH (moléculas que armazenam energia temporariamente).\n│  └─ 2. Fase Escura (Ciclo de Calvin ou Reações Independentes da Luz)\n│     ├─ Onde: Estroma (líquido dentro do cloroplasto)\n│     └─ O que ocorre:\n│        ├─ Utiliza o ATP e NADPH da Fase Clara.\n│        ├─ Usa o Dióxido de Carbono (CO2) do ar.\n│        └─ Transforma CO2 em Glicose (açúcar), o alimento da planta.\n├─ Resultados (Saídas)\n│  ├─ Glicose (C6H12O6)\n│  │  └─ Açúcar, fonte de energia para a planta crescer e viver. Base da cadeia alimentar.\n│  └─ Oxigênio (O2)\n│     └─ Liberado para a atmosfera, essencial para a respiração de animais e humanos.\n├─ Importância\n│  ├─ Para as Plantas: Sua sobrevivência, crescimento e reprodução.\n│  ├─ Para Nós e Outros Animais: Fonte de alimento (direta ou indireta) e Oxigênio para respirar.\n│  └─ Para o Planeta: Ajuda a regular o clima, removendo CO2 da atmosfera.",
+      "descricao": "Este mapa mental ASCII detalha o processo de fotossíntese, cobrindo sua definição, onde ocorre, os ingredientes (entradas), as duas fases principais (clara e escura), os produtos resultantes (saídas) e sua importância para a vida na Terra. Foi estruturado para facilitar a leitura e anotação, com definições claras e exemplos escritos, conforme o estilo de aprendizado da Ana Beatriz.",
+      "legenda": null,
+      "dica_de_uso": null,
+      "estilo_aplicado": null
+    }
+  },
+  "11fd5e7756b214753fb9dfcd87b3a28b": {
+    "aluno_id": "aluno_02",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:31:18.446155",
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v2",
+      "mapa_ascii": "FOTOSSÍNTESE: A 'Máquina' Verde da Vida (transforma luz em alimento)\n│\n├─ O QUE É? (A Grande 'Conversão' de Energia)\n│  ├─ Define: \"Processo que converte energia luminosa em energia química, criando glicose (açúcar).\"\n│  └─ 'Fórmula' Universal: \"6CO₂ + 6H₂O + Luz → C₆H₁₂O₆ + 6O₂ (A 'receita' do ar puro e alimento).\"\n│\n├─ ONDE OCORRE? (O 'Palco' dos Cloroplastos)\n│  ├─ Local: \"Nas células das folhas, em organelas chamadas cloroplastos (pequenas 'usinas' verdes).\"\n│  └─ Ator Principal: \"Clorofila: o pigmento verde que 'captura' a luz do sol (como um 'ímã' de energia).\"\n│\n├─ COMO OCORRE? (As Duas 'Etapas' Essenciais)\n│  ├─ Fase Clara (Fotodependente): \"Precisa de luz; 'quebra' água (H₂O), libera O₂ e gera energia (ATP e NADPH).\"\n│  └─ Fase Escura (Ciclo de Calvin): \"Não precisa de luz direta; 'fixa' CO₂ e usa a energia para 'construir' glicose.\"\n│\n└─ POR QUE É VITAL? (O 'Sustento' do Nosso Mundo)\n   ├─ Produção de Alimento: \"Base da cadeia alimentar: 'cria' alimento para plantas e, indiretamente, para nós.\"\n   └─ Oxigênio para a Vida: \"Libera o oxigênio (O₂) que respiramos, 'limpando' o ar e mantendo a vida.\"\n      └─ Conexão Essencial: \"O inverso da Respiração Celular (elas 'conversam' o tempo todo).\"",
+      "descricao": "Este mapa mental ASCII foi criado para Ana Beatriz, uma estudante do Ensino Médio com foco em leitura-escrita, e detalha o processo da fotossíntese de forma clara e estruturada. Abrange o que é, onde e como acontece, e sua importância vital, utilizando definições precisas e exemplos adaptados aos seus interesses, além de termos que facilitam a memorização.",
+      "legenda": "O mapa centraliza no conceito de Fotossíntese, ramificando-se em quatro pilares principais: 'O Que É?', 'Onde Ocorre?', 'Como Ocorre?' e 'Por Que É Vital?'. Cada pilar é detalhado com definições concisas e exemplos ilustrativos. As 'folhas' extras trazem curiosidades ou conexões importantes, como a relação com a Respiração Celular, oferecendo uma compreensão completa e interligada do tema.",
+      "dica_de_uso": "Ana, utilize este mapa como seu guia de estudo! Primeiro, leia cada nó em voz alta para ajudar na memorização e fixação dos termos (aproveite os termos entre aspas!). Depois, tente reescrever o mapa com suas próprias palavras em um caderno, adicionando anotações e desenhos simples para reforçar cada conceito. Explore as 'fórmulas' e 'conexões' para entender a abrangência do processo. Este mapa é um excelente ponto de partida para suas revisões e para organizar suas ideias sobre a fotossíntese.",
+      "estilo_aplicado": "leitura-escrita"
+    }
+  },
+  "5c97f9a423e717c249220eeac2e64c4c": {
+    "aluno_id": "aluno_03",
+    "topico": "fotossíntese",
+    "tipo": "explicacao_conceitual",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:31:39.155364",
+    "conteudo": {
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v1",
+      "titulo": "A Fotossíntese: O Algoritmo de Criação de Energia Mais Eficiente da Natureza",
+      "conteudo": "Olá, Pedro!\n\nImagine um sistema biológico tão sofisticado que consegue transformar luz, água e um gás invisível em alimento para si mesmo e, de quebra, gerar o oxigênio que respiramos. Não é ficção científica ou o código de um robô superavançado, é a fotossíntese – o processo fundamental que sustenta praticamente toda a vida na Terra. Para você, que curte robótica e programação, pense na fotossíntese como um algoritmo de conversão de energia incrivelmente otimizado ou um circuito bioquímico auto-sustentável, rodando em micro-fábricas altamente eficientes.\n\n### O Que é a Fotossíntese?\n\nEm sua essência, a fotossíntese é o processo pelo qual organismos (principalmente plantas, algas e algumas bactérias) convertem energia luminosa em energia química, na forma de glicose (um tipo de açúcar). É a 'receita' da natureza para criar matéria orgânica a partir de componentes inorgânicos, usando a luz do sol como fonte primária de energia.\n\n### Os 'Inputs' (Entradas de Dados) do Sistema:\n\nPara que esse 'programa' rode, são necessários três 'inputs' principais:\n\n1.  **Água (H₂O)**: Absorvida pelas raízes das plantas, funciona como um reagente essencial e transportador dentro do sistema.\n2.  **Gás Carbônico (CO₂)**: Captado do ar através de pequenas aberturas nas folhas, chamadas estômatos. É a principal 'matéria-prima' para a construção das moléculas orgânicas.\n3.  **Luz Solar**: A energia, o 'combustível' ou a 'eletricidade' que alimenta todo o processo. Sem ela, o sistema não 'liga'.\n\n### A 'Unidade de Processamento' (Onde Tudo Acontece):\n\nTodo esse complexo processamento ocorre em organelas especializadas dentro das células vegetais: os **cloroplastos**. Pense neles como as 'CPUs' ou 'microcontroladores' das células fotossintetizantes. Dentro dos cloroplastos, existe um pigmento verde chamado **clorofila**, que funciona como um 'painel solar' biológico extremamente eficiente, capturando a energia luminosa.\n\n### O 'Algoritmo' da Fotossíntese: Duas Fases Interligadas\n\nO processo da fotossíntese pode ser dividido em duas grandes 'sub-rotinas' ou fases, que dependem uma da outra:\n\n#### 1. Fase Clara (Reações Dependentes de Luz) – A 'Unidade de Gerenciamento de Energia'\n\n*   **Onde ocorre**: Nas membranas dos **tilacoides** (estruturas em forma de sacos achatados dentro dos cloroplastos, que se organizam em pilhas chamadas granum).\n*   **O que acontece**: A clorofila absorve a energia da luz solar. Essa energia é usada para:\n    *   **Fotólise da Água**: Quebrar moléculas de água (H₂O). Isso libera elétrons, prótons (H⁺) e, como subproduto, o **oxigênio (O₂)** que é liberado para a atmosfera. Imagine isso como o seu sistema de refrigeração que também gera um gás secundário.\n    *   **Geração de 'Baterias' Energéticas**: A energia luminosa capturada é convertida e armazenada em duas moléculas-chave: **ATP (Adenosina Trifosfato)** e **NADPH (Nicotinamida Adenina Dinucleotídeo Fosfato)**. Pense nelas como as 'baterias recarregáveis' ou 'capacitores' do sistema, que acumulam energia para ser usada na próxima fase. Semelhante a carregar uma bateria para alimentar outro módulo do seu robô.\n\n#### 2. Fase Escura (Ciclo de Calvin-Benson ou Reações Independentes de Luz) – A 'Unidade de Síntese de Matéria Orgânica'\n\n*   **Onde ocorre**: No **estroma** (o fluido gelatinoso que preenche o cloroplasto e envolve os tilacoides).\n*   **O que acontece**: Esta fase não necessita diretamente de luz, mas **depende completamente** do ATP e do NADPH gerados na fase clara. O CO₂ do ar é 'fixado', ou seja, incorporado a moléculas orgânicas. Através de uma série complexa de reações bioquímicas (o 'Ciclo de Calvin'), o carbono do CO₂ é rearranjado e convertido em **glicose (C₆H₁₂O₆)**. É como um 'compilador' que pega a matéria-prima bruta (CO₂) e, usando a energia das 'baterias' (ATP e NADPH), a transforma no 'executável' final, que é a molécula de açúcar – o alimento da planta.\n\n### Os 'Outputs' (Saídas) do Sistema:\n\nAo final de todo o processo, a fotossíntese gera dois 'outputs' principais:\n\n1.  **Glicose (C₆H₁₂O₆)**: O principal produto. É o alimento da planta, sua fonte de energia para crescer, florescer, frutificar e realizar todas as suas funções metabólicas. Pode ser usada imediatamente ou armazenada como amido para uso futuro.\n2.  **Oxigênio (O₂)**: Um 'subproduto' essencial, liberado para a atmosfera, fundamental para a respiração da maioria dos seres vivos, incluindo nós.\n\nEm resumo, Pedro, a fotossíntese é um sistema bioquímico elegantemente projetado, um verdadeiro algoritmo de conversão de energia que transforma insumos inorgânicos em vida, utilizando a luz como força motriz. É a programação-mãe de todo ecossistema, um exemplo perfeito de engenharia natural em escala molecular que você, como um futuro engenheiro, certamente apreciaria analisar mais a fundo!",
+      "conceitos_chave": null,
+      "analogia_utilizada": null,
+      "nivel_adequado": null
+    }
+  },
+  "bb61cb6ed25198948cf400d795fdde5f": {
+    "aluno_id": "aluno_03",
+    "topico": "fotossíntese",
+    "tipo": "explicacao_conceitual",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:32:02.539091",
+    "conteudo": {
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v2",
+      "titulo": "O Código Verde: Como a Fotossíntese Otimiza a Energia do Sol",
+      "conteudo": "Olá, Pedro!\n\n**Introdução: O Super Algoritmo da Vida**\n\nImagina só: se você tivesse que programar um robô para construir seu próprio combustível e, de quebra, gerar o ar que você respira, usando apenas luz do sol, água e um gás que está no ar. Parece um projeto e tanto de robótica e programação, certo? Pois é exatamente isso que as plantas fazem! Esse processo incrível, que é a base da vida na Terra, tem um nome: fotossíntese.\n\n**Desenvolvimento: A Fábrica Programada da Célula Vegetal**\n\nPense na fotossíntese como um sistema robótico autônomo extremamente eficiente, rodando um algoritmo perfeito dentro de cada célula vegetal. Para a gente, que está acostumado com 'inputs' e 'outputs' na programação, fica fácil entender como funciona essa 'máquina verde'.\n\n**1. Os Inputs (As Matérias-Primas e a Energia):**\n\n*   **Água (H2O):** Funciona como uma das principais matérias-primas. As plantas a absorvem do solo, pelas raízes, como um robô que 'reabastece' seu tanque com o líquido necessário para a operação.\n*   **Dióxido de Carbono (CO2):** É um gás que está no ar e que nós, humanos e outros animais, liberamos. As plantas o 'capturam' através de pequenos 'sensores' ou 'portas de entrada' em suas folhas, chamados estômatos. Pense nele como o 'código-fonte' ou a 'estrutura básica' para montar algo maior.\n*   **Luz Solar (Energia Luminosa):** Essa é a fonte de energia primária, o 'power-up' para que todo o sistema funcione. Sem ela, a 'fábrica' não liga.\n\n**2. A Estação de Processamento (Onde a Mágica Acontece):**\n\nTudo isso acontece dentro de umas 'mini-fábricas' especializadas nas células das folhas, que chamamos de **cloroplastos**. Dentro deles, existe um pigmento verde chamado **clorofila**. A clorofila age como um 'painel solar superpotente' ou um 'sensor óptico programado': ela é mestre em absorver a energia luminosa do sol. É ela quem capta a luz e a transforma em energia utilizável para as reações químicas.\n\n**3. O Algoritmo de Transformação (As Reações Químicas):**\n\nAqui é onde a 'programação' da fotossíntese entra em ação. Com a energia da luz solar capturada pela clorofila, a planta executa uma série de reações químicas complexas. Ela 'desmonta' as moléculas de água e dióxido de carbono e 'remonta' esses átomos de uma maneira totalmente nova. É como um algoritmo de montagem que pega peças diferentes e cria um novo componente.\n\n**4. Os Outputs (Os Produtos Finais):**\n\n*   **Glicose (C6H12O6):** Este é o principal 'produto final' e a 'moeda de energia' da planta. A glicose é um tipo de açúcar, e funciona como o 'combustível' que a planta usa para crescer, se desenvolver e realizar todas as suas funções vitais. É como o 'produto acabado' que o seu robô produziria, algo essencial para o seu próprio funcionamento ou para ser armazenado.\n*   **Oxigênio (O2):** E aqui está o 'subproduto' mais importante para nós! Durante o processo, o oxigênio é liberado para a atmosfera. Pense nele como um 'resíduo útil' do processo de fabricação da planta, mas que é vital para a respiração da maioria dos seres vivos do planeta, incluindo nós.\n\n**A Importância Desse Sistema:**\n\nEsse 'sistema robótico' da fotossíntese não é só vital para a planta. Ele é a base de quase todas as cadeias alimentares. As plantas são os 'produtores primários', gerando a energia que os herbívoros consomem, que por sua vez são consumidos por carnívoros, e assim por diante. Além disso, a liberação contínua de oxigênio é o que mantém a atmosfera habitável para a maioria da vida que conhecemos. É uma otimização natural de recursos e energia em escala planetária!\n\n**Conclusão: Uma Engenharia Perfeita da Natureza**\n\nEntão, Pedro, quando você olha para uma planta, não está vendo apenas algo verde. Está vendo um sistema de engenharia biológica complexo e auto-sustentável, rodando um dos algoritmos mais importantes da natureza. É uma prova viva de como a biologia consegue converter, processar e otimizar recursos de forma genial, tudo para garantir a energia e o oxigênio que sustentam a vida. Um verdadeiro exemplo de eficiência e design no mundo natural!",
+      "conceitos_chave": [
+        "Conversão de energia luminosa em química",
+        "Produção de glicose (combustível) e oxigênio (subproduto essencial)",
+        "Processo vital que ocorre em cloroplastos, com a clorofila"
+      ],
+      "analogia_utilizada": "Comparação da fotossíntese com um sistema robótico autônomo ou uma fábrica programada, onde a planta é a máquina que processa inputs (matéria-prima e energia) para gerar outputs (combustível e subprodutos) seguindo um algoritmo natural.",
+      "nivel_adequado": true
+    }
+  },
+  "19ce64e2127178e4ed4a7cd5fd534d8b": {
+    "aluno_id": "aluno_03",
+    "topico": "fotossíntese",
+    "tipo": "exemplos_praticos",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:34:37.308149",
+    "conteudo": {
+      "tipo": "exemplos_praticos",
+      "versao_prompt": "v1",
+      "exemplos": [
+        {
+          "titulo": "Robô-Planta\": Simulando a Fotossíntese com Lógica de Programação",
+          "descricao": "Pedro, imagine que você precisa criar um diagrama de blocos ou um pseudocódigo para um 'robô-planta' autônomo. Ele deve simular a fotossíntese. Quais seriam os 'sensores' para captar luz solar, CO2 do ar e água/nutrientes do solo? Qual seria o 'processador' ou 'algoritmo' que combinaria esses inputs? E quais seriam os 'atuadores' ou 'outputs' que representariam a produção de glicose (energia para o robô) e a liberação de oxigênio? Pense em como o robô otimizaria a captação de luz (movendo seus 'painéis solares') e como ele gerenciaria seus 'recursos' para maximizar a 'produção de energia'. Você pode até pensar em um sistema de 'feedback' para ajustar os parâmetros.",
+          "nivel": null,
+          "conexao_com_aluno": null
+        },
+        {
+          "titulo": "Monitorando o Pulmão Verde\": Medindo a Produção de Oxigênio",
+          "descricao": "Para visualizar e quantificar um dos produtos da fotossíntese, monte um experimento prático. Pegue um galho de uma planta aquática (como Elodea, comum em aquários) e submeta-o a uma fonte de luz intensa dentro de um recipiente com água. Observe as bolhas de oxigênio que se formam e sobem. Como você projetaria um sistema para contar ou coletar essas bolhas ao longo do tempo? Poderia usar uma pipeta invertida para capturar o gás ou, se tivesse acesso, um sensor de oxigênio para medir sua concentração. Varie parâmetros como a intensidade da luz (usando diferentes lâmpadas ou distâncias) ou a quantidade de CO2 na água (adicionando um pouco de bicarbonato de sódio) e veja como a 'taxa de produção' (quantidade de bolhas/oxigênio) muda. Isso é como um teste de desempenho para um sistema.",
+          "nivel": null,
+          "conexao_com_aluno": null
+        },
+        {
+          "titulo": "Engenharia de Glicose\": Otimizando a Conversão de Energia Solar",
+          "descricao": "Pense na folha de uma planta como uma microfábrica de 'chips' de energia (glicose), alimentada por um 'painel solar' altamente eficiente (clorofila). Se você fosse um engenheiro otimizando essa 'fábrica', como explicaria o processo de conversão? A energia luminosa (input) é capturada e, através de uma série de reações químicas (o 'código' da planta), é transformada em energia química armazenada na glicose (output). Desenhe um fluxograma detalhado desse processo, destacando as etapas principais (fase clara e fase escura), os 'componentes' envolvidos (cloroplastos, clorofila) e os 'resíduos' (oxigênio). Compare a eficiência de conversão da planta com a de um painel solar ou de um motor a combustão. Qual deles é mais 'inteligente' em seu design para um propósito específico?",
+          "nivel": null,
+          "conexao_com_aluno": null
+        }
+      ],
+      "estilo_aplicado": null
+    }
+  },
+  "2dd122673d7e4d3485683b8324f0798c": {
+    "aluno_id": "aluno_03",
+    "topico": "fotossíntese",
+    "tipo": "exemplos_praticos",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:34:55.725079",
+    "conteudo": {
+      "tipo": "exemplos_praticos",
+      "versao_prompt": "v2",
+      "exemplos": [
+        {
+          "titulo": "O 'Programa' de Energia de uma Planta",
+          "descricao": "Imagine que você está programando um pequeno robô biológico que precisa gerar sua própria energia, como uma planta. Para isso, ele precisa de 'entradas' específicas: sensores para detectar luz solar (energia luminosa), coletores para absorver gás carbônico do ar e tubulações para puxar água do solo. Dentro do robô, você programaria uma 'função' (cloroplasto) que usa a energia da luz para combinar a água e o gás carbônico, transformando-os em 'açúcar' (glicose) para o robô funcionar e 'liberar' oxigênio. Para sentir isso, você pode montar um esquema simples com peças de LEGO ou blocos, representando as 'entradas' (luz, CO2, água) e as 'saídas' (glicose, O2). Você pode até criar um pequeno fluxograma ou pseudo-código que represente o algoritmo da fotossíntese, usando setas e caixas para 'mover' as moléculas e a energia.",
+          "nivel": "basico",
+          "conexao_com_aluno": "Este exemplo conecta a fotossíntese à lógica de programação e à engenharia de sistemas, que são áreas de interesse de Pedro (robótica e programação). A ideia de 'programar' um robô biológico e criar um fluxograma ou modelo com peças permite que ele visualize e 'construa' o processo, ativando seu estilo de aprendizado cinestésico e seu gosto por projetos concretos."
+        },
+        {
+          "titulo": "A 'Academia' da Planta na Janela",
+          "descricao": "Pense nas plantas como atletas que precisam de energia para crescer e se manter saudáveis. Quando você se alimenta para ter energia para estudar ou praticar esportes, a planta 'se alimenta' de luz solar. Ela absorve a luz como se fosse uma bateria, pega gás carbônico do ar (como nós pegamos oxigênio) e absorve água do solo. Dentro das folhas, ela 'malha' em suas células especiais (cloroplastos) para transformar tudo isso em seu próprio 'combustível' (açúcar) e liberar oxigênio para o ambiente. Você pode fazer um experimento simples em casa. Pegue duas plantas pequenas e idênticas. Coloque uma em um local com bastante luz solar (janela) e outra em um armário escuro. Regue as duas igualmente. Ao longo de uma semana, observe e anote as diferenças. A planta no escuro vai definhar porque não consegue 'malhar' (fazer fotossíntese). Você pode até tentar mover a planta do escuro para a luz depois de alguns dias para ver se ela se recupera, sentindo e tocando as folhas para perceber as mudanças.",
+          "nivel": "intermediario",
+          "conexao_com_aluno": "Este exemplo traz a fotossíntese para o dia a dia de Pedro, usando uma analogia com atividades que ele pode entender (alimentação para energia, 'academia' para crescimento). O experimento de observar e comparar duas plantas ativa seu aprendizado cinestésico e prático, permitindo que ele veja o processo em ação e manipule as variáveis, algo que um estudante de 17 anos pode facilmente realizar."
+        },
+        {
+          "titulo": "O 'Super Filtro' Natural do Planeta e a Engenharia Ambiental",
+          "descricao": "A fotossíntese é como o maior e mais eficiente sistema de filtragem de ar e produção de energia do nosso planeta, operando em escala global. As florestas, os oceanos (com suas algas) e até as plantas da cidade estão constantemente puxando gás carbônico da atmosfera (um dos gases do efeito estufa) e transformando-o em oxigênio vital para nossa respiração e em biomassa (madeira, folhas, etc.) que armazena carbono. É um processo fundamental para regular o clima da Terra. Sem ele, a quantidade de CO2 aumentaria drasticamente e a vida como conhecemos seria impossível. Engenheiros ambientais e agrônomos estudam e otimizam a fotossíntese para melhorar safras, criar biocombustíveis e até desenvolver tecnologias para remover carbono da atmosfera. Para entender a escala, você pode 'simular' o impacto. Pegue um mapa-múndi e use diferentes cores de massinha ou marcadores para representar as principais áreas de fotossíntese (florestas tropicais, oceanos) e as fontes de CO2 (cidades, indústrias). Enquanto você 'move' as 'moléculas' de CO2 para as áreas verdes e 'solta' o oxigênio de volta para a atmosfera com gestos, você pode sentir a dinâmica do ciclo. Outra ideia é visitar uma horta urbana ou um parque e 'mapear' visualmente as plantas, pensando em cada uma como uma pequena 'fábrica' de oxigênio e absorvedora de CO2.",
+          "nivel": "aplicado",
+          "conexao_com_aluno": "Este exemplo mostra a relevância da fotossíntese em uma escala global e sua conexão com a engenharia ambiental, um campo que pode interessar a Pedro devido aos seus interesses em ciência e tecnologia. A 'simulação' no mapa-múndi e a visita a uma horta permitem que ele interaja fisicamente com o conceito e visualize sua aplicação no mundo real, reforçando seu estilo de aprendizado cinestésico e sua capacidade de aprender fazendo."
+        }
+      ],
+      "estilo_aplicado": "cinestesico"
+    }
+  },
+  "e1b505b5be329720f155a47a901d6d29": {
+    "aluno_id": "aluno_03",
+    "topico": "fotossíntese",
+    "tipo": "perguntas_reflexao",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:35:07.292246",
+    "conteudo": {
+      "tipo": "perguntas_reflexao",
+      "versao_prompt": "v1",
+      "perguntas": [
+        "Se você fosse projetar um sistema autossustentável para uma base em Marte, inspirando-se diretamente no processo da fotossíntese, quais seriam os três componentes essenciais que você priorizaria para a produção de energia e biomassa, e por que a escolha desses elementos seria crucial para a sobrevivência da base?",
+        "Considerando a fotossíntese como um mecanismo otimizador de energia em um sistema biológico, como a sua interrupção ou aceleração em larga escala – seja por fatores naturais extremos ou por manipulação tecnológica – poderia impactar as cadeias alimentares e os ciclos biogeoquímicos globais, do ponto de vista de um engenheiro de sistemas?",
+        "Pedro, pensando em seus interesses em robótica e programação, como você abordaria o desafio de desenvolver um algoritmo ou um protótipo robótico que mimetize ou otimize a captação e conversão de energia solar em compostos orgânicos, buscando replicar e talvez superar a eficiência da fotossíntese em um ambiente artificial (por exemplo, um biorreator controlado)?",
+        "Se a humanidade dominasse a capacidade de realizar a fotossíntese artificial em escala industrial, a ponto de substituir significativamente a agricultura tradicional para a produção de alimentos e energia, quais seriam os principais desafios éticos, econômicos e sociais que surgiriam, e como uma abordagem de engenharia de sistemas poderia ser usada para prever e mitigar esses impactos?"
+      ]
+    }
+  },
+  "68a72ccd3291074817c5080d815ac27b": {
+    "aluno_id": "aluno_03",
+    "topico": "fotossíntese",
+    "tipo": "perguntas_reflexao",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:35:20.857063",
+    "conteudo": {
+      "tipo": "perguntas_reflexao",
+      "versao_prompt": "v2",
+      "perguntas": [
+        {
+          "numero": 1,
+          "nivel_cognitivo": "compreensão",
+          "pergunta": "Pedro, se você fosse 'programar' uma planta para realizar a fotossíntese, quais seriam os três elementos essenciais que você precisaria fornecer como 'inputs' para o sistema e quais seriam os 'outputs' esperados desse processo biológico?",
+          "objetivo_pedagogico": "Avaliar se o aluno compreende os elementos chave (reagentes e produtos) e a natureza processual da fotossíntese, contextualizando-a como um sistema com entradas e saídas."
+        },
+        {
+          "numero": 2,
+          "nivel_cognitivo": "aplicação",
+          "pergunta": "Considerando seu interesse em robótica e programação, se você tivesse que desenvolver um 'robô-planta' autônomo para sobreviver em um ambiente hostil como a Lua ou Marte, como você faria para que ele 'performasse' a fotossíntese eficientemente? Quais 'sensores' e 'atuadores' seriam cruciais para garantir essa função?",
+          "objetivo_pedagogico": "Verificar a capacidade do aluno de transpor o conhecimento teórico da fotossíntese para um cenário prático e de engenharia, estimulando o raciocínio cinestésico e a aplicação em um contexto de seu interesse (robótica/programação)."
+        },
+        {
+          "numero": 3,
+          "nivel_cognitivo": "análise",
+          "pergunta": "Um engenheiro de software precisa otimizar o desempenho de um algoritmo. Da mesma forma, as plantas otimizam a fotossíntese. Analise: por que a taxa de fotossíntese de uma planta não é constante, mas varia drasticamente com fatores como intensidade luminosa e concentração de CO2? Que 'trade-offs' a planta precisa gerenciar para manter a eficiência máxima?",
+          "objetivo_pedagogico": "Desenvolver a habilidade de análise crítica, fazendo o aluno identificar e explicar as variáveis que influenciam a taxa fotossintética e os mecanismos de otimização/adaptação das plantas, relacionando com conceitos de otimização de sistemas."
+        },
+        {
+          "numero": 4,
+          "nivel_cognitivo": "síntese",
+          "pergunta": "Considerando os desafios globais como a crise energética ou a produção de alimentos em ambientes extremos, se você pudesse projetar uma 'célula fotossintética bio-sintética' totalmente nova, integrando princípios da biologia, robótica e nanotecnologia, como ela funcionaria? Descreva o seu 'design' e explique como ele seria mais eficiente ou inovador do que a fotossíntese natural em uma aplicação específica.",
+          "objetivo_pedagogico": "Estimular o pensamento criativo, a inovação e a capacidade de síntese, desafiando o aluno a propor soluções originais e multidisciplinares para problemas complexos, utilizando o conhecimento da fotossíntese como base e integrando seus interesses em tecnologia."
+        }
+      ]
+    }
+  },
+  "53e5c04060f455e85b26e2a3ba35f5d4": {
+    "aluno_id": "aluno_03",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:35:41.154551",
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v1",
+      "mapa_ascii": "FOTOSSÍNTESE: A FÁBRICA DE ENERGIA VERDE\n├─ Definição: Processo bioquímico vital onde seres autotróficos transformam energia luminosa em energia química (glicose).\n│  └─ Fundamental para a vida: Produção de alimento e oxigênio para a maioria dos ecossistemas.\n├─ Onde Ocorre:\n│  └─ CLOROPLASTOS: Organelas especializadas nas células vegetais (como \"mini-fábricas\" programadas).\n│     └─ CLOROFILA: Pigmento verde que atua como \"sensor\" de luz, absorvendo a energia luminosa.\n├─ INSUMOS (\"Inputs\" do Sistema):\n│  ├─ LUZ SOLAR: Fonte de energia primária (como a \"eletricidade\" para a fábrica).\n│  ├─ DIÓXIDO DE CARBONO (CO2): Gás absorvido da atmosfera (a \"matéria-prima\" de carbono).\n│  └─ ÁGUA (H2O): Absorvida pelas raízes (fonte de hidrogênio e elétrons).\n├─ PROCESSO (As \"Sub-rotinas\" do Algoritmo Bioquímico):\n│  ├─ 1. FASE CLARA (FOTOQUÍMICA)\n│  │  ├─ Local: Membranas dos Tilacoides (estruturas internas dos cloroplastos, como \"placas de circuito\").\n│  │  ├─ Mecanismos:\n│  │  │  ├─ Absorção de Luz pela Clorofila: Excita elétrons.\n│  │  │  ├─ FOTÓLISE DA ÁGUA: H2O é \"quebrada\" pela energia luminosa, liberando O2 (oxigênio), prótons (H+) e elétrons.\n│  │  │  ├─ Geração de ATP: Molécula de energia (como \"pilhas recarregáveis\").\n│  │  │  └─ Geração de NADPH: Transportador de elétrons e hidrogênio (como \"cabos de dados\" com energia).\n│  │  └─ Produto Liberado: OXIGÊNIO (O2) - subproduto para a atmosfera.\n│  └─ 2. FASE ESCURA (CICLO DE CALVIN ou FIXAÇÃO DE CARBONO)\n│     ├─ Local: Estroma do Cloroplasto (o \"ambiente de montagem\" interno).\n│     ├─ Mecanismos:\n│     │  ├─ FIXAÇÃO DO CO2: A enzima RuBisCO \"captura\" o CO2 atmosférico e o incorpora em moléculas orgânicas.\n│     │  ├─ REDUÇÃO: Uso do ATP e NADPH (da fase clara) para converter o CO2 fixado em GLICOSE.\n│     │  └─ REGENERAÇÃO: As moléculas receptoras de CO2 são \"resetadas\" para continuar o ciclo.\n│     └─ Analogia: Um \"loop de programação\" onde o CO2 é processado usando os recursos gerados (ATP/NADPH).\n├─ PRODUTOS FINAIS (\"Outputs\" do Sistema):\n│  ├─ GLICOSE (C6H12O6): Açúcar, a principal molécula de energia química produzida (o \"combustível\" para a planta e cadeias alimentares).\n│  └─ OXIGÊNIO (O2): Gás essencial para a respiração da maioria dos seres vivos.\n├─ EQUAÇÃO GERAL (A \"Fórmula\" Resumida):\n│  └─ 6 CO2 + 6 H2O + ENERGIA LUMINOSA → C6H12O6 + 6 O2",
+      "descricao": "Este mapa mental ASCII detalha a fotossíntese para Pedro, um estudante com interesses em robótica e programação. Ele cobre a definição, o local de ocorrência, os insumos (luz, CO2, água), as duas fases do processo (clara e escura, com analogias de programação e robótica), os produtos finais (glicose e oxigênio) e a equação geral. A linguagem foi adaptada para um nível avançado e para o estilo de aprendizado cinestésico e interesses de Pedro.",
+      "legenda": null,
+      "dica_de_uso": null,
+      "estilo_aplicado": null
+    }
+  },
+  "8141d8fc343b202b9bba01a5575bcb96": {
+    "aluno_id": "aluno_03",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:36:06.260257",
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v2",
+      "mapa_ascii": "FOTOSSÍNTESE: A FÁBRICA VERDE DA VIDA\n(Ação: PRODUZIR, GERAR energia e matéria)\n              │\n              ├─ 1. ONDE ACONTECE? (Ação: ENCONTRAR, LOCALIZAR)\n              │  ├─ Cloroplastos: Pequenos motores celulares. (Ação: OBSERVAR, IDENTIFICAR)\n              │  │  └─ L3: BioRobótica: Design de 'nano-fábricas' verdes. (Ação: INSPIRAR, PROJETAR)\n              │  └─ Clorofila: Pigmento que captura energia. (Ação: EXTRAIR, TESTAR)\n              │     └─ L3: Cores: Absorção e reflexão de luz. (Ação: INVESTIGAR, ANALISAR)\n              │\n              ├─ 2. O QUE PRECISA? (Ação: COLETAR, UTILIZAR)\n              │  ├─ Luz Solar: A energia que impulsiona. (Ação: MEDIR, DIRECIONAR)\n              │  │  └─ L3: Energia Renovável: Painéis solares x folhas. (Ação: COMPARAR, DESENVOLVER)\n              │  └─ Água (H2O) + Dióxido de Carbono (CO2): Matéria-prima essencial. (Ação: MISTURAR, REAGIR)\n              │     └─ L3: Química: Balanço de equações (Matemática!). (Ação: CALCULAR, EQUILIBRAR)\n              │\n              ├─ 3. COMO FUNCIONA? (Ação: MONTAR, CONSTRUIR)\n              │  ├─ Fase Clara: Capturar luz, liberar oxigênio. (Ação: ATIVAR, LIBERAR)\n              │  │  └─ L3: Algoritmo: Sequência de comandos lógicos. (Ação: PROGRAMAR, OTIMIZAR)\n              │  └─ Fase Escura (Ciclo de Calvin): Montar açúcares. (Ação: COMBINAR, PRODUZIR)\n              │     └─ L3: Ciclo: Processo contínuo e repetitivo. (Ação: SIMULAR, MODELAR)\n              │\n              └─ 4. PARA QUE SERVE? (Ação: GERAR, BENEFICIAR)\n                 ├─ Glicose (Alimento): Energia para a planta e outros seres. (Ação: ALIMENTAR, ABASTECER)\n                 │  └─ L3: Cadeia Alimentar: Base energética global. (Ação: MAPEAR, ENTENDER)\n                 └─ Oxigênio (O2): Gás vital para a respiração. (Ação: PRODUZIR, RESPIRAR)\n                    └─ L3: Atmosfera: Regulador climático. (Ação: PROTEGER, MANTER)",
+      "descricao": "Este mapa mental visualiza o processo da fotossíntese de forma prática e interativa, focando em como as plantas 'constroem' seu alimento. É projetado para o Pedro Alves, com linguagem clara, exemplos práticos e conexões diretas com robótica, programação e matemática, para facilitar a compreensão e a aplicação do conhecimento.",
+      "legenda": "O mapa é estruturado hierarquicamente: o tema central (FOTOSSÍNTESE) se ramifica em 4 conceitos principais (Nível 1), cada um com 2 detalhes/exemplos (Nível 2). As 'folhas' (Nível 3) oferecem conexões relevantes e curiosidades, especialmente ligadas aos interesses de Pedro (robótica, programação, matemática) e verbos de ação para estimular o aprendizado cinestésico. Cada nó inclui uma breve definição e uma 'ação' chave para memorização.",
+      "dica_de_uso": "Pedro, use este mapa como um 'protótipo' do processo de fotossíntese. Leia cada nó ativamente, imaginando a ação descrita (ex: 'OBSERVAR' cloroplastos como se estivesse com um microscópio, ou 'PROGRAMAR' a sequência das fases). Desenhe ou crie modelos simples que representem cada etapa. Para fixar, tente 'montar' uma simulação da fotossíntese com objetos do dia a dia ou use um fluxograma de programação para descrever o processo, focando nos verbos de ação. Pense em como você construiria um robô que realizasse uma das funções das plantas!",
+      "estilo_aplicado": "cinestesico"
+    }
+  },
+  "bb8d9ffa79a102619175e0d49fa8d8df": {
+    "aluno_id": "aluno_04",
+    "topico": "fotossíntese",
+    "tipo": "explicacao_conceitual",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:36:20.277601",
+    "conteudo": {
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v1",
+      "titulo": "A Receita Mágica das Plantas: Como Elas Fazem a Própria Comida!",
+      "conteudo": "Oi, Sofia! Sabia que as plantas são seres vivos, como nós e os animais? Elas também precisam de comida para crescer fortes, ter folhas bem verdinhas e flores coloridas. Mas, peraí... você já viu uma planta indo ao supermercado? Ou comendo um sanduíche? Não, né!\n\nÉ que as plantas têm um superpoder muito especial! Elas sabem fazer a *própria* comida! É como se cada folhinha verde fosse uma mini-cozinha muito organizada. Esse superpoder tem um nome grandão: **fotossíntese**.\n\nVamos imaginar que as plantas são como chefes de cozinha super talentosas, e as suas folhas são as cozinhas verdinhas onde tudo acontece. Para fazer a comida delas, as plantas precisam de algumas coisas importantes, igual a gente precisa de ingredientes para fazer um bolo ou uma torta:\n\n1.  **A Luz do Sol (o calor do forno!)**: A energia que vem do sol é como o fogão que as plantas usam para 'cozinhar' a sua comida. Sem sol, não tem como a receita dar certo!\n\n2.  **Água (a aguinha da receita!)**: Elas sugam a água lá do chão, pelas suas raízes, como se estivessem bebendo por um canudinho. A água é essencial para misturar tudo na 'receita'.\n\n3.  **Um Ar Especial (o tempero secreto!)**: Sabia que quando a gente respira, solta um ar que se chama gás carbônico? A gente não precisa muito dele, mas as plantas... ah, elas AMAM esse ar! É o tempero principal da receita delas, que elas pegam do ar que nos rodeia.\n\nE sabe o que dá a cor verde para as plantas? É uma substância mágica que fica nas folhas, chamada **clorofila**. A clorofila é como o chef principal da cozinha, que pega a luz do sol, a água e esse ar especial (o gás carbônico) e começa a misturar tudo direitinho!\n\nDentro das folhinhas verdes, com a ajuda da clorofila e da energia do sol, a água e o gás carbônico se transformam em duas coisas superlegais:\n\n*   **A comida da planta (um açúcar doce!)**: É um tipo de açúcar que dá energia para a planta crescer, ficar saudável e ter flores e frutos. É o prato principal delas!\n*   **Ar puro para a gente (o presente das plantas!)**: Depois de fazer a comida, as plantas soltam um outro ar, o **oxigênio**. Esse é o ar que nós, os animais e você, Sofia, precisamos para respirar e viver! É como um presente que as plantas nos dão de montão!\n\nEntão, a fotossíntese é como uma grande festa na cozinha das plantas, onde elas usam o sol, a água e o ar para fazer sua própria comida e, de quebra, ainda nos dão o ar fresquinho que respiramos! Legal, né? Por isso é tão importante cuidar das plantas!",
+      "conceitos_chave": null,
+      "analogia_utilizada": null,
+      "nivel_adequado": null
+    }
+  },
+  "c4ef819fd6a554a8badb1e7d59436e4a": {
+    "aluno_id": "aluno_04",
+    "topico": "fotossíntese",
+    "tipo": "explicacao_conceitual",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:36:39.497811",
+    "conteudo": {
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v2",
+      "titulo": "A Receita Secreta das Plantas!",
+      "conteudo": "Olá, Sofia! Você gosta de histórias e de saber como as coisas funcionam, não é? Hoje vamos descobrir um segredo superlegal sobre as plantas! Você já parou pra pensar de onde a plantinha tira a força pra crescer, ter folhas verdinhas e flores lindas? Elas não vão à padaria nem abrem a geladeira, certo? Elas têm um truque!\n\nPois é! As plantas são como **pequenos chefs muito especiais**, com uma **receita mágica e secreta**! Elas preparam a própria comida, e essa 'cozinha' delas fica dentro de suas folhas, que são como panelinhas verdes!\n\nPara essa receita superimportante, elas precisam de **três ingredientes principais**:\n1.  **A Luz do Sol:** Imagine que é como o forno ou o fogo do fogão! Sem o sol, a mágica não acontece! É a energia principal.\n2.  **Água Fresquinha:** Elas sugam a água lá da terra pelas raízes, como se estivessem bebendo por um canudinho. É como a água que a gente usa para fazer um bolo ou um suco.\n3.  **Um Ar Especial (Gás Carbônico):** Sabe aquele ar que a gente solta quando respira? Ele não é o ar que a gente puxa, é outro! É um arzinho que nós, humanos e muitos animais, soltamos. As plantas adoram esse ar! Elas o pegam do ambiente pelas folhinhas, como se fossem boquinhas minúsculas.\n\nDentro das folhas, que são bem verdinhas por causa de uma 'cor mágica', esses ingredientes se encontram. A luz do sol dá a energia, e 'Plof!', 'Zuum!', a mágica acontece!\n\nE o que a planta prepara com essa receita? Duas coisas maravilhosas!\nPrimeiro, ela faz seu **próprio açucarzinho**, que é como um lanche gostoso e cheio de energia pra ela crescer forte, dar frutas e flores. É a comida dela!\nE sabe qual é o **presente** que ela nos dá em troca? Ela libera no ar um tipo de ar que a gente precisa para respirar: o **Oxigênio**! É aquele ar bem limpinho que enche nossos pulmões e nos dá vida. Legal, né?\n\nEntão, Sofia, a fotossíntese (que é o nome chique dessa receita mágica!) é o jeitinho que as plantas têm de fazer sua comida usando a luz do sol, a água e o ar especial que a gente solta. E de quebra, elas ainda nos dão o ar puro pra gente respirar. É um ciclo perfeito e muito importante! As plantas são mesmo nossos amigos chefs da natureza!",
+      "conceitos_chave": [
+        "Plantas fazem sua própria comida (energia)",
+        "Ingredientes: Luz do Sol, Água e Gás Carbônico",
+        "Resultados: Açúcar para a planta e Oxigênio para nós"
+      ],
+      "analogia_utilizada": "As plantas são como pequenos chefs que preparam sua própria comida (açúcar) usando uma receita mágica e secreta, com a luz do sol, água e um ar especial (gás carbônico) em suas folhas, que são como 'panelinhas verdes'.",
+      "nivel_adequado": true
+    }
+  },
+  "ede54868b8501033bc8cb9f2eac8288d": {
+    "aluno_id": "aluno_04",
+    "topico": "fotossíntese",
+    "tipo": "exemplos_praticos",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:36:51.297544",
+    "conteudo": {
+      "tipo": "exemplos_praticos",
+      "versao_prompt": "v1",
+      "exemplos": [
+        {
+          "titulo": "O Show de Luz do Sol para as Plantinhas!",
+          "descricao": "Imagine que o Sol é como um grande astro de um show, e sua luz é a música cheia de energia! As plantinhas, com suas folhas verdes, são as maiores fãs. Elas abrem suas 'anteninhas' (as folhinhas) para 'assistir' o show do Sol e absorver toda aquela luz e calor. É como se a luz do Sol fosse a 'comidinha mágica' que dá força e alegria para a plantinha crescer e ficar bem grandona. Sem a luz do Sol, a plantinha fica fraquinha e triste, igual a um brinquedo sem bateria!",
+          "nivel": null,
+          "conexao_com_aluno": null
+        },
+        {
+          "titulo": "A Receita Secreta da Planta Cozinheira",
+          "descricao": "Sabe quando você faz um bolo delicioso e precisa de vários ingredientes? A plantinha também faz sua própria 'comidinha' especial nas folhas, e ela usa três ingredientes secretos! Primeiro, ela puxa água fresquinha lá da terra pelas suas raízes, como um canudinho. Segundo, ela 'respira' um ar especial que tem no ambiente, chamado gás carbônico (é um ar que nós soltamos quando respiramos). E o terceiro ingrediente é a energia da luz do Sol que ela 'pegou' no show! Misturando tudo isso nas folhas, a plantinha 'cozinha' seu próprio alimento, que a deixa forte e cheia de vida. É uma cozinheira mágica!",
+          "nivel": null,
+          "conexao_com_aluno": null
+        },
+        {
+          "titulo": "As Plantas e o Fôlego para os Bichinhos!",
+          "descricao": "As plantinhas são muito generosas! Enquanto elas estão 'cozinhando' sua própria comida com a luz do sol, a água e o ar especial, elas produzem algo muito importante para todos nós e para os animais: o oxigênio! É um ar bem limpinho que a gente precisa para respirar, correr, pular e até cantar. Imagine que cada planta é como uma pequena fábrica de ar fresco e cheiroso, que dá 'fôlego' para os cachorros latirem, os passarinhos voarem e você poder brincar muito. Por isso, as plantas são grandes amigas de todos os bichos e pessoas!",
+          "nivel": null,
+          "conexao_com_aluno": null
+        }
+      ],
+      "estilo_aplicado": null
+    }
+  },
+  "28c5187b2ce8a7575118c1dfa27eecc0": {
+    "aluno_id": "aluno_04",
+    "topico": "fotossíntese",
+    "tipo": "exemplos_praticos",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:37:09.214067",
+    "conteudo": {
+      "tipo": "exemplos_praticos",
+      "versao_prompt": "v2",
+      "exemplos": [
+        {
+          "titulo": "A Canção da Cozinha Secreta da Planta",
+          "descricao": "Era uma vez, no jardim da Sofia, uma plantinha verde que adorava o sol. Ela sussurrava uma canção baixinha (vamos imaginar que ela tem uma vozinha bem fininha!). 'Oh, sol brilhante, me dá tua luz! Água fresquinha, me ajude a crescer! E o ar que eu respiro, que chegue pra valer!' Assim, com uma musiquinha especial dentro de suas folhas, a plantinha, usando a luz do sol, a água e um gás que está no ar (o 'gás carbônico'), cozinha sua própria comidinha, um açúcar que a faz forte e bonita! E de presente, ela solta no ar um gás fresquinho que a gente adora respirar, o 'oxigênio'. É a canção da fotossíntese, um segredo que as plantas contam para o mundo!",
+          "nivel": "basico",
+          "conexao_com_aluno": "Este exemplo usa uma narrativa com ritmo e uma personificação da planta cantando para explicar o processo, conectando com os interesses de Sofia em histórias, música e animais (dando vida à planta)."
+        },
+        {
+          "titulo": "A Receita Secreta do Lanche da Plantinha",
+          "descricao": "Sofia, sabe quando você sente aquela fome na escola e pensa no lanche? As plantas também precisam 'comer' para ter energia! Imagina que a plantinha tem uma receita secreta para o lanche dela. Ela 'escuta' o sol chamando (como o sinal da escola que toca para o recreio!), e então começa a 'misturar' os ingredientes: a luz do sol, a água que sobe pelas suas raízes e um gás que está no ar (o gás carbônico, que nós soltamos ao respirar). Com uma 'musiquinha' suave de transformação que só ela 'escuta' lá dentro, ela faz seu próprio alimento, um açúcar que a deixa forte. E, como um bom amigo, ela 'solta' no ar um gás muito bom, o oxigênio, para todo mundo respirar enquanto brinca no pátio!",
+          "nivel": "intermediario",
+          "conexao_com_aluno": "Compara a fotossíntese com a necessidade de lanche e a rotina escolar (sinal da escola, ingredientes), elementos do cotidiano de Sofia, e utiliza a ideia de 'escutar' e 'musiquinha' para ativar o estilo auditivo."
+        },
+        {
+          "titulo": "As Árvores e a Grande Orquestra do Ar Limpo",
+          "descricao": "Sofia, sabe aquele ar gostoso e fresquinho que a gente sente quando passeia num parque cheio de árvores? É a mágica da fotossíntese acontecendo em todo lugar! Imagina que cada planta, do matinho à árvore gigante, está 'ouvindo' a música do sol e 'cantando' uma canção de trabalho: 'Luz do sol, água e ar, nosso alimento vamos criar!' Elas 'ouvem' o chamado, pegam a luz do sol, sugam a água da terra e 'respiram' o gás carbônico que está no ar. Então, em suas folhas, acontece uma transformação silenciosa, mas poderosa, como um 'tum-tum-tum' de uma bateria que produz vida. Elas fazem seu alimento e, ao mesmo tempo, 'soltam' para o mundo um gás super importante: o oxigênio, que é o ar que a gente respira! É como se todas as plantas juntas formassem uma grande orquestra que produz o ar limpo para todo o planeta, para as pessoas, para os animais, para tudo!",
+          "nivel": "aplicado",
+          "conexao_com_aluno": "Mostra a importância global da fotossíntese para o ar que respiramos e para a vida no planeta, usando a metáfora da 'grande orquestra' e 'música' para reforçar o estilo auditivo e conectar com o interesse em música."
+        }
+      ],
+      "estilo_aplicado": "auditivo"
+    }
+  },
+  "7cf66314f6520633cc7624aba3d2e525": {
+    "aluno_id": "aluno_04",
+    "topico": "fotossíntese",
+    "tipo": "perguntas_reflexao",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:37:20.289441",
+    "conteudo": {
+      "tipo": "perguntas_reflexao",
+      "versao_prompt": "v1",
+      "perguntas": [
+        "Imagine que você é uma plantinha. O que você precisaria fazer ou 'pegar' para ter sua própria comidinha e crescer forte, igual a gente precisa comer para ter energia?",
+        "As plantas têm um 'superpoder' muito especial: elas conseguem fazer a própria comida usando a luz do sol, a água e um 'arzinho' do ar. Por que você acha que é tão bom e útil para uma planta conseguir fazer a própria comidinha sozinha?",
+        "Depois de fazer a comidinha, as plantas soltam para o ar um gás que é muito importante para nós e para os animais respirarmos bem. Se tivéssemos poucas plantas no mundo, o que você acha que poderia acontecer com o ar que respiramos?",
+        "Pensando em tudo o que as plantas fazem com a luz do sol para crescer, florescer e nos ajudar, qual é a parte mais incrível ou mais surpreendente da história da fotossíntese para você e por quê?"
+      ]
+    }
+  },
+  "966ea6caf12343fc355bccfed117c465": {
+    "aluno_id": "aluno_04",
+    "topico": "fotossíntese",
+    "tipo": "perguntas_reflexao",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:37:33.874866",
+    "conteudo": {
+      "tipo": "perguntas_reflexao",
+      "versao_prompt": "v2",
+      "perguntas": [
+        {
+          "numero": 1,
+          "nivel_cognitivo": "compreensão",
+          "pergunta": "Sofia, conta para mim, como é que as plantas, que ficam paradinhas na natureza, conseguem preparar a sua própria comida e ficar fortes e verdinhas, como se fosse uma receita secreta só delas?",
+          "objetivo_pedagogico": "Verificar se Sofia entendeu a ideia principal de que as plantas produzem seu próprio alimento e o processo básico para que isso aconteça."
+        },
+        {
+          "numero": 2,
+          "nivel_cognitivo": "aplicação",
+          "pergunta": "Imagine que você é um passarinho faminto voando por aí. Se as plantas fazem sua própria comida com a ajuda do sol e da água, como você acha que essa 'receita secreta' das plantas ajuda você e outros animais a encontrar o que comer para ter energia e brincar?",
+          "objetivo_pedagogico": "Estimular Sofia a aplicar o conceito da produção de alimento das plantas, conectando-o com a importância para a vida e a alimentação de outros seres vivos, como os animais."
+        },
+        {
+          "numero": 3,
+          "nivel_cognitivo": "análise",
+          "pergunta": "Pense nas suas plantas preferidas. Se uma plantinha vivesse dentro de uma caverna escura, onde nunca chega a luz do sol, ela conseguiria fazer a sua 'receita secreta' para comer? Por que a luz do sol é tão, mas tão importante para as plantas?",
+          "objetivo_pedagogico": "Desenvolver a capacidade de Sofia de analisar e justificar a necessidade de um elemento específico (a luz do sol) para que as plantas consigam 'fazer sua comida' e viver."
+        },
+        {
+          "numero": 4,
+          "nivel_cognitivo": "síntese",
+          "pergunta": "Se você fosse criar uma canção alegre ou uma história divertida para explicar a 'receita secreta' das plantas para seu gatinho ou para um amigo, o que você contaria e quais seriam os 'ingredientes' mágicos dessa receita que você não poderia esquecer de mencionar na sua música ou história?",
+          "objetivo_pedagogico": "Incentivar a criatividade de Sofia e sua habilidade de sintetizar e comunicar o processo da 'receita secreta' das plantas de forma original e lúdica, utilizando seus interesses em música ou histórias, e identificando os elementos essenciais."
+        }
+      ]
+    }
+  },
+  "a5b1985165c6931de53321c0d6881e0c": {
+    "aluno_id": "aluno_04",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:37:47.560619",
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v1",
+      "mapa_ascii": "FOTOSSÍNTESE: A FÁBRICA DE COMIDA DA PLANTA!\n│\n├─ O QUE É?\n│  └─ É como a planta faz seu próprio alimento e energia para crescer.\n│\n├─ QUEM FAZ?\n│  └─ As Plantas (principalmente nas folhas, que são como \"cozinhas\"!)\n│\n├─ INGREDIENTES SECRETOS (O que a planta PRECISA para cozinhar):\n│  ├─ 1. LUZ DO SOL\n│  │  └─ É a energia! (Como a eletricidade para ligar um fogão!)\n│  ├─ 2. ÁGUA\n│  │  └─ A planta puxa da terra pelas raízes. (Como a água para uma receita!)\n│  └─ 3. GÁS CARBÔNICO\n│     └─ Um gás do ar que nós soltamos. (A planta \"respira\" ele!)\n│\n├─ A RECEITA COMEÇA! (Onde a mágica acontece?)\n│  └─ Dentro das FOLHAS (nas \"cozinhas\" da planta!)\n│     ├─ Com a ajuda do VERDINHO (que se chama CLOROFILA).\n│     └─ A clorofila usa a LUZ do Sol para misturar a ÁGUA e o GÁS CARBÔNICO.\n│\n└─ OS PRESENTES DA PLANTA! (O que ela produz para ela e para nós):\n   ├─ 1. ALIMENTO (Açúcar/Glicose)\n   │  └─ A comida da planta para ela ficar forte, alta e cheia de flores!\n   └─ 2. OXIGÊNIO\n      └─ O ar puro e fresquinho que nós, a Sofia e os animais respiramos!",
+      "descricao": "Um mapa mental simples que mostra como as plantas fazem sua própria comida e o ar que respiramos, como se fosse uma receita secreta!",
+      "legenda": null,
+      "dica_de_uso": null,
+      "estilo_aplicado": null
+    }
+  },
+  "3e39eed67d7af79c59f18e00c1a74ad6": {
+    "aluno_id": "aluno_04",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:38:14.936478",
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v2",
+      "mapa_ascii": "FOTOSSÍNTESE! (A Mágica Verde! Escute a história e Cante!)\n ├─ O Que É? (Faz Comida da Planta!)\n │  ├─ Energia pra Crescer! (A plantinha ganha força, Uhu! Pra ficar grandona!)\n │  └─ Base da Vida! (Sem essa comida, muitos bichos e a gente não teriam o que comer!)\n ├─ De Onde Vêm? (Ingredientes Essenciais!)\n │  ├─ Luz do Sol (Brilha, Brilha!) (A energia do sol, que a folha pega, igual uma antena!)\n │  └─ Água e Ar (Glub e Puf!) (Água da raiz e Gás Carbônico do ar, que a planta 'respira' pra dentro!)\n ├─ Onde Acontece? (Na Cozinha Secreta!)\n │  ├─ Nas Folhinhas Verdes! (A casa da fotossíntese, onde tudo se mistura!)\n │  └─ Com a Clorofila! (É a cor verde que chama a luz do sol, ela é a ajudante especial!)\n └─ O Que Ela Libera? (Presentes Maravilhosos!)\n    ├─ Alimento (Açúcar!) (A \"comidinha\" doce da planta, que dá energia, nham nham!)\n    └─ Oxigênio (Ar Fresco!) (O ar que a gente respira, pra ter fôlego e correr, uhu!)",
+      "descricao": "Este mapa mental foi criado para Sofia, uma aluna do 3º ano com 8 anos, para ajudá-la a entender a fotossíntese de forma divertida e sonora. Ele resume os pontos chave: o que é, do que a planta precisa, onde acontece e o que ela produz, usando linguagem simples e exemplos do seu interesse.",
+      "legenda": "No centro está a ideia principal: FOTOSSÍNTESE! As primeiras linhas (nível 1) são os grandes temas. As linhas com '├─' e '└─' (nível 2) mostram os detalhes de cada tema. As palavras com sons e ações ajudam a lembrar tudo!",
+      "dica_de_uso": "Sofia, use este mapa assim: Leia cada frase em voz alta e imagine a história da plantinha. Tente fazer os sons (Glub, Glub! Brilha, Brilha! Uhu!) para cada palavra. Você pode até tentar cantar as frases ou criar rimas com elas! Assim, seu ouvido e sua imaginação vão te ajudar a lembrar de tudo!",
+      "estilo_aplicado": "auditivo"
+    }
+  },
+  "cd613b6b7dfaa69c8bf59555ce01736b": {
+    "aluno_id": "aluno_05",
+    "topico": "fotossíntese",
+    "tipo": "explicacao_conceitual",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:38:36.242716",
+    "conteudo": {
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v1",
+      "titulo": "Fotossíntese: A Receita Secreta das Plantas para a Vida na Terra!",
+      "conteudo": "Olá, Rafael! Que legal que você se interessa por astronomia e história! Hoje vamos 'desvendar' um dos processos mais incríveis e importantes da natureza, que acontece bem debaixo do nosso nariz (ou melhor, nas folhas das plantas!): a fotossíntese.\n\nImagine que as plantas são como super-heróis silenciosos ou, melhor ainda, como chefs mestres que preparam sua própria comida! A fotossíntese é exatamente isso: o processo pelo qual as plantas criam seu próprio alimento para crescer, florir e dar frutos, usando apenas alguns ingredientes simples e a energia do sol.\n\n<b>O que a planta precisa para essa 'receita'?</b>\n1.  <b>Luz do Sol</b>: Pense no sol como a 'energia' ou o 'combustível' principal. Assim como a energia do sol é vital para a Terra (você que gosta de astronomia deve saber bem!), para as plantas, ela é essencial para ligar toda a 'máquina' da fotossíntese. É a fonte de energia.\n2.  <b>Água</b>: As plantas absorvem água do solo pelas suas raízes, como nós bebemos água para nos mantermos hidratados e cheios de energia.\n3.  <b>Gás Carbônico (CO2)</b>: Esse é um gás que está no ar que a gente respira (e que nós liberamos quando expiramos!). As plantas 'respiram' o gás carbônico através de pequenos buraquinhos nas suas folhas, como se fossem narizes invisíveis.\n\n<b>Onde acontece essa 'mágica'?</b>\nEssa 'fábrica de alimentos' das plantas fica principalmente nas <b>folhas</b>. Dentro das células das folhas, existem umas estruturas minúsculas chamadas <b>cloroplastos</b>. E dentro desses cloroplastos, há um pigmento verde chamado <b>clorofila</b>. A clorofila é a responsável por dar a cor verde às plantas e, mais importante, por captar a energia da luz do sol. Pense nela como um <b>painel solar natural</b>!\n\n<b>Como funciona a 'receita' da fotossíntese?</b>\nAgora vem a parte mais legal! Com a energia do sol captada pela clorofila, a planta consegue juntar o gás carbônico e a água. É como uma reação química onde esses ingredientes são 'cozinhados' e transformados em algo novo.\n\n<b>O que a planta 'produz'?</b>\nOs 'produtos' finais dessa receita são maravilhosos:\n1.  <b>Açúcar (Glicose)</b>: Este é o 'alimento' da planta! É a sua fonte de energia para crescer, se desenvolver e realizar todas as suas funções. É como a energia que um atleta precisa para um jogo (você que gosta de esportes sabe bem!).\n2.  <b>Oxigênio</b>: E aqui está a parte que nos beneficia diretamente! O oxigênio é liberado de volta para o ar. Sim, o ar puro que respiramos e que permite a vida de praticamente todos os seres vivos na Terra é um 'subproduto' da fotossíntese! Sem as plantas produzindo oxigênio, a vida como conhecemos seria impossível.\n\n<b>Em um resumo visual para você, Rafael:</b>\nImagine um diagrama simples onde de um lado você tem <b>(Sol + Água + Gás Carbônico)</b> entrando na 'fábrica verde' (a folha com clorofila). E do outro lado, saindo da fábrica, você vê <b>(Alimento para a Planta [Açúcar] + Oxigênio para o ar!)</b>.\n\nÉ um ciclo perfeito e essencial! As plantas usam o que nós 'descartamos' (gás carbônico) e nos dão o que precisamos para viver (oxigênio), além de serem a base da cadeia alimentar. Incrível, não é?",
+      "conceitos_chave": null,
+      "analogia_utilizada": null,
+      "nivel_adequado": null
+    }
+  },
+  "59710dfb568bba71873667b287d326d4": {
+    "aluno_id": "aluno_05",
+    "topico": "fotossíntese",
+    "tipo": "explicacao_conceitual",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:38:54.185142",
+    "conteudo": {
+      "tipo": "explicacao_conceitual",
+      "versao_prompt": "v2",
+      "titulo": "Rafael, a Cozinha Secreta das Plantas: Como elas Cozinham com a Energia do Sol!",
+      "conteudo": "Olá, Rafael! Que legal que você gosta de astronomia e história! Vamos explorar um processo superimportante que acontece aqui na Terra, mas que tem tudo a ver com a energia da nossa estrela favorita, o Sol! Já parou para pensar como as plantas se alimentam? Elas não vão ao supermercado, né? Elas têm um superpoder que chamamos de FOTOSSÍNTESE!\n\nImagine as plantas como verdadeiras “cozinheiras solares” ou “fábricas de energia” muito eficientes. Em vez de panelas e um fogão tradicional, elas usam a luz do Sol, a água e um gás que está no ar para preparar seu próprio alimento. É um processo tão incrível quanto a formação de uma estrela!\n\nVamos ver como funciona essa \"receita\" especial, pensando nas plantas como pequenas estações espaciais que produzem tudo que precisam para viver:\n\n1.  **A Energia do Sol (a 'fogueira' ou 'combustível' da cozinha):** Assim como uma nave espacial precisa de energia para funcionar, as plantas precisam da *luz do Sol*. É a energia solar que dá o \"combustível\" para todo o processo, como se fosse um forno super potente.\n\n2.  **A Água (o 'líquido' da receita):** As raízes da planta funcionam como canudos, sugando a água do solo. Essa água viaja por pequenos tubos até as folhas, que são como as cozinhas principais.\n\n3.  **O Gás Carbônico (o 'ingrediente secreto' do ar):** Você sabia que, quando respiramos, soltamos um gás chamado gás carbônico? E os carros também liberam esse gás. As plantas são geniais porque \"respiram\" esse *gás carbônico* do ar através de pequenas aberturas em suas folhas, como se fossem portas de entrada.\n\n4.  **A Clorofila (o 'chefe de cozinha verde'):** Dentro das folhas, existe uma substância verde que dá cor à maioria das plantas, chamada *clorofila*. Ela é como o \"chefe de cozinha\" da planta, e é ela que consegue \"capturar\" a energia do Sol e misturar todos os ingredientes!\n\nEntão, com a energia do Sol, a água e o gás carbônico, a clorofila nas folhas começa a trabalhar! Ela mistura esses \"ingredientes\" e os transforma em duas coisas muito importantes:\n\n*   **Alimento para a planta (açúcar ou glicose):** Esse é o \"bolo\" ou a \"refeição\" que a planta usa para crescer, criar novas folhas, flores e frutos. É a energia dela para viver, assim como a comida nos dá energia para jogar bola ou estudar história.\n*   **Oxigênio (o 'presente' para nós):** O que sobra dessa \"cozinha solar\" é o *oxigênio*, aquele gás que nós e a maioria dos animais precisamos para respirar e viver! As plantas \"liberam\" esse oxigênio para o ar, como se fosse um resíduo útil de sua produção.\n\nPense nisso como um mapa de relações, Rafael: a luz do Sol *entra* nas folhas, a água *entra* pelas raízes, o gás carbônico *entra* pelas folhas. Lá dentro, tudo se *transforma* graças à clorofila, e de lá *saem* alimento para a planta e oxigênio para o ar. Tudo conectado, formando um grande sistema, igual aos mapas estelares que você deve gostar de ver!\n\nA fotossíntese é, portanto, o processo incrível pelo qual as plantas usam a energia solar, água e gás carbônico para produzir seu próprio alimento e liberar oxigênio. É como se elas fossem pequenas usinas de energia solar que não só se sustentam, mas também purificam o ar para nós. É uma das engrenagens mais importantes da vida na Terra, conectando o Sol, as plantas e todos os seres vivos em um ciclo perfeito! Incrível, não é?",
+      "conceitos_chave": [
+        "Plantas produzem seu próprio alimento (glicose)",
+        "Ingredientes (luz solar, água, gás carbônico) e produtos (glicose, oxigênio)",
+        "Importância da fotossíntese para a vida na Terra"
+      ],
+      "analogia_utilizada": "Plantas como \"cozinheiras solares\" ou \"fábricas de energia\" que usam a luz do Sol, água e gás carbônico como ingredientes para produzir seu próprio alimento e oxigênio, sendo a clorofila o \"chefe de cozinha verde\".",
+      "nivel_adequado": true
+    }
+  },
+  "fcef9a895558950bb11425cfcb6c8260": {
+    "aluno_id": "aluno_05",
+    "topico": "fotossíntese",
+    "tipo": "exemplos_praticos",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:39:08.094808",
+    "conteudo": {
+      "tipo": "exemplos_praticos",
+      "versao_prompt": "v1",
+      "exemplos": [
+        {
+          "titulo": "A Cozinha Solar da Folha",
+          "descricao": "Imagine a folha de uma planta como uma cozinha super equipada! Ela não usa fogão, mas sim a energia do sol. Os ingredientes principais que a planta \"compra\" são a água (pelas raízes) e o gás carbônico do ar (que entra por uns buraquinhos nas folhas, chamados estômatos). Dentro dessa cozinha, tem um \"chef\" verde chamado clorofila que usa a luz do sol para misturar tudo e \"cozinhar\" o seu próprio alimento: açúcares, que são a energia da planta. E como um \"brinde\" dessa receita, ela libera oxigênio, que é o ar que nós e os animais respiramos! É como se o sol fosse o forno, a água e o gás carbônico os ingredientes, e o chef clorofila, com sua cor verde, transformasse tudo em comida e oxigênio para nós. Um processo vital, como a energia das estrelas que sustenta nosso universo!",
+          "nivel": null,
+          "conexao_com_aluno": null
+        },
+        {
+          "titulo": "O Painel Solar Vivo do seu Quintal",
+          "descricao": "Pense nos painéis solares que vemos nos telhados, eles capturam a energia do sol para gerar eletricidade, certo? As plantas são como \"painéis solares vivos\" muito mais antigos e eficazes! Quando a luz do sol \"toca\" uma folha verde, é como se ligasse um interruptor. A folha, usando sua cor verde (clorofila), \"suga\" essa energia solar. Com ela, a planta consegue transformar a água que vem da terra e o gás carbônico do ar em \"combustível\" para ela mesma crescer, florescer e dar frutos. É como se cada folha fosse um minúsculo painel que converte a energia estelar (do Sol, nossa estrela mais próxima) em alimento e energia para toda a vida na Terra, assim como um atleta se abastece antes de uma grande competição!",
+          "nivel": null,
+          "conexao_com_aluno": null
+        },
+        {
+          "titulo": "A Reciclagem Mágica do Gás",
+          "descricao": "Sabe aquele gás carbônico que nós, os animais e os carros liberamos para a atmosfera quando respiramos ou queimamos algo? Para a gente, em excesso, não é bom. Mas para as plantas, é um ingrediente super importante! Imagine que elas são como grandes usinas de reciclagem. Elas \"pegam\" o gás carbônico do ar, usam a energia do sol e a água, e o transformam em duas coisas incríveis: açúcares (o alimento delas) e, o mais legal, oxigênio puro de novo, que é o que nós precisamos para viver! É um ciclo perfeito e estratégico, como um jogo de passes no esporte: o que um \"joga fora\", o outro usa para criar algo essencial. As plantas são as campeãs em manter o ar limpo para todos no nosso planeta, um trabalho histórico para a manutenção da vida!",
+          "nivel": null,
+          "conexao_com_aluno": null
+        }
+      ],
+      "estilo_aplicado": null
+    }
+  },
+  "59aad2865c1d4d0034f296314b75ed2b": {
+    "aluno_id": "aluno_05",
+    "topico": "fotossíntese",
+    "tipo": "exemplos_praticos",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:39:25.854365",
+    "conteudo": {
+      "tipo": "exemplos_praticos",
+      "versao_prompt": "v2",
+      "exemplos": [
+        {
+          "titulo": "O 'Painel Solar' das Plantas e a Estrela Mais Importante!",
+          "descricao": "Imagine nosso Sol, aquela estrela gigante e brilhante lá no céu, como a maior fonte de energia do nosso sistema solar. A fotossíntese é como se as plantas tivessem seus próprios 'painéis solares' nas folhas! Elas 'enxergam' a luz do Sol (você pode visualizar raios de luz amarela descendo do Sol até uma folha verde), capturam essa energia e, com a ajuda da água que pegam da terra e do gás carbônico que está no ar (pense em setas coloridas mostrando o CO2 entrando e a água subindo), elas produzem seu próprio alimento, um tipo de açúcar. Ao mesmo tempo, elas 'soltam' oxigênio, que é o ar que respiramos. É um ciclo que podemos desenhar: Sol → Luz → Planta (com setas para Água e CO2 entrando) → Açúcar (alimento) + Oxigênio (saindo).",
+          "nivel": "basico",
+          "conexao_com_aluno": "Este exemplo conecta a fotossíntese diretamente ao interesse de Rafael por astronomia, usando o Sol como peça central. A analogia com 'painéis solares' e a sugestão de visualizar raios de luz e setas coloridas atendem ao seu estilo de aprendizado visual e à sua necessidade de ver as relações entre os conceitos (Sol como fonte, planta como transformadora, produtos como resultado)."
+        },
+        {
+          "titulo": "Sua Planta Amiga na Janela: O Que Ela Faz Enquanto Você Estuda?",
+          "descricao": "Pense naquela plantinha que a sua mãe tem na janela da sala ou até aquela árvore grande que você vê do seu quarto. Enquanto você está em casa jogando videogame ou fazendo a lição de casa, essa planta está ocupada! Se o sol estiver batendo nela (imagine uma linha de luz clara vindo da janela e batendo nas folhas), a planta está absorvendo essa luz. Ela usa essa luz como 'combustível' para misturar a água que ela absorve pela raiz (como um canudinho puxando água da terra) e o gás que nós expiramos e que está no ar (gás carbônico). O resultado dessa 'receita secreta' é o alimento dela, que a faz crescer, e o oxigênio, que é o ar que nós respiramos. É como se ela tivesse uma pequena 'cozinha' nas folhas, onde tudo isso acontece, e podemos desenhar o processo em um ciclo simples: Sol + CO2 + Água → Planta → Alimento + O2.",
+          "nivel": "intermediario",
+          "conexao_com_aluno": "Este exemplo situa a fotossíntese em um ambiente familiar e cotidiano (a planta na janela ou a árvore vista do quarto), facilitando a identificação do aluno. A descrição de 'luz clara batendo nas folhas' e a analogia com uma 'cozinha secreta' e 'canudinho' são pensadas para o estilo de aprendizado visual e para a idade de Rafael, tornando o conceito mais concreto e fácil de visualizar."
+        },
+        {
+          "titulo": "A 'Fábrica de Vida' Que Alimenta o Planeta e Você!",
+          "descricao": "Você já parou para pensar de onde vem a maior parte da comida que comemos e o ar que respiramos? Tudo começa com a fotossíntese! Imagine campos gigantes de plantações, como milho, arroz ou trigo, esticando-se por quilômetros (você pode visualizar um mapa com grandes áreas verdes indicando plantações). Cada uma dessas plantas está fazendo fotossíntese, usando a luz do Sol, água e gás carbônico para produzir os grãos que nos alimentam. E não são só as plantações: todas as florestas, desde a Amazônia até o pequeno bosque perto da sua cidade, são 'fábricas de oxigênio' gigantes. O mundo inteiro parece respirar, e podemos imaginar um grande 'pulmão verde' no planeta, onde a entrada é gás carbônico e a saída é oxigênio e a comida para todos os seres vivos. É um sistema interligado que mantém a vida na Terra.",
+          "nivel": "aplicado",
+          "conexao_com_aluno": "Este exemplo mostra a relevância global da fotossíntese, conectando-a à produção de alimentos (que Rafael certamente consome) e ao oxigênio que ele respira. A ideia de 'campos gigantes de plantações', o 'mapa com áreas verdes' e o 'grande pulmão verde' do planeta são metáforas visuais poderosas que ajudam Rafael a ver as relações e a importância do conceito no mundo real em uma escala maior."
+        }
+      ],
+      "estilo_aplicado": "visual"
+    }
+  },
+  "3de42ef5486db0a02296630bf28ca20e": {
+    "aluno_id": "aluno_05",
+    "topico": "fotossíntese",
+    "tipo": "perguntas_reflexao",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:39:36.056630",
+    "conteudo": {
+      "tipo": "perguntas_reflexao",
+      "versao_prompt": "v1",
+      "perguntas": [
+        "Imagine que você é uma planta. Quais 'ingredientes' você precisaria do ambiente para criar seu próprio alimento (açúcar) e o que você liberaria para o ar depois desse processo?",
+        "Pensando nos animais (e em nós, humanos), como a fotossíntese feita pelas plantas na Terra nos ajuda a viver e respirar? Dê um exemplo prático de como essa relação é importante.",
+        "Se o nosso planeta recebesse muito menos luz do sol por um longo tempo – como se uma nuvem gigante cobrisse a Terra ou se o sol ficasse mais fraco – como você acha que isso afetaria a vida das plantas e, consequentemente, a sua própria vida?",
+        "As plantas retiram dióxido de carbono (CO2) do ar para fazer fotossíntese. Pensando nisso, qual seria o impacto global se houvesse uma diminuição drástica no número de plantas na Terra? Como isso se conectaria com o ar que respiramos e o clima do planeta?"
+      ]
+    }
+  },
+  "d61526ab91f43fb02c3b4d380fde481b": {
+    "aluno_id": "aluno_05",
+    "topico": "fotossíntese",
+    "tipo": "perguntas_reflexao",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:39:51.459502",
+    "conteudo": {
+      "tipo": "perguntas_reflexao",
+      "versao_prompt": "v2",
+      "perguntas": [
+        {
+          "numero": 1,
+          "nivel_cognitivo": "compreensão",
+          "pergunta": "Pensando na energia do Sol que chega à Terra, como as plantas usam essa energia para 'produzir' seu próprio alimento e o que elas liberam para o ar nesse processo tão importante para nós?",
+          "objetivo_pedagogico": "Verificar se o aluno entendeu o conceito básico da fotossíntese, seus elementos chave (energia solar, produção de alimento) e seu produto mais conhecido (oxigênio), conectando-o à sua relevância para a vida."
+        },
+        {
+          "numero": 2,
+          "nivel_cognitivo": "aplicação",
+          "pergunta": "Se uma equipe de astronautas fosse montar uma base em outro planeta, e eles quisessem ter plantas para produzir seu próprio alimento e oxigênio, quais seriam as condições essenciais que eles teriam que garantir nesse novo ambiente para que a fotossíntese pudesse acontecer?",
+          "objetivo_pedagogico": "Desenvolver a capacidade do aluno de aplicar o conhecimento sobre os requisitos da fotossíntese (luz, água, gás carbônico, nutrientes) em um cenário hipotético, demonstrando compreensão prática do processo."
+        },
+        {
+          "numero": 3,
+          "nivel_cognitivo": "análise",
+          "pergunta": "As árvores antigas que existiam milhões de anos atrás e as plantas de hoje fazem fotossíntese. De que forma o processo de fotossíntese, ao longo da história da Terra, transformou a atmosfera e possibilitou o surgimento e a evolução de tantas outras formas de vida, como os animais e até mesmo os humanos?",
+          "objetivo_pedagogico": "Estimular o aluno a analisar a importância da fotossíntese em uma perspectiva histórica e ecológica, compreendendo suas relações em larga escala com a formação da atmosfera terrestre e a evolução da vida."
+        },
+        {
+          "numero": 4,
+          "nivel_cognitivo": "síntese",
+          "pergunta": "Imagine que você é um inventor e precisa criar um 'super-painel' para uma futura estação espacial que seja capaz de capturar a luz solar e 'fabricar' oxigênio e alimento de forma muito eficiente, usando os princípios da fotossíntese. Quais seriam as 3 características mais importantes desse seu 'super-painel' e por que cada uma delas seria crucial para a sobrevivência dos astronautas?",
+          "objetivo_pedagogico": "Incentivar o aluno a sintetizar o conhecimento sobre fotossíntese em uma solução criativa para um problema hipotético, demonstrando inovação, pensamento crítico e compreensão aprofundada dos mecanismos do processo."
+        }
+      ]
+    }
+  },
+  "ed1cd6e39cf9ef86334a863a53443119": {
+    "aluno_id": "aluno_05",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao": "v1",
+    "cached_em": "2026-03-04T09:40:07.468468",
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v1",
+      "mapa_ascii": "FOTOSSÍNTESE\n├─ O QUE É?\n│  └─ A \"fábrica\" natural de alimento da planta\n│     └─ Processo que transforma energia da luz em energia química\n├─ ONDE ACONTECE?\n│  └─ Principalmente nas FOLHAS\n│     └─ Dentro de estruturas chamadas CLOROPLASTOS\n│        └─ Com a ajuda da CLOROFILA (pigmento verde que \"capta\" a luz, como um painel solar!)\n├─ O QUE ENTRA? (Os \"ingredientes\" da receita!)\n│  ├─ LUZ SOLAR (Energia essencial!)\n│  │  └─ Fonte de energia para iniciar todo o processo\n│  ├─ ÁGUA (H₂O)\n│  │  └─ Absorvida pelas RAÍZES da planta do solo\n│  └─ GÁS CARBÔNICO (CO₂)\n│     └─ Absorvido do AR pelas folhas (por pequenos \"poros\")\n├─ COMO ACONTECE? (O Processo - a \"mágica\" da planta!)\n│  └─ A Clorofila usa a energia da Luz Solar\n│     └─ Para \"quebrar\" e \"reorganizar\" a Água e o Gás Carbônico\n│        └─ É uma reação química complexa nos cloroplastos\n├─ O QUE SAI? (Os \"produtos\" prontos!)\n│  ├─ GLICOSE (C₆H₁₂O₆)\n│  │  └─ É o \"alimento\" da planta (um tipo de açúcar!)\n│  │     └─ Usada como ENERGIA para a planta crescer, se desenvolver e viver\n│  └─ OXIGÊNIO (O₂)\n│     └─ Liberado para o AR\n│        └─ ESSENCIAL para a respiração de praticamente todos os seres vivos, incluindo VOCÊ!\n└─ IMPORTÂNCIA para a VIDA na TERRA\n   ├─ Produz TODO o OXIGÊNIO que respiramos\n   ├─ É a BASE da CADEIA ALIMENTAR (plantas alimentam animais, que alimentam outros animais...)\n   └─ Ajuda a REDUZIR o GÁS CARBÔNICO na atmosfera (limpa o ar, como um filtro gigante!)",
+      "descricao": "Um mapa mental em ASCII que explica a fotossíntese de forma clara e visual para Rafael. Detalha os conceitos principais, o local de ocorrência, os \"ingredientes\" (entradas), o processo e os \"produtos\" (saídas), e sua importância vital para o planeta. Utiliza analogias e linguagem adequada à idade e ao estilo de aprendizado visual do aluno.",
+      "legenda": null,
+      "dica_de_uso": null,
+      "estilo_aplicado": null
+    }
+  },
+  "01cd90d9a0eb7037b4bae69e544e7685": {
+    "aluno_id": "aluno_05",
+    "topico": "fotossíntese",
+    "tipo": "resumo_visual",
+    "versao": "v2",
+    "cached_em": "2026-03-04T09:40:25.974370",
+    "conteudo": {
+      "tipo": "resumo_visual",
+      "versao_prompt": "v2",
+      "mapa_ascii": "FOTOSSÍNTESE ✨🌿☀️\n├─ O QUE É?\n│  ├─ Processo de criar alimento para plantas\n│  └─ Luz solar vira energia química (como uma bateria solar!)\n│     └─ ESSENCIAL para a vida na Terra (conexão com história da vida!)\n├─ INGREDIENTES (O que a planta USA)\n│  ├─ Água (H2O) 💧 - Absorvida pelas raízes\n│  └─ Gás Carbônico (CO2) 💨 - Do ar (o que respiramos e expiramos!)\n│     └─ E claro, a ENERGIA DO SOL! ☀️ (conexão com astronomia!)\n├─ PRODUTOS (O que a planta FAZ)\n│  ├─ Glicose (açúcar) 🍬 - Alimento/energia para a planta crescer\n│  └─ Oxigênio (O2) ✨ - Liberado no ar (O QUE RESPIRAMOS!)\n│     └─ Sem isso, não haveria vida animal como conhecemos! (base da vida!)\n└─ ONDE ACONTECE? (A \"Fábrica Verde\")\n   ├─ Principalmente nas FOLHAS 🍃\n   └─ Dentro das células: CLOROPLASTOS (pequenas usinas)\n      └─ Graças à CLOROFILA (pigmento verde que \"captura\" a luz)",
+      "descricao": "Este mapa mental visual foi criado especialmente para Rafael, explicando o processo de fotossíntese de maneira clara e interconectada. Ele detalha o que é a fotossíntese, quais ingredientes são necessários, os produtos gerados e onde todo esse processo fascinante acontece nas plantas, utilizando símbolos e uma estrutura que facilita a compreensão visual e a relação entre os conceitos.",
+      "legenda": "No centro, 'FOTOSSÍNTESE' é o tópico principal. Os ramos de Nível 1 ('O QUE É?', 'INGREDIENTES', 'PRODUTOS', 'ONDE ACONTECE?') representam os conceitos-chave. Abaixo deles, os Nível 2 detalham cada conceito com exemplos, e os Nível 3 (indicados com '└─') mostram conexões e a importância de cada parte, ajudando a ver como tudo se relaciona e se encaixa para formar o processo completo. Os símbolos (emojis) são elementos visuais para facilitar a memorização e o entendimento.",
+      "dica_de_uso": "Rafael, use este mapa como seu guia visual para entender a fotossíntese! Comece pelo centro e siga os ramos principais, tentando explicar cada parte em suas próprias palavras. Os símbolos (☀️🌿💧💨🍬✨🍃) são para te ajudar a memorizar e conectar as ideias, como se fossem ícones de um aplicativo. Tente desenhar o processo ou adicionar mais símbolos para coisas que te lembrem de astronomia (como a estrela para o Sol) ou esportes (como uma flecha para energia) para personalizar ainda mais o seu aprendizado!",
+      "estilo_aplicado": "visual"
+    }
+  }
+}

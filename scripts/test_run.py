@@ -1,10 +1,13 @@
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from src.generator import gerar
 import json
 
-
 tipos = [
     "explicacao_conceitual",
-    "exemplos_praticos", 
+    "exemplos_praticos",
     "perguntas_reflexao",
     "resumo_visual"
 ]
