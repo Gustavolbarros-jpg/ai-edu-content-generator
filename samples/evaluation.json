@@ -7,21 +7,21 @@
       "v1": {
         "adequacao_linguagem": 5,
         "clareza_pedagogica": 5,
-        "personalizacao": 5,
-        "riqueza_conteudo": 4,
+        "personalizacao": 4,
+        "riqueza_conteudo": 5,
         "media": 4.75,
-        "justificativa": "O conteúdo possui uma linguagem super acessível e cativante, com uma progressão didática clara e analogias que conectam de forma equilibrada aos interesses do aluno."
+        "justificativa": "O conteúdo possui uma linguagem excelente e estrutura clara, com analogias visuais eficazes. A personalização é boa, mas poderia integrar os interesses de forma mais consistente."
       },
       "v2": {
         "adequacao_linguagem": 5,
         "clareza_pedagogica": 5,
-        "personalizacao": 4,
-        "riqueza_conteudo": 4,
-        "media": 4.5,
-        "justificativa": "A estrutura com subtítulos é excelente para o estilo visual, e a analogia de crafting é muito bem explorada, embora a personalização tenha focado predominantemente em videogames."
+        "personalizacao": 5,
+        "riqueza_conteudo": 5,
+        "media": 5.0,
+        "justificativa": "Este conteúdo se destaca pela linguagem e clareza impecáveis, além de uma personalização excepcional, usando consistentemente os interesses do aluno (videogames) em analogias fortes e visuais."
       },
-      "vencedor": "v1",
-      "ganho_percentual": 5.56
+      "vencedor": "v2",
+      "ganho_percentual": 5.26
     }
   },
   {
@@ -30,12 +30,12 @@
     "tipo": "exemplos_praticos",
     "avaliacao": {
       "v1": {
-        "adequacao_linguagem": 4,
+        "adequacao_linguagem": 5,
         "clareza_pedagogica": 4,
         "personalizacao": 4,
-        "riqueza_conteudo": 4,
+        "riqueza_conteudo": 3,
         "media": 4.0,
-        "justificativa": "O Conteúdo V1 utiliza uma linguagem adequada e metáforas criativas que tocam nos interesses do aluno, apresentando o tema de forma clara. Contudo, a personalização e a progressão didática poderiam ser mais explícitas para o estilo de aprendizado visual."
+        "justificativa": "O conteúdo V1 utiliza linguagem e analogias muito adequadas à idade e interesses do aluno (futebol, videogames), com forte apelo visual. Contudo, faltou uma progressão clara entre os exemplos e uma maior profundidade no tema."
       },
       "v2": {
         "adequacao_linguagem": 5,
@@ -43,10 +43,10 @@
         "personalizacao": 5,
         "riqueza_conteudo": 5,
         "media": 5.0,
-        "justificativa": "O Conteúdo V2 é excepcional, personalizando a experiência ao aluno com endereçamento direto, integração inteligente dos interesses, estímulo explícito ao aprendizado visual e uma progressão didática clara e bem definida que enriquece a compreensão do tema."
+        "justificativa": "O conteúdo V2 se destaca pela clareza pedagógica com progressão explícita (básico, intermediário, aplicado) e personalização completa, utilizando todos os interesses e o estilo visual do aluno de forma justificada. A riqueza do conteúdo é superior, abordando termos chave e a importância ecológica da fotossíntese."
       },
       "vencedor": "v2",
-      "ganho_percentual": 25.0
+      "ganho_percentual": 25
     }
   },
   {
@@ -57,10 +57,10 @@
       "v1": {
         "adequacao_linguagem": 5,
         "clareza_pedagogica": 4,
-        "personalizacao": 2,
+        "personalizacao": 4,
         "riqueza_conteudo": 4,
-        "media": 3.75,
-        "justificativa": "O conteúdo V1 utiliza uma linguagem e tom adequados para a idade e nível do aluno, com uma progressão lógica dos conceitos. No entanto, a personalização é limitada, não explorando os interesses específicos do Lucas."
+        "media": 4.25,
+        "justificativa": "A linguagem é perfeitamente adequada para a idade e nível do aluno, utilizando analogias eficazes e incorporando seus interesses de forma razoável. No entanto, a estrutura pedagógica não possui uma progressão explícita de níveis cognitivos."
       },
       "v2": {
         "adequacao_linguagem": 5,
@@ -68,10 +68,10 @@
         "personalizacao": 5,
         "riqueza_conteudo": 5,
         "media": 5.0,
-        "justificativa": "O conteúdo V2 é excelente em todos os critérios, integrando magistralmente os interesses do aluno (desenho, videogames) e seu estilo de aprendizado visual, com uma estrutura pedagógica clara e progressiva que estimula diferentes níveis cognitivos."
+        "justificativa": "Este conteúdo se destaca pela excelência em todos os critérios, com linguagem envolvente e adequada, progressão pedagógica explícita usando níveis cognitivos, personalização profunda nos interesses do aluno e questões que estimulam reflexão de alta complexidade."
       },
       "vencedor": "v2",
-      "ganho_percentual": 33.33
+      "ganho_percentual": 17.65
     }
   },
   {
@@ -83,20 +83,20 @@
         "adequacao_linguagem": 5,
         "clareza_pedagogica": 5,
         "personalizacao": 4,
-        "riqueza_conteudo": 4,
-        "media": 4.5,
-        "justificativa": "O conteúdo V1 é muito claro e usa linguagem e comparações adequadas para a idade e interesses do Lucas, como videogames e futebol. Poderia ter explorado mais diretamente o interesse em desenho."
+        "riqueza_conteudo": 5,
+        "media": 4.75,
+        "justificativa": "A linguagem é excelente e o mapa ASCII é visualmente intuitivo, utilizando analogias concretas dos interesses do aluno para explicar a fotossíntese de forma completa e engajadora."
       },
       "v2": {
         "adequacao_linguagem": 5,
-        "clareza_pedagogica": 5,
-        "personalizacao": 5,
+        "clareza_pedagogica": 3,
+        "personalizacao": 4,
         "riqueza_conteudo": 4,
-        "media": 4.75,
-        "justificativa": "V2 se destaca pela clareza pedagógica ampliada por uma legenda e dicas de uso que guiam a interação, e por uma personalização superior ao incentivar diretamente o desenho, além das referências a futebol e videogames."
+        "media": 4.0,
+        "justificativa": "Apesar da linguagem adequada e uma `dica_de_uso` bem personalizada, a organização visual do mapa ASCII é confusa, prejudicando a clareza pedagógica e a profundidade do conteúdo é ligeiramente inferior."
       },
-      "vencedor": "v2",
-      "ganho_percentual": 5.56
+      "vencedor": "v1",
+      "ganho_percentual": 18.75
     }
   }
 ]
